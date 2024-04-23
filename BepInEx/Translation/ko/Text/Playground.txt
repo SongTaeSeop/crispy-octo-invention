@@ -1,0 +1,45 @@
+PLAYGROUND=PLAYGROUND
+
+SLEEPWALKING=불면증
+BALANCED BREAKFAST=균형있는 아침 식사
+TOTAL BRAT=장난꾸러기
+SUGAR OVERDOSE=설탕 중독
+CAROL INCARNATE=캐롤 그 자체
+
+SPLASH FEST=스플래시 페스트
+TACTICOOL=택티쿨
+WILD WEST=서부시대
+SUMMER DAYS=여름 날
+ANCIENT=고대
+INDUSTRIAL=공산품
+BLASTERS=블래스터
+NEON=네온
+POOL NIGHT=풀 나이트
+PIRATES=해적
+POWER=파워
+COLD WAR=냉전
+INSTANAP=인스타냅
+MELEE ONLY=근접전
+RECOMMENDED=추천
+DEFAULT SET=기본 세트
+TOURNAMENT=토너먼트
+Corporation=코퍼레이션
+DOUBLE AGENT=2명의 요원
+Explosives=폭발물
+FAIRYLAND=페어리랜드
+FESTIVE=축제
+GANGSTER=갱스터
+SPOOKY=공포
+JUNGLE WARFARE=정글 전쟁
+MOUNTAINS=마운틴
+SPACE RACE=우주 개발 경쟁
+
+1st=1등
+2nd=2등
+3rd=3등
+r:"^([0-9]{1,2})th$"=$1등
+RANK=순위
+SCORE=점수
+NAPS=잠든 횟수
+
+Shiny Gun=반짝반짝 총
