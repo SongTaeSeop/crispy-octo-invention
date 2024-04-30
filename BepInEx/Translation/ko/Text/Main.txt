@@ -1748,13 +1748,13 @@ I'll just go turn it back on myself.=그럼 제가 직접 가서 복구하죠 �
 Wait, you can't go there, I'll have to call security=멈추세요, 가시면 안 됩니다, 경비원을 부를 거에요
 Go ahead~~=그러시든지요~~
 
-//성-뒤의-전화부스
+//성-뒤의-전화부스-시리어스-샘의-듀크뉴켐포에버-이스터에그의-이스터에그
 Allo ? Who is it ?=여보세요 ? 누구시죠 ?
-Ah, it's you !=아, 너구나 !
-Yeah... I'm sorry I'm taking so long...=그래... 오래 걸려서 미안해...
-Yes, I know the blonde guy took forever and it wasn't great.=그래 맞아, 그 노랑 머리 남자는 정말 오래 걸리고 좋지도 않았어.
-Oh but trust me, it will be worth it !=오 그래도 내 말 믿어봐, 분명 가치 있을 거야 !
-Just wait a little longer.=조금만 더 기다려 줘.
+Ah, it's you !=아, 당신이군요 !
+Yeah... I'm sorry I'm taking so long...=네 맞아요... 오래 걸려서 미안해요...
+Yes, I know the blonde guy took forever and it wasn't great.=그래요, 그 노랑 머리 남자는 영원히 안 보였었고 결과도 안 좋았었죠.
+Oh but trust me, it will be worth it !=오 하지만 믿어주세요, 분명 기다릴만한 결과일 거에요 !
+Just wait a little longer.=조금만 더 기다려 주세요.
 
 //화산-트리톱
 Carol, while you were busy beating up dragons, Umbra has been spotted in the swamps, one of my contacts confirmed it.=캐롤, 드래곤을 때려잡는 동안, 제 연락망으로부터 움브라가 늪지대에서 발견되었다는 연락을 받았어요.
