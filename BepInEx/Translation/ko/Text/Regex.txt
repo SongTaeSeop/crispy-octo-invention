@@ -16,8 +16,7 @@ Orion=오리온
 Laser=레이저
 Rifle=라이플
 
-'Nade=유탄
-Sticky=접착
+
 Crayon=크레용
 K-Pr-1=K-Pr-1
 Jolly=졸리
@@ -104,4 +103,3 @@ SWEET=SWEET
 SWIFTNESS=SWIFTNESS
 JACKET=JACKET
 SPLASH=SPLASH
-

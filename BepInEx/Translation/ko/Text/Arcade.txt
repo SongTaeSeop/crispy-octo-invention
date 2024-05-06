@@ -14,16 +14,20 @@ PRESS A TO JOIN=A 키를 눌러서 참여
 SELECT A CHARACTER=SELECT A CHARACTER
 r:"^You put ([\w]+) to sleep$"=$1을(를) 잠들게 했습니다
 sr:"^You put ([\w]+) ([\w]+) to sleep$"=$1 $2을(를) 잠들게 했습니다
+r:"^You put ([\w,\s]+) to sleep$"=$1을(를) 잠들게 했습니다
 r:"^You put ([\w]+)  to sleep$"=$1을(를) 잠들게 했습니다
 sr:"^You put ([\w]+) ([\w]+)  to sleep$"=$1 $2을(를) 잠들게 했습니다
+r:"^You put ([\w,\s]+)  to sleep$"=$1을(를) 잠들게 했습니다
 r:"^([\w]+) put you to sleep$"=$1이(가) 당신을 잠재웠습니다
 sr:"^([\w]+) ([\w]+) put you to sleep$"=$1 $2이(가) 당신을 잠재웠습니다
+r:"^([\w,\s]+) put you to sleep$"=$1이(가) 당신을 잠재웠습니다
 r:"^([\w]+)  put you to sleep$"=$1이(가) 당신을 잠재웠습니다
 sr:"^([\w]+) ([\w]+)  put you to sleep$"=$1 $2이(가) 당신을 잠재웠습니다
 r:"^([\w,\s]+)  put you to sleep$"=$1이(가) 당신을 잠재웠습니다
+
 DMG DEALT=가한 피해량
 DMG TAKEN=맞은 피해량
-ROOKIE's DOME=ROOKIE'S DOME
+ROOKIE's DOME=ROOKIE's DOME
 Oh...Hello and welcome to Tough TV !=오...안녕 터프 TV에 온 것을 환영해 !
 Live from the Rookie's Dome=루키의 돔에서 생방송 중이야
 That is a lot of spectators for a training session=리허설치고는 관객이 많네
@@ -31,22 +35,22 @@ Well at least rookies are fun to laugh at....hehe...=뭐 적어도 루키들을 
 Today's match is going to be a BLAST=오늘 경기는 분명 최고일거야
 Big money, Big prizes, I love it.=큰 돈, 큰 상, 너무 좋아.
 Let's see how's today's challenger is going to do....hehe...=그럼 오늘 도전자의 활약을 보도록 해....히히...
-Pro Soaker MK.1=<size\=70>프로 소커 MK.1</size>
-Pro Soaker MK.2=<size\=70>프로 소커 MK.2</size>
-Pro Soaker MK.3=<size\=70>프로 소커 MK.3</size>
-Pro Zooka MK.1=<size\=70>프로 주카 MK.1</size>
-Pro Zooka MK.2=<size\=70>프로 주카 MK.2</size>
-Pro Zooka MK.3=<size\=70>프로 주카 MK.3</size>
-Pro Railgun MK.1=<size\=70>프로 레일건 MK.1</size>
-Pro Railgun MK.2=<size\=70>프로 레일건 MK.2</size>
-Pro Railgun MK.3=<size\=70>프로 레일건 MK.3</size>
-Pro Boomstick MK.1=<size\=70>프로 붐스틱 MK.1</size>
-Pro Boomstick MK.2=<size\=70>프로 붐스틱 MK.2</size>
-Pro Boomstick MK.3=<size\=70>프로 붐스틱 MK.3</size>
-Pro Toaster MK.1=<size\=70>프로 토스터 MK.1</size>
-Pro Toaster MK.2=<size\=70>프로 토스터 MK.2</size>
-Pro Toaster MK.3=<size\=70>프로 토스터 MK.3</size>
-Pro Nader MK.1=<size\=70>프로 내이더 MK.1</size>
+Pro Soaker MK.1=프로 소커 MK.1
+Pro Soaker MK.2=프로 소커 MK.2
+Pro Soaker MK.3=프로 소커 MK.3
+Pro Zooka MK.1=프로 주카 MK.1
+Pro Zooka MK.2=프로 주카 MK.2
+Pro Zooka MK.3=프로 주카 MK.3
+Pro Railgun MK.1=프로 레일건 MK.1
+Pro Railgun MK.2=프로 레일건 MK.2
+Pro Railgun MK.3=프로 레일건 MK.3
+Pro Boomstick MK.1=프로 붐스틱 MK.1
+Pro Boomstick MK.2=프로 붐스틱 MK.2
+Pro Boomstick MK.3=프로 붐스틱 MK.3
+Pro Toaster MK.1=프로 토스터 MK.1
+Pro Toaster MK.2=프로 토스터 MK.2
+Pro Toaster MK.3=프로 토스터 MK.3
+Pro Nader MK.1=프로 네이더 MK.1
 Electro Punch=일렉트로 펀치
 Shield Projector=실드 프로젝터
 Flak Bomb=플라크 폭탄
@@ -74,9 +78,8 @@ LET THE HUNT BEGIN !=LET THE HUNT BEGIN !
 THE HUNT IS OVER=THE HUNT IS OVER
 Defeat !=Defeat !
 DOWNED=쓰러진 횟수
-DAMAGE TAKEN=가한 피해량
-DAMAGE DEALT=맞은 피해량
-ELIMINATIONS=처치한 횟수
+DAMAGE TAKEN=맞은 피해량
+DAMAGE DEALT=가한 피해량
 Final Score:=최종 점수:
 RETRY=RETRY
 Victory !=Victory !
@@ -90,7 +93,7 @@ INCREASED ACCURACY, PROJECTILE SPEED AND FIRE RATE=정확도, 탄속, 연사 속
 BOOM SLIDER=BOOM SLIDER
 SLIDING INTO ENEMIES NOW CAUSE A EXPLOSION=적을 향해 슬라이드하면 폭발을 일으킴
 UNDOTAKER=UNDOTAKER
-INSTANTLY HEAL FROM A FATAL BLOW=치명타를 맞고 바로 회복함
+INSTANTLY HEAL FROM A FATAL BLOW=최후의 일격을 맞고 바로 회복
 SUGAR RUSH=SUGAR RUSH
 EXTRA HEALTH DOES NOT GO DOWN=추가 체력이 더 이상 내려가지 않음
 AMMO-MULE=AMMO-MULE
@@ -99,7 +102,7 @@ SUPER ARMOR=SUPER ARMOR
 FAIRY DUST=FAIRY DUST
 DODGE IN THE AIR TO DO A PIXIE DASH=공중에서 회피 버튼을 눌러 픽시 대시
 TORTI-BUBBLE=TORTI-BUBBLE
-STAND STILL TO SPAWN A BUBBLE SHIELD=가만히 서있으면 거품 실드가 생성됨
+STAND STILL TO SPAWN A BUBBLE SHIELD=가만히 서 있으면 거품 실드를 생성
 FULL HEAL=FULL HEAL
 BONUS POINTS=BONUS POINTS
 ERDBEERMOND=ERDBEERMOND
@@ -120,8 +123,8 @@ HIGH TENSION=HIGH TENSION
 You need to turn on the Power=전원을 켜야 합니다
 DEATH VALLEY=DEATH VALLEY
 Oh...Hello and welcome to THE UNDERWORLD=오... 안녕 언더월드에 온 것을 환영해
-Tonight match is going to be terrifying !=오늘 밤 경기는 무서워질거야 !
-I always knew we would end up here.=우리가 여기까지 올 줄 알았어요.
+Tonight match is going to be terrifying !=오늘 밤 경기는 끔찍할거야 !
+I always knew we would end up here.=우리가 여기까지 올 줄 알았지.
 Well now that we are here might as well have some fun !=뭐 그럼 온 김에 신나게 즐기자고 !
 Snowball=눈덩이
 +10 Snowball!=+10 눈덩이!
@@ -136,24 +139,24 @@ Uchimizu District=Uchimizu District
 SUMMER SLIME BLAST 4=SUMMER SLIME BLAST 4
 Scooter=스쿠터
 BIG BULLY INCOMING=거대한 불량배 출현
-r:"^Buy  for ([0-9]{1,4}) pearls$"=$1 펄로 구매
-sr:"^Buy ([\w\S]+) for ([0-9]{1,4}) pearls$"=$2 펄로 $1 을(를) 구매
-sr:"^Buy ([\w\S]+) ([\w\S]+) for ([0-9]{1,4}) pearls$"=$3 펄로 $1 $2 을(를) 구매
-sr:"^Buy ([\w\S]+) ([\w\S]+) ([\w\S]+) for ([0-9]{1,4}) pearls$"=$4 펄로 $1 $2 $3 을 구매
-r:"^Buy Imagination for ([0-9]{1,4}) pearls$"=$1 펄로 이매지내이션을 구매
-r:"^([0-9]{1,100}) pearls for a random Elixir$"=$1 펄로 랜덤 엘릭서 구매
-r:"^Buy Soap Water for ([0-9]{1,4}) pearls$"=$1 펄로 비눗물 구매
-r:"^Buy Energy for ([0-9]{1,4}) pearls$"=$1 펄로 에너지 구매
-r:"^Buy Foam Ammo for ([0-9]{1,4}) pearls$"=$1 펄로 발포탄 구매
-r:"^Buy Fireworks for ([0-9]{1,4}) pearls$"=$1 펄로 폭죽 구매
-r:"^Buy Soda for ([0-9]{1,4}) pearls$"=$1 펄로 소다 구매
+r:"^Buy  for ([0-9]{1,4}) pearls$"=$1펄로 구매
+sr:"^Buy ([\w\S]+) for ([0-9]{1,4}) pearls$"=$2 펄로 $1 구매
+sr:"^Buy ([\w\S]+) ([\w\S]+) for ([0-9]{1,4}) pearls$"=$3 펄로 $1 $2 구매
+sr:"^Buy ([\w\S]+) ([\w\S]+) ([\w\S]+) for ([0-9]{1,4}) pearls$"=$4 펄로 $1 $2 $3 구매
+r:"^Buy Imagination for ([0-9]{1,4}) pearls$"=$1펄로 상상 파편 구매
+r:"^([0-9]{1,100}) pearls for a random Elixir$"=$1펄로 랜덤 엘릭서 구매
+r:"^Buy Soap Water for ([0-9]{1,4}) pearls$"=$1펄로 비눗물 구매
+r:"^Buy Energy for ([0-9]{1,4}) pearls$"=$1펄로 에너지 구매
+r:"^Buy Foam Ammo for ([0-9]{1,4}) pearls$"=$1펄로 발포탄 구매
+r:"^Buy Fireworks for ([0-9]{1,4}) pearls$"=$1펄로 폭죽 구매
+r:"^Buy Soda for ([0-9]{1,4}) pearls$"=$1펄로 소다 구매
 r:"^Buy Heal for ([0-9]{1,4}) pearls$"= $1펄로 회복 구매
-r:"^([0-9]{1,4}) pearls to open$"=$1 펄로 열기
-r:"^Buy BACK SHIELD for ([0-9]{1,4}) pearls$"=$1 펄로 후방 실드 구매
-r:"^([0-9]{1,4}) pearls for a random weapon$"=$1 펄로 랜덤 무기 구매
-r:"^([0-9]{1,4}) pearls to upgrade your weapon $"=$1 펄로 무기 업그레이드
-r:"^([0-9]{1,4}) pearls to upgrade your weapon$"=$1 펄로 무기 업그레이드
-r:"^([0-9]{1,4}) pearls to activate the generator$"=$1 펄로 생성기 작동
+r:"^([0-9]{1,4}) pearls to open$"=$1펄로 열기
+r:"^Buy BACK SHIELD for ([0-9]{1,4}) pearls$"=$1펄로 후방 실드 구매
+r:"^([0-9]{1,4}) pearls for a random weapon$"=$1펄로 랜덤 무기 구매
+r:"^([0-9]{1,4}) pearls to upgrade your weapon $"=$1펄로 무기 업그레이드
+r:"^([0-9]{1,4}) pearls to upgrade your weapon$"=$1펄로 무기 업그레이드
+r:"^([0-9]{1,4}) pearls to activate the generator$"=$1펄로 발전기 작동
 r:"^([0-9]{1,4}) pearls to Activate TRAP$"=$1펄로 함정 작동
 r:"^([0-9]{1,4}) Pearls to use the Teleporter$"=$1펄로 텔레포터 사용
 r:"^([0-9]{1,4}) pearls to use the Teleporter$"=$1펄로 텔레포터 사용
@@ -161,41 +164,41 @@ r:"^([0-9]{1,4}) pearls to call Nine to help$"=$1펄로 나인에게 도움 요�
 r:"^Buy Inflatable Mine for ([0-9]{1,4}) pearls$"=$1펄로 풍선 지뢰 구매
 r:"^Buy Fizz'Nade for ([0-9]{1,4}) pearls$"=$1펄로 탄산 폭탄 구매
 r:"^Buy Water Balloon for ([0-9]{1,4}) pearls$"=$1펄로 물풍선 구매
-r:"^Buy Firecrackers for ([0-9]{1,4}) pearls$"=$1 펄로 다발폭죽 구매
-r:"^Buy Icicle Launcher for ([0-9]{1,4}) pearls$"=$1 펄로 고드름 발사기 구매
-r:"^Buy La Duchesse for ([0-9]{1,4}) pearls$"=$1 펄로 라 두체스 구매
-r:"^Buy Wispfire Perfume for ([0-9]{1,4}) pearls$"=$1 펄로 도깨비불 향수 구매
-r:"^Buy Perfume Bomb for ([0-9]{1,4}) pearls$"=$1 펄로 향수 폭탄 구매
-r:"^Buy Elven Pencil Thrower for ([0-9]{1,4}) pearls$"=$1 펄로 엘프 연필 발사기 구매
-r:"^Buy Sparkle Mortar for ([0-9]{1,4}) pearls$"=$1 펄로 반짝반짝 박격포 구매
-r:"^Buy Goop-O-Matic for ([0-9]{1,4}) pearls$"=$1 펄로 끈적끈적 마커 구매
-r:"^Buy Cotton Candy for ([0-9]{1,4}) pearls$"=$1 펄로 솜사탕 구매
-r:"^Buy Rolly Bomb for ([0-9]{1,4}) pearls$"=$1 펄로 데굴데굴 폭탄 구매
-r:"^Buy Soapy Hues for ([0-9]{1,4}) pearls$"=$1 펄로 소피 휴즈 구매
-r:"^Buy Pool Sweeper for ([0-9]{1,4}) pearls$"=$1 펄로 풀 스위퍼 구매
-r:"^Buy Hotkiss Bonet Merci for ([0-9]{1,4}) pearls$"=$1 펄로 핫키스 베넷 메르시에 구매
-r:"^Buy Deck Clearer for ([0-9]{1,4}) pearls$"=$1 펄로 덱 클리어러 구매
-r:"^Buy The Huntresses for ([0-9]{1,4}) pearls$"=$1 펄로 더 헌트레스 구매
-r:"^Buy Cold Thumper for ([0-9]{1,4}) pearls$"=$1 펄로 콜드 썸퍼 구매
-r:"^Buy Laptop Gun for ([0-9]{1,4}) pearls$"=$1 펄로 랩톱 건 구매
-r:"^Buy Precision Boom Device for ([0-9]{1,4}) pearls$"=$1 펄로 정밀 폭탄 장치 구매
-r:"^Buy Vrill Torpedo for ([0-9]{1,4}) pearls$"=$1 펄로 브릴 어뢰 구매
-r:"^Buy Hot Typhon for ([0-9]{1,4}) pearls$"=$1 펄로 핫 타이폰 구매
-r:"^Buy Dual Splashers for ([0-9]{1,4}) pearls$"=$1 펄로 듀얼 스플래셔 구매
-r:"^Buy Bunny Bungah for ([0-9]{1,4}) pearls$"=$1 펄로 버니 번가 구매
-r:"^Buy Sticky Bomb for ([0-9]{1,4}) pearls$"=$1 펄로 접착 폭탄 구매
-r:"^Buy Ballpoint Inker for ([0-9]{1,4}) pearls$"=$1 펄로 볼펜 총 구매
-r:"^Buy Bubbler Blower for ([0-9]{1,4}) pearls$"=$1 펄로 버블러 블로어 구매
-r:"^Buy Power washer for ([0-9]{1,4}) pearls$"=$1 펄로 고압 세척기 구매
-r:"^Buy Heavy Firework Repeater for ([0-9]{1,4}) pearls$"=$1 펄로 헤비 폭죽 리피터 구매
-r:"^Buy Heavy Machine Gun for ([0-9]{1,4}) pearls$"=$1 펄로 헤비 머신 건 구매
-r:"^Buy 'Tickler' Chaingun for ([0-9]{1,4}) pearls$"=$1 펄로 '티클러' 체인건 구매
-r:"^Buy Super Dragon for ([0-9]{1,4}) pearls$"=$1 펄로 슈퍼 드래곤 구매
-r:"^Buy Raygun Carbine for ([0-9]{1,4}) pearls$"=$1 펄로 레이건 카빈 구매
-r:"^Buy The Shock Value for ([0-9]{1,4}) pearls$"=$1 펄로 더 쇼크 밸류 구매
-r:"^Buy Krabb for ([0-9]{1,4}) pearls$"=$1 펄로 크랩 구매
+r:"^Buy Firecrackers for ([0-9]{1,4}) pearls$"=$1펄로 다발폭죽 구매
+r:"^Buy Icicle Launcher for ([0-9]{1,4}) pearls$"=$1펄로 고드름 발사기 구매
+r:"^Buy La Duchesse for ([0-9]{1,4}) pearls$"=$1펄로 라 두체스 구매
+r:"^Buy Wispfire Perfume for ([0-9]{1,4}) pearls$"=$1펄로 도깨비불 향수 구매
+r:"^Buy Perfume Bomb for ([0-9]{1,4}) pearls$"=$1펄로 향수 폭탄 구매
+r:"^Buy Elven Pencil Thrower for ([0-9]{1,4}) pearls$"=$1펄로 엘프 연필 발사기 구매
+r:"^Buy Sparkle Mortar for ([0-9]{1,4}) pearls$"=$1펄로 반짝반짝 박격포 구매
+r:"^Buy Goop-O-Matic for ([0-9]{1,4}) pearls$"=$1펄로 끈적끈적 마커 구매
+r:"^Buy Cotton Candy for ([0-9]{1,4}) pearls$"=$1펄로 솜사탕 구매
+r:"^Buy Rolly Bomb for ([0-9]{1,4}) pearls$"=$1펄로 데굴데굴 폭탄 구매
+r:"^Buy Soapy Hues for ([0-9]{1,4}) pearls$"=$1펄로 소피 휴즈 구매
+r:"^Buy Pool Sweeper for ([0-9]{1,4}) pearls$"=$1펄로 풀 스위퍼 구매
+r:"^Buy Hotkiss Bonet Merci for ([0-9]{1,4}) pearls$"=$1펄로 핫키스 베넷 메르시에 구매
+r:"^Buy Deck Clearer for ([0-9]{1,4}) pearls$"=$1펄로 덱 클리어러 구매
+r:"^Buy The Huntresses for ([0-9]{1,4}) pearls$"=$1펄로 더 헌트레스 구매
+r:"^Buy Cold Thumper for ([0-9]{1,4}) pearls$"=$1펄로 콜드 썸퍼 구매
+r:"^Buy Laptop Gun for ([0-9]{1,4}) pearls$"=$1펄로 랩톱 건 구매
+r:"^Buy Precision Boom Device for ([0-9]{1,4}) pearls$"=$1펄로 정밀 폭탄 장치 구매
+r:"^Buy Vrill Torpedo for ([0-9]{1,4}) pearls$"=$1펄로 브릴 어뢰 구매
+r:"^Buy Hot Typhon for ([0-9]{1,4}) pearls$"=$1펄로 핫 타이폰 구매
+r:"^Buy Dual Splashers for ([0-9]{1,4}) pearls$"=$1펄로 듀얼 스플래셔 구매
+r:"^Buy Bunny Bungah for ([0-9]{1,4}) pearls$"=$1펄로 버니 번가 구매
+r:"^Buy Sticky Bomb for ([0-9]{1,4}) pearls$"=$1펄로 접착 폭탄 구매
+r:"^Buy Ballpoint Inker for ([0-9]{1,4}) pearls$"=$1펄로 볼펜 총 구매
+r:"^Buy Bubbler Blower for ([0-9]{1,4}) pearls$"=$1펄로 버블러 블로어 구매
+r:"^Buy Power washer for ([0-9]{1,4}) pearls$"=$1펄로 고압 세척기 구매
+r:"^Buy Heavy Firework Repeater for ([0-9]{1,4}) pearls$"=$1펄로 헤비 폭죽 리피터 구매
+r:"^Buy Heavy Machine Gun for ([0-9]{1,4}) pearls$"=$1펄로 헤비 머신 건 구매
+r:"^Buy 'Tickler' Chaingun for ([0-9]{1,4}) pearls$"=$1펄로 '티클러' 체인건 구매
+r:"^Buy Super Dragon for ([0-9]{1,4}) pearls$"=$1펄로 슈퍼 드래곤 구매
+r:"^Buy Raygun Carbine for ([0-9]{1,4}) pearls$"=$1펄로 레이건 카빈 구매
+r:"^Buy The Shock Value for ([0-9]{1,4}) pearls$"=$1펄로 더 쇼크 밸류 구매
+r:"^Buy Krabb for ([0-9]{1,4}) pearls$"=$1펄로 크랩 구매
 
-Malum Cucurbita=<size\=90>말룸 쿠쿠르비타</size>
+Malum Cucurbita=<size\=90>말룸 쿠쿠르비타
 r:"^\+([0-9]{1,2}) Malum Cucurbita!$"=+$1 말룸 쿠쿠르비타!
 Lux Sphaera=럭스 스패라
 r:"^\+([0-9]{1,2}) Lux Sphaera!$"=+$1 럭스 스패라!
@@ -203,11 +206,11 @@ Perros Guirec=페로스 기레크
  Perros Guirec=페로스 기레크
 r:"^\+([0-9]{1,2})  Perros Guirec!$"=+$1 페로스 기레크!
 r:"^\+([0-9]{1,2}) Perros Guirec!$"=+$1 페로스 기레크!
-Vitibus Spiculum=<size\=90>비티부스 스피쿨룸</size>
+Vitibus Spiculum=<size\=90>비티부스 스피쿨룸
 r:"^\+([0-9]{1,2}) Vitibus Spiculum!$"=+$1 비티부스 스피쿨룸!
 Abra Isekai=아브라 이세카이
 r:"^\+([0-9]{1,2}) Abra Isekai!$"=+$1 아브라 이세카이!
-Spectrum Invokum=<size\=90>스펙트럼 인보쿰 </size>
+Spectrum Invokum=<size\=90>스펙트럼 인보쿰 
 r:"^\+([0-9]{1,2}) Spectrum Invokum!$"=+$1 스펙트럼 인보쿰!
 Volare Natare=볼라레 나타레
 r:"^\+([0-9]{1,2}) Volare Natare!$"=+$1 볼라레 나타레!
@@ -217,13 +220,13 @@ Magnus Saltus=마그누스 살투스
 r:"^\+([0-9]{1,2}) Magnus Saltus!$"=+$1 마그누스 살투스!
 Nonoss Invokum=노노스 인보쿰
 r:"^\+([0-9]{1,2}) Nonoss Invokum!$"=+$1 노노스 인보쿰!
-Exponentia Sanguinis=<size\=90>익스포넨시아 상기니스</size>
+Exponentia Sanguinis=<size\=90>익스포넨시아 상기니스
 r:"^\+([0-9]{1,2}) Exponentia Sanguinis!$"=+$1 익스포넨시아 상기니스!
 Minima Persona=미니마 페르소나
 r:"^\+([0-9]{1,2}) Minima Persona!$"=+$1 미니마 페르소나!
 Ignis Badaboum=이그니스 바다붐
 r:"^\+([0-9]{1,2}) Ignis Badaboum!$"=+$1 이그니스 바다붐!
-Atchoum Fluctus=<size\=90>애첨 플루투스</size>
+Atchoum Fluctus=<size\=90>애첨 플루투스
 r:"^\+([0-9]{1,2}) Atchoum Fluctus!$"=+$1 애첨 플루투스!
 BroomStick=부룸스틱
 Defeat school Bullies=학교 불량 학생들을 해치워라
@@ -238,6 +241,7 @@ Buy BOOM SLIDER for 1600 pearls=1600펄로 BOOM SLIDER 구매
 Gear up !=꽉 잡아 !
 Find your school supplies=학용품을 찾아라
 You put Lutin  to sleep=루틴을 잠들게 했습니다
+You put Lutin to sleep=루틴을 잠들게 했습니다
 Lutin  put you to sleep=루틴이 당신을 잠재웠습니다
 Lutin put you to sleep=루틴이 당신을 잠재웠습니다
 Defeat other students=다른 학생을 쓰러뜨려라
@@ -317,7 +321,6 @@ Show Prince Blueberry around !=블루베리 왕자에게 학교를 소개해라 
 Royal Visit=행차
 Push the Cart !=카트를 밀어라 !
 Push the Cauldron to the Exit=가마솥을 출구까지 밀어라
-Goblinism=고블리니즘
 Gotta Catch Em All=전부 잡고 말겠어
 Turf War, again=영역 배틀, 한 번 더
 The Reapening !=수확의 시간 !

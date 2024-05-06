@@ -717,7 +717,6 @@ You got the Schaumpistole 9 !=샤움피스톨레 9을 손에 넣었다 !
 Jolly Launcher=졸리 발사기
 
 You got the Jolly Launcher=졸리 발사기를 손에 넣었다 !
-
 Harpoon=작살
 
 You got the Harpoon !=작살을 손에 넣었다 !
@@ -842,8 +841,10 @@ XPML SonicBoom=XPML 소닉붐
 
 You got the XPML SonicBoom !=XPML 소닉붐을 손에 넣었다 !
 Widow 's kiss=과부의 키스
+Widow's kiss=과부의 키스
 
 You got the Widow 's kiss !=과부의 키스를 손에 넣었다 !
+You got the Widow's kiss !=과부의 키스를 손에 넣었다 !
 
 //가젯
 Fruity Bomb=과일 폭탄
@@ -1484,7 +1485,7 @@ Anyway take a look, i got plenty of stuff=아무튼 둘러봐, 이것저것 팔�
 //크로마폴-마을
 Charles=찰스
 Thanks for the key! ..But, I found a spare in my pocket. I'm so clumsy..! Haha!=열쇠를 찾아줘서 고마워! ..그런데, 비상용 열쇠가 주머니에 있더라고. 나도 참 덜렁이야..! 하하!
-No problem... Grrbllll..=별말씀을요... 그르르...
+No problem... Grrbllll..=천만에... 그르르...
 Kactie=캐티
 I got a little garden, gardening is relaxing!=저는 작은 정원을 갖고 있어요, 정원 가꾸기는 마음에 안정을 주죠!
 Ewww vegetables are gross!=으윽 채소는 역겨워
