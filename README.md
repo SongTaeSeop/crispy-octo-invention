@@ -14,7 +14,7 @@ https://docs.google.com/document/u/0/d/1L56IfIR4mbk2aYTtCX4o5jQtxiITPK-89noELGai
 
 ## 1. 한글 패치 준비물
 
-* Onirism 게임 (현재 2024/3/2 Playground 업데이트 내용까지 번역)
+* Onirism 게임
 * BeplnEx_x64 5.4.21: https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21
 * XUnity.AutoTranslator-BeplnEx-5.2.0: https://github.com/bbepis/XUnity.AutoTranslator/releases/tag/v5.2.0
 * 한글패치가 들어있는 BeplnEx 폴더
