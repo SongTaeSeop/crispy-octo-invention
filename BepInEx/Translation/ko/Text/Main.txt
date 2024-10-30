@@ -99,9 +99,8 @@ Hairdryer shots now freeze enemies=드라이기 샷이 이제 적을 얼립니�
 Elixirs provide temporary buffs to you, they take a Gadget slot=엘릭서는 일시적인 버프를 제공합니다. 엘릭서는 가젯 슬롯을 차지합니다
 jump after a slide to do a high jump=슬라이드한 뒤 점프를 하면 높이 뛰기를 합니다
 
-r:"PRESS (\[\S+\]) TO USE"=$1 키를 눌러 사용
-r:"PRESS (\[\S+\]) TO TALK"=$1 키를 눌러 대화
-25 pearls for a random Elixir=25 펄로 랜덤 엘릭서 구매
+r:"^PRESS (\[\S+\]) TO USE$"=$1 키를 눌러 사용
+r:"^PRESS (\[\S+\]) TO TALK$"=$1 키를 눌러 대화
 Use Elixir=엘릭서 사용
 Gadget Ability 2=가젯 능력 2
 Gadget Ability 1=가젯 능력 1
@@ -111,7 +110,6 @@ YOU ARE BEING SAVED=도움을 받는 중
 Regen Elixir=회복 엘릭서
 Heal 40hp + 4 Hp every second for 20 seconds=40 HP를 회복 + 20초 동안 매 초 4 씩 회복
 Heal 10hp + 2 Hp every second for 20 seconds=10 HP를 회복 + 20초 동안 매 초 2 씩 회복
-Though'nough Elixir=튼튼 엘릭서
 Tough'nough Elixir=튼튼 엘릭서
 Take 80% less Damage for 30 seconds=30초 동안 80% 더 적은 피해를 받음
 Berserk Elixir=버서커 엘릭서
@@ -127,18 +125,7 @@ Increase Movement Speed by 75% and Stamina for 20 seconds=20초 동안 이동 �
 Quickfix Elixir=응급처치 엘릭서
 Quickly heal 20 Hp=20 HP를 빠르게 회복
 
-Bubble Bracer=거품 브레이서
-Shoot out many bouncing bubbles=통통 튀는 거품들을 발사
-Meteor Bracer=메테오 브레이서
-Fire meteors that pull enemies in=적을 밀쳐내는 메테오들을 발사
-Shield Bracer=실드 브레이서
-Make a shield appear to repell projectiles=발사체를 튕겨내는 실드를 생성
-Phoenix Bracer=피닉스 브레이서
-Spit out a wall of flame, setting fire to targets=상대를 향해 불의 장벽을 발사
-Love Bracer=러브 브레이서
-Fire a life stealing projectile=HP를 흡수하는 발사체를 발사
-Frost Bracer=프로스트 브레이서
-Shoot a freezing orb that can block the path=경로를 막는 얼음 구슬을 발사
+
 
 Ooooh ! Thanks for your purchase ! Come back when you want !=오오! 구매해 주어서 감사합니다 ! 다음에 또 놀러오렴 !
 PRESS ANY KEY=PRESS ANY KEY
@@ -534,7 +521,7 @@ Fire a stream of lasers=레이저 광선을 발사합니다
 You got the Elven Lense Cannon !=엘프 렌즈 캐논을 손에 넣었다 !
 
 Peace Bringer R33=피스 브링어 R33
-
+m16Description=m16Description//오류?
 You got the Peace Bringer R33 !=피스 브링어 R33를 손에 넣었다 !
 Poopy Popper=푸피 파퍼
 Watch the tape kid !=이 테이프를 봐, 꼬마야 !
@@ -840,6 +827,18 @@ Widow's kiss=과부의 키스
 You got the Widow's kiss !=과부의 키스를 손에 넣었다 !
 
 //가젯
+Bubble Bracer=거품 브레이서
+Shoot out many bouncing bubbles=통통 튀는 거품들을 발사
+Meteor Bracer=메테오 브레이서
+Fire meteors that pull enemies in=적을 밀쳐내는 메테오들을 발사
+Shield Bracer=실드 브레이서
+Make a shield appear to repell projectiles=발사체를 튕겨내는 실드를 생성
+Phoenix Bracer=피닉스 브레이서
+Spit out a wall of flame, setting fire to targets=상대를 향해 불의 장벽을 발사
+Love Bracer=러브 브레이서
+Fire a life stealing projectile=HP를 흡수하는 발사체를 발사
+Frost Bracer=프로스트 브레이서
+Shoot a freezing orb that can block the path=경로를 막는 얼음 구슬을 발사
 Fruity Bomb=과일 폭탄
 A tasty explosive=맛있는 폭발물
 Flash Trinket=플래시 트링켓
@@ -915,8 +914,16 @@ deployable Turret emplacement=배치 가능한 포탑 좌석
 He's big and round, but got an explosive personality=크고 둥글지만, 폭발적인 성격을 가졌습니다
 Glitter Missile=반짝이 미사일
 Fly up into the air and come down on enemies, do not use indoor=하늘로 솟아서 적들에게 날아갑니다. 실내에서 사용 금지
-Jump Pack=점프 팩
+Jump Pack=점프 배낭
 Rocket boost, do not stay behind the user=로켓 부스트, 사용자 뒤에 있으면 위험합니다
+Care-a-Mail=카리-아-메일
+Care package drop=케어 패키지 드롭
+Minefield=지뢰밭
+Deploy a mine field, be careful not to trigger them yourself=지뢰를 뿌립니다. 밟지 않도록 주의하세요.
+Napalm Strike=네이팜 폭격
+Rain fire upon things you don't enjoy, like vegetables=좋아하지 않는 것들을 향해 불 폭격을 가합니다. 채소처럼요.
+Rocket Sentry=로켓 센트리
+Rocket launching sentry gun=로켓을 발사하는 센트리 건
 
 //의상
 Ladybug=무당벌레
@@ -1204,18 +1211,21 @@ Go on, don't be scared, spend your pearls !=그래, 떨지 말고, 펄을 쓰는
 Go on, don't be scared, spend your pearls...=그래, 떨지 말고, 펄을 쓰는거야...
 Thanks for your purchases !=구매해 주어서 감사합니다 !
 Very very nice choice !=정말 정말 현명한 선택입니다 !
+I'm warning you, no refunds !=경고하는데, 환불을 없어 !
 Good choice !=잘 골랐어 !
 Good choice.=잘 골랐어.
 I like clients like you=너 같은 손님이 참 좋아
 Ah ! Good choice !=아 ! 잘 골랐어 !
 Ah ! Good choice.=아 ! 잘 골랐어.
 Ah ! I love clients like you=아 ! 너 같은 손님이 정말 좋아
+Oh i'm sure you will make good use of it !=오, 너라면 분명 잘 쓸 수 있을거야!
 Aaaaah... I love clients like you...=아아... 너 같은 손님이 정말 좋아...
 Thanks to you, i can buy a new cauldron !=고마워, 새 가마솥을 살 수 있겠어 !
 You should buy some more thingies...=더 많은 것을 살 수 있단다...
 Hurry up, i don't have many left.=서둘러, 이제 재고가 얼마 없어.
 Ooooh Hurry up, i don't have many left.=오오 서둘러, 이제 재고가 얼마 없어.
 If you want more, don't worry ! I'll go get some more !=더 많이 원한다면 걱정 마 ! 재고를 더 준비할게 !
+I think i'm going to have to refill soon !=물건을 리필해야 겠어!
 Ah Nice look...=이야, 잘 어울려...
 Ooooh looks good on you. !=오오 잘 어울려!
 Ooooh looks good on you...=오오 잘 어울려...
@@ -1961,7 +1971,8 @@ C..r..l w..ere ..re y.u  ............. Con....xion ...... ..ery  b..d .....czzzt
 
 
 You're back again to buy some stuff ?=또 사러 온 거야 ?
-Klank Klank All those pearls in my box, mmmm i love money=짤랑 짤랑 모든 펄들이 내 상자 속에, 으으음 나는 돈이 좋아
+Klank Klank All those pearls in my box, mmmm i love money=짤랑 짤랑 모든 펄들이 내 상자 속에, 으음 나는 돈이 좋아
+Sup.=섭.
 Uuuuh i'm not sure this one works i use it to scratch my back=어어 그건 어디에 쓰는지 잘 몰라 나는 등 긁을 때 사용해
 Goodbye=안녕
 Ah !=아아 !//벤-인사
