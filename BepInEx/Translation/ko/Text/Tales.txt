@@ -27,37 +27,44 @@ CHROMA BOMB=CHROMA BOMB
 TOTAL REFILL=TOTAL REFILL
 DOUBLE DAMAGE=DOUBLE DAMAGE
 
-CORNBRIDGE, U.S.C=U.S.C 콘브릿지
-PLANET=행성
+//맵
+AREA-15=15 구역
 GLOOM LAKE=글룸 레이크
-Somewhere in the polar sea...=극해의 어딘가...
-Lecordier's Witchcraft Public School=레코르디아의 공립 마법 학교
-THRILL LAGOON=스릴 라군
-SPLASHBOULEVARD=스플래시 워터파크
-On Halloween Night...=핼러윈 밤...
-PARK ENTRY=공원 입구
-SURVIVAL=서바이벌
-Somewhere in the mountains...=산 중턱 어딘가...
-EPSILON FACILITY=입실론 공장
 HIGH TENSION=하이 텐션
-You need to turn on the Power=전원을 켜야 합니다
-DEATH VALLEY=데스 밸리
-Oh...Hello and welcome to THE UNDERWORLD=오... 안녕. 언더월드에 온 걸 환영해.
-Tonight match is going to be terrifying !=오늘 밤 경기는 끔찍할거야 !
-I always knew we would end up here.=우리가 여기까지 올 줄 알았지.
-Well now that we are here might as well have some fun !=뭐 그럼, 온 김에 신나게 즐기자고 !
+EPSILON FACILITY=입실론 공장
+FALLEN PEAKS=폴른 피크
+FROSTY PEAKS=서리가 내린 봉우리//파인우드서밋과동일
+A CHRISTMAS CAROL=크리스마스 캐롤
+NEW JOLLY CITY=뉴 졸리 시티
+CRUISE OF LIGHTS=크루즈 오브 라이트
+Somewhere in the polar sea...=극해의 어딘가...
+HIKARI NO SAITEN=히카리 노 사이텐
+Somewhere in the mountains...=산 중턱 어딘가...
+ACADEMY OF EVIL=악의 아카데미
+Lecordier's Witchcraft Public School=레코르디아의 공립 마법 학교
+CATASTROPHE OF THE MOON=달의 재앙
+CARNIVAL OF SHADOWS=카니발 오브 섀도
+On Halloween Night...=핼러윈 밤...
+MIDDLE SCHOOL OF THE DEAD=미들 스쿨 오브 더 데드
+CORNBRIDGE, U.S.C=U.S.C 콘브릿지
+SUMMER SLIME BLAST=SUMMER SLIME BLAST
+SURVIVAL=서바이벌
+SUMMER SLIME BLAST 2=SUMMER SLIME BLAST 2
+SPLASHBOULEVARD=스플래시 워터파크
+SUMMER SLIME BLAST 3=SUMMER SLIME BLAST 3
+THRILL LAGOON=스릴 라군
+SUMMER SLIME BLAST 4=SUMMER SLIME BLAST 4
+Uchimizu District=우치미주 구역
+PARK ENTRY=공원 입구
+
+JOLLYVILLE HARBOR=졸리빌리 하버
 
 Minako Yūrei=미나코 유레이
 SODA=소다
-Classic BB-11=클래식 BB-11
-NEW JOLLY CITY=뉴 졸리 시티
-A CHRISTMAS CAROL=크리스마스 캐롤
-Uchimizu District=우치미주 구역
-SUMMER SLIME BLAST 4=SUMMER SLIME BLAST 4
-Scooter=스쿠터
 BIG BULLY INCOMING=거대 불량배 출현
-
+You need to turn on the Power=전원을 켜야 합니다
 sr:"^Buy (.+) for ([0-9]{1,10}) pearls$"=$2펄로 $1 구매
+r:"^Buy  for ([0-9]{1,10}) pearls$"=$1펄로 구매
 r:"^([0-9]{1,10}) pearls for a random Elixir$"=$1펄로 랜덤 엘릭서 구매
 r:"^([0-9]{1,10}) pearls to open$"=$1펄로 열기
 r:"^([0-9]{1,10}) pearls for a random weapon$"=$1펄로 랜덤 무기 구매
@@ -72,7 +79,7 @@ Cotton Candy=솜사탕
 BACK SHIELD=후방 실드
 SPLASH JACKET=스플래시 재킷
 
-//Academy
+//악의-아카데미
 Defeat school Bullies=학교 불량 학생들을 해치워라
 Bad first day=불길한 첫 날
 You put Student  to sleep=학생을 잠들게 했습니다
@@ -158,3 +165,10 @@ Haunted halls=귀신 들린 홀
 To Hell with YOU=지옥까지 너와 함께
 Defeat the Matriarch=매트리아크를 쓰러뜨려라
 Matriarch=매트리아크
+
+//이건-모름
+DEATH VALLEY=데스 밸리
+Oh...Hello and welcome to THE UNDERWORLD=오... 안녕. 언더월드에 온 걸 환영해.
+Tonight match is going to be terrifying !=오늘 밤 경기는 끔찍할거야 !
+I always knew we would end up here.=우리가 여기까지 올 줄 알았지.
+Well now that we are here might as well have some fun !=뭐 그럼, 온 김에 신나게 즐기자고 !

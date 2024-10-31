@@ -1,14 +1,12 @@
-﻿ LOADING...=불러오는 중...
-
-
-r:"^You got the (.+) !$"=$1을(를) 손에 넣었다 !
-r:"^You got the (.+)!$"=$1을(를) 손에 넣었다 !
+﻿LOADING...=불러오는 중...
+r:"^You got the (.+) !$"=$1을(를) 손에 넣었다!
+r:"^You got the (.+)!$"=$1을(를) 손에 넣었다!
 
 //튜토리얼-영상
-Press [LeftMouseButton] to use your umbrella against enemies=[좌클릭]으로 우산을 사용해서 적을 공격할 수 있습니다
-Press [RightMouseButton] to switch to AIM=[우클릭]으로 조준 모드로 전환할 수 있습니다
-Press [F] to pick up Toys, Items and interact with characters=[F] 키로 장난감, 아이템을 줍거나 캐릭터들과 상호작용할 수 있습니다
-You can carry two Gadgets abilities, they can vary from throwable to utility !=최대 두 개의 가젯 능력을 가지고 다닐 수 있습니다. 가젯 능력은 투척 무기부터 마법 도구까지 다양합니다 !
+Press [LeftMouseButton] to use your umbrella against enemies=[좌클릭]으로 우산을 사용해서 적을 공격할 수 있습니다.
+Press [RightMouseButton] to switch to AIM=[우클릭]으로 조준 모드로 전환할 수 있습니다.
+Press [F] to pick up Toys, Items and interact with characters=[F] 키로 장난감, 아이템을 줍거나 캐릭터들과 상호작용할 수 있습니다.
+You can carry two Gadgets abilities, they can vary from throwable to utility !=최대 두 개의 가젯 능력을 가지고 다닐 수 있습니다. 가젯 능력은 투척 무기부터 마법 도구까지 다양합니다!
 This is a Save Station! Use it to save your progress!=이 곳은 저장 스테이션입니다! 저장 스테이션에서 진행 기록을 저장할 수 있습니다!
 Press [Shift] to perform a Slide and dodge enemy attacks=[Shift] 키를 눌러 슬라이드를 합니다. 슬라이드는 적의 공격을 피할 수 있습니다
 Hold [Shift] to Sprint=[Shift] 키를 길게 눌러 달릴 수 있습니다
@@ -18,33 +16,33 @@ Press [F] when there is nothing to interact with to perform a quick melee attack
 Press [Left Control] to Sneak around enemies=[왼쪽 Ctrl] 키로 앉고, 기어갈 수 있습니다. 기어가면 적들의 눈을 피할 수 있습니다
 Press the sneak button in the air to perform a dive, if you do it while aiming, you will go prone=공중에서 앉기 버튼을 누르면 다이브를 합니다. 조준 모드라면 다이브 대신 엎드리는 자세를 취합니다
 Press [R] to drink elixirs. Elixirs provide temporary buffs to you, they can be charged up by dealing damage,=[R] 키를 눌러 엘릭서를 마십니다. 엘릭서는 일시적인 버프를 제공하며, 적을 공격해 재 사용 게이지를 채울 수 있습니다.
-You got the Umbrella Charge !=우산 차지를 손에 넣었다 !
+You got the Umbrella Charge !=우산 차지를 손에 넣었다!
 Hold the Attack button to charge your melee strike, dealing more damage=공격 버튼을 길게 눌러 근접 공격을 충전합니다. 충전된 공격은 더 많은 피해를 줄 수 있습니다.
 You can now break Orange things=이제 주황색 물체를 부술 수 있습니다
 Hold the attack button to Charge your umbrella for a more powerful strike and break down special obstacles=공격 버튼을 길게 누르면 우산이 충전되면서 더 강력한 일격을 가하거나, 특수한 장애물을 부술 수 있습니다
-You got the Super Grip !!=슈퍼 그립을 손에 넣었다 !!
-jump on ladders to climb them, you can also hold on monkey bars !=사다리를 타고 올라갈 수 있습니다. 철봉에 매달릴 수도 있습니다 !
+You got the Super Grip !!=슈퍼 그립을 손에 넣었다!!
+jump on ladders to climb them, you can also hold on monkey bars !=사다리를 타고 올라갈 수 있습니다. 철봉에 매달릴 수도 있습니다!
 You can now hold on to yellow glowing ledges=이제 노란색으로 빛나는 절벽에 매달릴 수 있습니다
 you can now Climb ladders and monkey bars, you can also attach to glowing yellow ledges=이제 사다리를 타고 오르고, 철봉에 매달리거나, 빛나는 노란색 절벽에 매달릴 수 있습니다
 You can use the Laser Dryer charged shot to disrupt shields=레이저 드라이기 충전 샷으로 실드를 파괴할 수 있습니다
-You got the Phase module !=페이즈 모듈을 손에 넣었다 !
+You got the Phase module !=페이즈 모듈을 손에 넣었다!
 Hairdryer shots now go through enemies=드라이기 샷이 이제 적을 관통합니다
 these machines fully recharge your ammunition=이 머신은 부족한 모든 탄약을 제공합니다
-You got the Charge module !=충전 모듈을 손에 넣었다 !
+You got the Charge module !=충전 모듈을 손에 넣었다!
 Hold the Attack button to Charge your Hairdryer for a stronger shot=공격 버튼을 길게 누르면 드라이기가 충전되면서 더 강력한 샷을 날립니다
 You can now break Pink things=이제 분홍색 물체를 부술 수 있습니다
 Hold the attack button to Charge your Hairdryer for a more powerful shot and break down special obstacles=공격 버튼을 길게 누르면 드라이기가 충전되면서 더 강력한 샷을 날리고 특수한 장애물을 부술 수 있습니다
-You got the Pixie Dash!=픽시 대시를 손에 넣었다 !
-Press the dodge button in the air to perform a dash !=공중에서 회피 버튼을 누르면 대시를 합니다 !
+You got the Pixie Dash!=픽시 대시를 손에 넣었다!
+Press the dodge button in the air to perform a dash !=공중에서 회피 버튼을 누르면 대시를 합니다!
 Press [Shift] in the air to perform a Pixie Dash=공중에서 [Shift] 키를 누르면 픽시 대시를 합니다
-You got the Double Jump !=더블 점프를 손에 넣었다 !
-Press the jump button a second time to jump again !=공중에서 점프 버튼을 한 번 더 눌러서 더블 점프를 할 수 있습니다 !
+You got the Double Jump !=더블 점프를 손에 넣었다!
+Press the jump button a second time to jump again !=공중에서 점프 버튼을 한 번 더 눌러서 더블 점프를 할 수 있습니다!
 You can use the drill like a gadget, and you can pick it up to restart it=드릴은 가젯처럼 사용할 수 있습니다. 주우면 다시 사용할 수 있습니다
-You got the Sub Zero module !=서브 제로 모듈을 손에 넣었다 !
+You got the Sub Zero module !=서브 제로 모듈을 손에 넣었다!
 Hairdryer shots now freeze enemies=드라이기 샷이 이제 적을 얼립니다
 Elixirs provide temporary buffs to you, they take a Gadget slot=엘릭서는 일시적인 버프를 제공합니다. 엘릭서는 가젯 슬롯을 차지합니다
 jump after a slide to do a high jump=슬라이드한 뒤 점프를 하면 높이 뛰기를 합니다
-
+You found a Dreamstone !=드림스톤을 찾았다!
 r:"^PRESS (\[\S+\]) TO USE$"=$1 키를 눌러 사용
 r:"^PRESS (\[\S+\]) TO TALK$"=$1 키를 눌러 대화
 Use Elixir=엘릭서 사용
@@ -53,7 +51,7 @@ Gadget Ability 1=가젯 능력 1
 HELPING YOUR FRIEND...=친구를 도와주는 중...
 YOU ARE BEING SAVED=도움을 받는 중
 
-Ooooh ! Thanks for your purchase ! Come back when you want !=오오! 구매해 주어서 감사합니다 ! 다음에 또 놀러오렴 !
+Ooooh ! Thanks for your purchase ! Come back when you want !=오오! 구매해 주어서 감사합니다! 다음에 또 놀러오렴 !
 PRESS ANY KEY=PRESS ANY KEY
 STORY MODE=STORY MODE
 ARCADE=ARCADE
@@ -61,7 +59,6 @@ NEW !=NEW !
 EXIT GAME=EXIT GAME
 SETTINGS=SETTINGS
 WHAT's NEW ?=WHAT's NEW ?
-ACADEMY OF EVIL=ACADEMY OF EVIL
 GO BACK=GO BACK
 AUDIO=AUDIO
 CONTROLS=CONTROLS
@@ -165,39 +162,38 @@ PRESS ANY KEY \nFOR INPUT=입력에 사용할 \n키를 누르세요
 ESC. TO CANCEL=ESC 키로 취소
 ARE YOU SURE YOU WANT TO RESET THE CONTROLS TO DEFAULT ?=컨트롤을 기본값으로 초기화하나요?
 PRESS "A" TO JOIN="A"키를 눌러 참가
-PLAYER SELECTION=PLAYER SELECTION
-PRESS START TO LAUNCH=PRESS START TO LAUNCH
+PLAYER SELECTION=플레이어 선택
+PRESS START TO LAUNCH=시작 버튼을 눌러 시작
 READY !=READY !
 CO-OP=CO-OP
 ADVENTURE=ADVENTURE
 FOLLOW CAROL IN HER QUEST TO RESCUE BUNBUN=캐롤을 따라 번번을 구하는 모험을 떠나세요
 PLAY THE ADVENTURE WITH THE HELP OF FRIENDS=친구와 함께 협동 플레이
-FILE=FILE
-DIFFICULTY=DIFFICULTY
-GAME FILE=GAME FILE
-GAME TIME=GAME TIME
-INSOMNIAC=INSOMNIAC
-FILE 3=FILE 3
-STATS=STATS
-FILE SELECT=FILE SELECT
-ERASE SAVE=ERASE SAVE
-CONFIRM=CONFIRM
-WIDE AWAKE=WIDE AWAKE
+r:"FILE \d=파일 $1
+DIFFICULTY=난이도
+GAME FILE=게임 파일
+GAME TIME=플레이 시간
+STATS=스텟
+FILE SELECT=파일 선택
+ERASE SAVE=저장 지우기
+CONFIRM=확인
+
 
 COMBO=COMBO
 WAVE :=WAVE :
 OUT OF AMMO=탄약 부족
 OUT OF MANA=마나 부족
+IMAGINATION EMPTY=상상 비었음
 BOMBS=BOMBS
 HEALTH=HEALTH
 X=X
 x=x
 VILLAGE=VILLAGE
 HP=HP
-EXIT TO MENU=EXIT TO MENU
-LOAD LAST SAVE=LOAD LAST SAVE
-CONTINUE=CONTINUE
-PAUSE=PAUSE
+EXIT TO MENU=메뉴로 나가기
+LOAD LAST SAVE=마지막 저장 불러오기
+CONTINUE=이어하기
+PAUSE=일시정지
 
 HUNT=HUNT
 TALES=TALES
@@ -206,56 +202,32 @@ GO FOR THE HIGH-SCORE ALONE OR WITH FRIENDS IN THIS MONSTER HUNT=괴물 사냥�
 PLAY A VARIETY OF THEMED ADVENTURES SET IN MULTIPLE LOCATIONS=여러 장소에서 다양한 테마의 어드벤처를 플레이하세요
 FIGHT AGAINST YOUR FRIENDS IN FRANTIC BATTLES=광란의 전투 현장에서 친구와 경쟁하세요
 
-FALLEN PEAKS=폴른 피크
-CARNIVAL OF SHADOWS=카니발 오브 섀도
-CATASTROPHE OF THE MOON=카타스트로피 오브 더 문
-AREA-15=15 구역
 TIME=시간
-MIDDLE SCHOOL OF THE DEAD=미들 스쿨 오브 더 데드
-HIKARI NO SAITEN=히카리 노 사이텐
-CRUISE OF LIGHTS=크루즈 오브 라이트
-JOLLYVILLE HARBOR=졸리빌리 하버
 DIFFICULTY :=난이도 :
-MOMMY, I'M SLEEPY=MOMMY, I'M SLEEPY
-GAME FILE=GAME FILE
-V=V
-H=H
-M=M
-h=h
-m=m
-ARE YOU SURE ?!=확신합니까 ?!
-YUP !=넵 !
-NAH.=아님.
+MOMMY, I'M SLEEPY=엄마. 나 졸려요.
+NAP TIME=낮잠 시간
+WIDE AWAKE=와이드 어웨이크
+RESTLESS=쉴 틈 없음
+NIGHTMARE=악몽
+INSOMNIAC=인섬니악
+ARE YOU SURE ?!=확실합니까?!
+YUP !=넵!
+NAH.=아뇨.
 EMPTY=비었음
-NIGHTMARE=NIGHTMARE
-RESTLESS=RESTLESS
-NAP TIME=NAP TIME
 
-GAME FILE1=GAME FILE1
+r:"GAME FILE\d"=GAME FILE$1
 FILE 1=FILE 1
 FILE 2=FILE 2
-GAME FILE3=GAME FILE3
-GAME FILE2=GAME FILE2
-SEWERS ARENA=SEWERS ARENA
-HUNT TUTORIAL=HUNT TUTORIAL
-DOOMED COLISEUM=DOOMED COLISEUM
-SUNSET STADIUM=SUNSET STADIUM
-NEPTUNIA'S MARINA=NEPTUNIA'S MARINA
-SHANGRI-LA=SHANGRI-LA
-NORTHERN FRORC TEMPLE=NORTHERN FRORC TEMPLE
-PINEWOOD CIRCLE=PINEWOOD CIRCLE
-GREENHOUSE HIPPODROME=GREENHOUSE HIPPODROME
-SUMMER SLIME BLAST 2=SUMMER SLIME BLAST 2
-SUMMER SLIME BLAST=SUMMER SLIME BLAST
-SUMMER SLIME BLAST 3=SUMMER SLIME BLAST 3
-SHINING TREETOPS=SHINING TREETOPS
-POINTS=POINTS
-ROOFTOPS=ROOFTOPS
-CRIMSON KEEP=CRIMSON KEEP
-SKY TEMPLE=SKY TEMPLE
-HARVEST=HARVEST
-SPIRES=SPIRES
-SKYRAIL STATION=SKYRAIL STATION
+SHINING TREETOPS=샤이닝 트리톱
+POINTS=점수
+CRIMSON KEEP=크림슨 킵
+SKY TEMPLE=스카이 템플
+HARVEST=하베스트
+SPIRES=스파이어
+SKYRAIL STATION=스카이레일 스테이션
+CAVERNS=동굴
+RUINS OF THE ANCIENTS=고대의 유적
+
 VERY LOW=VERY LOW
 LOW=LOW
 MEDIUM=MEDIUM
@@ -263,12 +235,11 @@ HIGH=HIGH
 VERY HIGH=VERY HIGH
 ULTRA=ULTRA
 WINDOWED=창모드
-CAVERNS=CAVERNS
-RUINS OF THE ANCIENTS=RUINS OF THE ANCIENTS
+
  Right Alt = 오른쪽 Alt 
  Right Control = 오른쪽 Ctrl
 
-LOAD LAST CHECKPOINT=LOAD LAST CHECKPOINT
+LOAD LAST CHECKPOINT=마지막 체크포인트 불러오기
 BATTERY USAGE=BATTERY USAGE
 MAP=MAP
 OBJECTIVE=목표
@@ -281,27 +252,132 @@ MOST WANTED=지명 수배\nMOST WANTED
 CHAPTER=챕터
 PRESS ANY KEY TO CONTINUE=아무 키나 눌러 계속
 
-YOU GOT A SOAP WATER AMMO EXPANSION !=비눗물 탄약 확장 키트를 손에 넣었다 !
+YOU GOT A SOAP WATER AMMO EXPANSION !=비눗물 탄약 확장 키트를 손에 넣었다!
 Soap water capacity increased by 5=비눗물 탄약 소지량이 5 증가했다
-YOU GOT A FOAM BULLET AMMO EXPANSION !=발포탄 확장 키트를 손에 넣었다 !
+YOU GOT A FOAM BULLET AMMO EXPANSION !=발포탄 확장 키트를 손에 넣었다!
 Foam Bullet capacity increased by 5=발포탄 소지량이 5 증가했다
-YOU GOT AN ENERGY AMMO EXPANSION !=에너지 탄약 확장 키트를 손에 넣었다 !
+YOU GOT AN ENERGY AMMO EXPANSION !=에너지 탄약 확장 키트를 손에 넣었다!
 Energy capacity increased by 5=에너지 탄약 소지량이 5 증가했다
-YOU GOT A FIREWORK AMMO EXPANSION !=폭죽 확장 키트를 손에 넣었다 !
+YOU GOT A FIREWORK AMMO EXPANSION !=폭죽 확장 키트를 손에 넣었다!
 Fireworks capacity increased by 2=폭죽 소지량이 2 증가했다
-YOU GOT AN IMAGINATION CONTAINER !=상상력 컨테이너를 손에 넣었다 !
+YOU GOT AN IMAGINATION CONTAINER !=상상력 컨테이너를 손에 넣었다!
 Maximum Imagination capacity increased by 3=상상력의 최대치가 3 증가했다
-YOU GOT EXTRA HEALTH !=추가 체력을 손에 넣었다 !
+YOU GOT EXTRA HEALTH !=추가 체력을 손에 넣었다!
 Maximum health capacity increased by 5=체력의 최대치가 5 증가했다
-YOU GOT A BATTERY AMMO EXPANSION !=배터리 탄약 확장 키트를 손에 넣었다 !
+YOU GOT A BATTERY AMMO EXPANSION !=배터리 탄약 확장 키트를 손에 넣었다!
 Batteries capacity increased by 5=배터리 소지량이 5 증가했다
-YOU GOT A STAMINA EXPENSION !=스태미나 확장 키트를 손에 넣었다 !
+YOU GOT A STAMINA EXPENSION !=스태미나 확장 키트를 손에 넣었다!
 Maximum Stamina capacity increased by 10=스태미나의 최대치가 10 증가했다
 
+ALL=전체
+TOYBOX=장난감상자
+ACCESSORY=액세서리
+NO=아니오
+YES=예
 
+//래그즈
+Welcome to Ragg's store, here you can buy Toys, Items, Elixirs and outfits=래그즈 상점에 오신 것을 환영합니다. 상점에서 장난감, 아이템, 엘릭서, 의상을 살 수 있습니다.
+This is the Ragg's travel platform, you can move to other discovered shops using it !=래그즈의 여행 플랫폼입니다. 이제까지 발견한 다른 상점으로 바로 이동할 수 있습니다!
+This is the Toybox, you can use it to store Toys, Items and Elixirs !=장난감 상자입니다. 여기에 장난감, 아이템, 엘릭서를 저장할 수 있습니다!
+This is the Costumes Closet, Here you can change your outfits=코스튬 옷장입니다. 여기에서 옷을 갈아입을 수 있습니다.
+SHOP=상점
+SPECIAL OFFER !=한정 판매!
+MY ITEMS=내 아이템
+MY TOYS=내 장난감
+TOYS=장난감
+ITEMS=아이템
+ELIXIRS=엘릭서
+OUTFITS=의상
+Ragg's=래그즈
+r:"Always a pleasure to see you, Carol(.+)"=언제나 만나서 반갑구나, 캐롤$1
+r:"Hihi my pumpkin(.+)"=히히 내 호박$1
+Welcome to Ragg's !=래그즈에 어서와!
+Ha ha ! Welcome to my mobile shop !=하 하! 내 상점에 어서와!
+What can i do for you ?=무엇을 도와줄까?
+r:"Go on, don't be scared, spend your pearls(.+)"=그래, 떨지 말고, 펄을 쓰는거야$1
+Thanks for your purchases !=구매해 주어서 감사합니다!
+Very very nice choice !=정말 정말 현명한 선택입니다!
+I'm warning you, no refunds !=경고하는데, 환불을 없어!
+r:"Good choice(.+)"=잘 골랐어$1
+I like clients like you=너 같은 손님이 참 좋아
+r:"Ah! Good choice(.+)"=아! 잘 골랐어$1
+Ah ! I love clients like you=아 ! 너 같은 손님이 정말 좋아
+Oh i'm sure you will make good use of it !=오, 너라면 분명 잘 쓸 수 있을거야!
+Aaaaah... I love clients like you...=아아... 너 같은 손님이 정말 좋아...
+Thanks to you, i can buy a new cauldron !=고마워, 새 가마솥을 살 수 있겠어 !
+You should buy some more thingies...=너를 위해 준비했으니 꼭 사야해...
+Hurry up, i don't have many left.=서둘러, 이제 재고가 얼마 없어.
+Ooooh Hurry up, i don't have many left.=오오 서둘러, 이제 재고가 얼마 없어.
+If you want more, don't worry ! I'll go get some more !=더 많이 원한다면 걱정 마! 재고를 더 준비할게!
+I think i'm going to have to refill soon !=물건을 리필해야 겠어!
+Ah Nice look...=이야, 잘 어울려...
+Ooooh looks good on you. !=오오 잘 어울려!
+Ooooh looks good on you...=오오 잘 어울려...
+Oooh... I think you're broke...=오... 돈이 없나 보구나...
+Oooh i can't do much if you are out of pearls...=오 펄이 모자라면 내가 해줄 수 있는 게 없어...
+r:"Come back when you want my pumpkin(.+)"=다음에 또 놀러오렴, 내 호박$1
+r:"Come back when you have more pearls my pumpkin(.+)"=펄을 많이 갖고 있다면 또 놀러오렴, 내 호박$1
+Oooooh ! Thanks for your purchase ! Come back when you want !=오오! 구매해줘서 고마워! 다음에 또 놀러오렴!
+Ah ! You won't regret it !=아! 후회하지 않을 거야!
+Eh Hurry up, i don't have many left.=으, 서둘러. 이제 재고가 얼마 없어.
+Money equals pearls, pearls equasl money. Mmmmmm i love money=돈 이퀄 펄. 펄 이퀄 돈. 으으음 나는 돈이 좋아.
+//터프
+You're back again to buy some stuff ?=또 사러 온 거야 ?
+Klank Klank All those pearls in my box, mmmm i love money=짤랑 짤랑 모든 펄들이 내 상자 속에, 으음 나는 돈이 좋아
+Sup.=섭.
+Uuuuh i'm not sure this one works i use it to scratch my back=어어 그건 어디에 쓰는지 잘 몰라 나는 등 긁을 때 사용해
+Goodbye=안녕
+Ah !=아아 !//벤-인사
+Hihi.=히히.//막시그로-인사
+I'm warning ya, no refunds.=말해 두지만 환불은 없어.
+Go on, enjoy yourself !=잘 가, 잘 지내 !//벤-인사
+Ahah Patsy=아아 호구
+It's called the Tough Corner, not the Broke Corner.=여긴 터프 코너지 대출 코너가 아니야
+No you don't have enough pearls for that=안 돼 펄이 모자라잖아
+Oh ! Hello and welcome to THE Tough Corner=오 ! 안녕 터프 코너에 온 것을 환영해
+You don't have enough pearls=펄이 부족해
+You can't afford that !=그걸로는 모자라 !
+See you.=다음에 봐.
+You're back to buy some stuff ?=또 사러 온 거야 ?
+Hi.=안녕.
+Welcoooome=어서오세요오오
+The robot says, goodbye.=로봇이 말합니다, 안녕.
+Hello.=안녕.
+Oooh hello and welcome to T-he-he-he Tough Corner=오오 안녕하세요 터-터-터 터프 코너에 오신 것을 환영합니다
+Beep boop beep boop beep boooooop=삡 붑 삡 붑 삡 부우웁
 
-You found a Dreamstone !=드림스톤을 찾았다 !
+//맵
+CHROME FALLS=크로마 폴
+FAR LANDS=파 랜드
+RIVERSIDE=리버사이드
+GUMGUM SPEEDWAY=껌껌 스피드웨이
+EMILY'S BREWERY=에밀리 양조장
+INFERNO VALLEY=인페르노 밸리
+FIERY BRIDGE=불의 다리
+WINDY MEADOWS=바람부는 초원
+SHINING TREETOPS=샤이닝 트리톱
+NATIVE GATE=네이티브 게이트
+HONEY SEWERS=꿀 하수도
+TORTIBOBBLE SWAMPS=토르티보블 늪지대
+BOG OF WORRIES=걱정의 늪
+CHROMA CIRCUIT=크로마 서킷
+CAROUSEL OF COLORS=색상의 회전목마
+OASIS GREENHOUSE=오아시스 그린하우스
+PINEWOOD SUMMIT=파인우드 서밋
+FROSTY PEAKS=프로스티 피크
+SNOWBLIND LAKE=설맹 호수
+FULL METAL RAMPAGE=풀 메탈 광란
+THE GLACIER=더 글레이시어
+ALPINE GETAWAY=알파인 도주
+BOREALIS SEA=보리알리스 바다
+BATTLE FOR THE GLAHALLA=글랄할라를 위한 전투
+ULLR'S FACTORY=울르의 공장
+RUSTY CANYON=러스티 캐니언
+SANDY KINGDOMS=모래가 많은 왕국
+CLOCKWORK EXPRESS=시계태엽 급행열차
+CITY OF AL-HIBDAE=알히브데 시티
 
+//스토리-시작
 Carol=캐롤
 Hey You! Give me BACK MY BUNBUN!=거기 너! 내 번번 돌려줘!
 Wh....what ARE you anyway...?=너... 넌 대체 누구...?
@@ -309,7 +385,7 @@ Hey! Come back! Don't go!=이봐! 돌아와! 가지 마!
 BunBun!!!=번번!!!
 Don't worry, I'll come rescue you....=걱정하지 마, 내가 구해줄게....
 
-//초반-언덕
+//크로마폴-언덕
 Tex=텍스
 Howdy partner!=안녕 파트너!
 You see partner I have plenty of ammo on my hands=그게 파트너, 내가 수중에 탄약을 좀 많아서 말이지
@@ -423,250 +499,11 @@ Pears.... I'm not too fond of pears...=자두같아서요... 저는 자두를 �
 Well good luck guys!=그런 거였구나 힘내!
 Have a very nice day young lady!=좋은 하루 보내세요 꼬마 아가씨!
 
-You found the Village key !=마을 키를 발견했다 !
+You found the Village key !=마을 키를 발견했다!
 
 .....Ow.....=......아우......
 
-//래그즈
-Welcome to Ragg's store, here you can buy Toys, Items, Elixirs and outfits=래그즈 상점에 오신 것을 환영합니다, 여기서는 장난감, 아이템, 엘릭서, 의상을 살 수 있습니다.
-This is the Ragg's travel platform, you can move to other discovered shops using it !=이것은 래그즈의 여행 플랫폼입니다. 이제까지 발견한 다른 상점으로 바로 이동할 수 있습니다 !
-This is the Toybox, you can use it to store Toys, Items and Elixirs !=이것은 장난감상자입니다, 여기에 장난감, 아이템, 엘릭서를 저장할 수 있습니다 !
-This is the Costumes Closet, Here you can change your outfits=이것은 코스튬 옷장입니다, 여기에서 옷을 갈아입을 수 있습니다
-SHOP=SHOP
-SPECIAL OFFER !=SPECIAL\nOFFER !
-MY ITEMS=내 아이템
-MY TOYS=내 장난감
-TOYS=장난감
-ITEMS=아이템
-ELIXIRS=엘릭서
-OUTFITS=의상
-Ragg's=래그즈
-Always a pleasure to see you, Carol !=언제나 만나서 반갑구나, 캐롤!
-Always a pleasure to see you, Carol.=언제나 만나서 반갑구나, 캐롤.
-Always a pleasure to see you, Carol...=언제나 만나서 반갑구나, 캐롤...
-Hihi my pumpkin !=히히 내 호박 !
-Hihi my pumpkin.=히히 내 호박.
-Welcome to Ragg's !=래그즈에 온 걸 환영해 !
-Ha ha ! Welcome to my mobile shop !=하 하 ! 내 상점에 온 걸 환영해 !
-What can i do for you ?=무엇을 도와드릴까요 ?
-Go on, don't be scared, spend your pearls !=그래, 떨지 말고, 펄을 쓰는거야 !
-Go on, don't be scared, spend your pearls...=그래, 떨지 말고, 펄을 쓰는거야...
-Thanks for your purchases !=구매해 주어서 감사합니다 !
-Very very nice choice !=정말 정말 현명한 선택입니다 !
-I'm warning you, no refunds !=경고하는데, 환불을 없어 !
-Good choice !=잘 골랐어 !
-Good choice.=잘 골랐어.
-I like clients like you=너 같은 손님이 참 좋아
-Ah ! Good choice !=아 ! 잘 골랐어 !
-Ah ! Good choice.=아 ! 잘 골랐어.
-Ah ! I love clients like you=아 ! 너 같은 손님이 정말 좋아
-Oh i'm sure you will make good use of it !=오, 너라면 분명 잘 쓸 수 있을거야!
-Aaaaah... I love clients like you...=아아... 너 같은 손님이 정말 좋아...
-Thanks to you, i can buy a new cauldron !=고마워, 새 가마솥을 살 수 있겠어 !
-You should buy some more thingies...=더 많은 것을 살 수 있단다...
-Hurry up, i don't have many left.=서둘러, 이제 재고가 얼마 없어.
-Ooooh Hurry up, i don't have many left.=오오 서둘러, 이제 재고가 얼마 없어.
-If you want more, don't worry ! I'll go get some more !=더 많이 원한다면 걱정 마 ! 재고를 더 준비할게 !
-I think i'm going to have to refill soon !=물건을 리필해야 겠어!
-Ah Nice look...=이야, 잘 어울려...
-Ooooh looks good on you. !=오오 잘 어울려!
-Ooooh looks good on you...=오오 잘 어울려...
-Oooh... I think you're broke...=오... 돈이 없나 보구나...
-Oooh i can't do much if you are out of pearls...=오 펄이 모자라면 내가 해줄 수 있는 게 없어...
-Come back when you want my pumpkin !!!=다음에 또 놀러오렴, 내 호박 !!!
-Come back when you want my pumpkin...=다음에 또 놀러오렴, 내 호박...
-Come back when you have more pearls my pumpkin.=펄을 많이 갖고 있다면 또 놀러오렴, 내 호박.
-Oooooh ! Thanks for your purchase ! Come back when you want !=오오 ! 구매해 주어서 감사합니다 ! 다음에 또 놀러오렴 !
-Come back when you have more pearls my pumpkin !=펄을 많이 갖고 있다면 또 놀러오렴, 내 호박 !
 
-
-
-ALL=전체
-TOYBOX=장난감상자
-ACCESSORY=액세서리
-NO=NO
-YES=YES
-
-//바비의-집
-Fifi=피피
-Who are ya !? Y'all want sum of my cookies I bet !=뉘슈 !? 내 쿠키 훔치려고 온거 맞제 !
- Who are ya !? Y'all want sum of my cookies I bet !=뉘슈 !? 내 쿠키 훔치려고 온거 맞제 !
- Wow calm down, I just want to get through =워워 진정해, 그냥 여기를 지나가고 싶어서 왔어
-Wow calm down, I just want to get through =워워 진정해, 그냥 여기를 지나가고 싶어서 왔어
- OH ! 'kay then ! = 앗 ! 알갔슈 !
-OH ! 'kay then ! = 앗 ! 알갔슈 !
- Well,it was easy to change her mind... = 뭐, 생각보다 말이 잘 통하네...
-Well,it was easy to change her mind... = 뭐, 생각보다 말이 잘 통하네...
- Grandpa look ! We got sum visitor and it ain't Frorcs != 할아버지, 이것 좀 보슈 ! 손님이가 프로오크가 아니에유 !
-Grandpa look ! We got sum visitor and it ain't Frorcs != 할아버지, 이것 좀 보슈 ! 손님이가 프로오크가 아니에유 !
-Bobby=바비
- Hey there young lady = 안녕 꼬마 아가씨
-Hey there young lady = 안녕 꼬마 아가씨
- Hi ! Are you Bobby ? Julie told me you could help me = 안녕하세요! 바비 맞으신가요 ? 줄리로부터 들었어요. 바비라는 분이 도움이 될 거라고요
-Hi ! Are you Bobby ? Julie told me you could help me = 안녕하세요! 바비 맞으신가요 ? 줄리로부터 들었어요. 바비라는 분이 도움이 될 거라고요
-Aah ! Ya must be Lil' Carol ! Sorry for the brutal welcome. = 아하 ! 니 녀석이 꼬마 캐롤이구나 ! 아까 위협한 건 사과할게.
- Right, Sorry for the mess, but 'em stupid frorcs keep attackin' our home... = 네, 아까는 미안했슈. 하지만, 저 머저리같은 프로오크들이 계속 집에 들이닥쳤거든유...
-Right, Sorry for the mess, but 'em stupid frorcs keep attackin' our home... = 네, 아까는 미안했슈. 하지만, 저 머저리같은 프로오크들이 계속 집에 들이 쳤거든유...
- Oh ? Why would they attack a little house in the swamps ? = 어라 ? 그 녀석들이 왜 이런 작은 집에 들이닥치는데 ?
-Oh ? Why would they attack a little house in the swamps ? = 어라 ? 그 녀석들이 왜 이런 작은 집에 들이닥치는데 ?
- The kid's cookies ! = 우리 아이의 쿠키 때문이지 !
-The kid's cookies ! = 우리 아이의 쿠키 때문이지 !
- Cookies ?!  = 쿠키 ?!
-Cookies ?!  = 쿠키 ?!
-Yep ! My grand daughter Fifi cookies are the best in the whole swamps=그럼 ! 내 손녀 딸 피피의 쿠키가 늪지대에서 최고라고
- Nobody 'part from the old man can touch mah cookies ! = 할아버지와 친한 사람이 아니면 쿠키를 줄 수 없슈 !
-Nobody 'part from the old man can touch mah cookies ! = 할아버지와 친한 사람이 아니면 쿠키를 줄 수 없슈 !
- and me can I have one ? = 그러면, 나는 먹어도 되는거지 ?
-and me can I have one ? = 그러면, 나는 먹어도 되는거지 ?
-Grrrrrrrr=크흠
- I see....  = 알겠어....  
-I see....  = 알겠어....  
- Darn it they're back ! = 제길, 그 놈들이 돌아왔슈 !
-Darn it they're back ! = 제길, 그 놈들이 돌아왔슈 !
- Cooooooooooooooooookieeees ! =쿠우우우키이이이 !
-Cooooooooooooooooookieeees ! =쿠우우우키이이이 !
- Hey YOU ! Make yerself useful and help US ! = 거기 당신 ! 저희와 함께 싸울 준비하세유 !
-Hey YOU ! Make yerself useful and help US ! = 거기 당신 ! 저희와 함께 싸울 준비하세유 !
- What ? To get rid of a few frogs ? = 뭐 ? 겨우 개구리 몇 마리 잡는데 ?
- Pffft, I can take care of that all alone ! = 쯧, 저정도는 나 혼자서 전부 잡을 수 있다고 !
-Pffft, I can take care of that all alone ! =쯧, 저정도는 나 혼자서 전부 잡을 수 있다고 !
- Fifi ! Get me the Rifle ! = 피피 ! 라이플을 다오 !
-Fifi ! Get me the Rifle ! = 피피 ! 라이플을 다오 !
- No Grandpa ! Yer to old ! = 관둬요, 할아버지 ! 너무 늙으셨잖아유 !
-No Grandpa ! Yer to old ! = 관둬요, 할아버지 ! 너무 늙으셨잖아유 !
- You, you can play sum BANJO ! = 밴조를 연주해주세유 !
-You, you can play sum BANJO ! = 밴조를 연주해주세유 !
- Wookay= 오케이
-Wookay= 오케이
- IT's GUNNA GET MESSY ! = 한바탕 싸워 볼까 !
-IT's GUNNA GET MESSY ! =한바탕 싸워 볼까 !
-
-Wow, yer a real gunslinger ! Ya earned sum of d'em cookies !   =우와, 당신 참말로 총잡이네유 ! 덕분에 쿠키를 지킬 수 있었슈 !
- They better be as good as you say ! = 이 쿠키 정말 맛있네 !
-They better be as good as you say ! = 이 쿠키 정말 맛있네 !
- The best I tell ya ! = 말 그대로 최고라니까유 !
-The best I tell ya ! = 말 그대로 최고라니까유 !
- So, ya wanna get to dat Greenhouse ?  = 그럼, 온실로 가고 싶다고 했었쥬 ?
-So, ya wanna get to dat Greenhouse ?  = 그럼, 온실로 가고 싶다고 했었쥬 ?
- I'll go open ! Wait right here ! = 열어줄게유 ! 잼만 기다리슈 !
-I'll go open ! Wait right here ! = 열어줄게유 ! 잼만 기다리슈 !
- Since we are living 'round here, the Corporation let us take care of dat gate. = 우리가 여기서 살고 있다는 이유로, 코퍼레이션은 우리한테 이 게이트를 관리하라고 했어.
-Since we are living 'round here, the Corporation let us take care of dat gate. = 우리가 여기서 살고 있다는 이유로, 코퍼레이션은 우리한테 이 게이트를 관리하라고 했어.
-Hey ! Thanks for everything ! =저기요 ! 감사했어요 !
- Oh The pleasure was all ours young lady ! = 우리야말로 고맙지, 꼬마 아가씨 !
- 
-//온실
-OASIS GREENHOUSE=OASIS GREENHOUSE
-You found the Red Keycard=빨간색 키카드를 찾았다
-You found the Yellow Keycard=노랑색 키카드를 찾았다
-You found the Blue Keycard=파란색 키카드를 찾았다
-Terminal=터미널
-PRESS [E] TO USE=[E] 키를 눌러 사용
-
-The Fertilizer N.E.Z is proving to be very efficient so far=[보고서 No.4720 주디스 페르세포네]\nN.E.Z 비료는 현재까지 매우 효율적인 결과를 보여주고 있다
-It seems plant growth have increased in speed by 500%=식물의 성장률을 500% 빠르게 증가시키는 것으로 보인다.
-I still recomend further testing before using it for the project OASIS=그러나 프로젝트 OASIS에 바로 적용하기 전에 추가 테스트를 권장한다
-I still recommend further testing before using it for the project OASIS=그러나 프로젝트 OASIS에 바로 적용하기 전에 추가 테스트를 권장한다
-
-It seems I was wrong to worry about the N.E.Z !=[보고서 No.4814 주디스 페르세포네]\n N.E.Z에 대해 괜한 걱정을 한 것 같아 !
-The greenhouse is now full of beautiful plants we have never ever seen before !=온실이 이제까지 본 적 없는 아름다운 식물들로 가득해 졌어 !
-The Narrs are going to be so happy with the renovation, and I guess the Corporation will be happy about profits.=나르들은 이런 혁신에 만족할 거고, 코퍼레이션 역시 많은 돈을 벌게 될 거야.
-
-The Corporation is very strict on Project Oasis's Deadline=[보고서 No.4762 주디스 페르세포네]\n코퍼레이션은 프로젝트 OASIS 마감 기한에 매우 엄격하다
-They are pushing us to use the N.E.Z Fertilizer to speed up the process=생산 속도를 높이기 위해 N.E.Z. 비료를 사용하라고 압박 중이다
-I still wish I could have done some more testing......=나는 아직 좀 더 테스트가 필요하면 좋을 것 같다고 생각한다......
-
-Corp Trooper=코퍼레이션 병사
-General Umbra ?! What are you doing here ?!=움브라 장군님 ?! 여기서 뭐하십니까 ?!
-You !!!=너 !!!
-Give back my Bunbun !=내 번번 돌려줘 !
-Grrrrr=으으으
-
-Sweety, since you are in the Corporation labs, can you pick up a sample of that fertilizer ? The Professor is really interested in it=자기, 코퍼레이션 연구소에 있어서 하는 말인데요, 비료 샘플을 구해다 줄 수 있나요 ? 박사님이 흥미를 보이는 것 같아요
-Even if I beat up those plants, what is happenning to them is not nice...=물론 식물들을 때리는 것도 분명 안 좋겠지만, 뭔가 안 좋은 일이 있었던 것 같아...
-Even if I beat up those plants, what is happening to them is not nice...=물론 식물들을 때리는 것도 분명 안 좋겠지만 뭔가 안 좋은 일이 있었던 것 같아...
-Alright I will try to find it=알겠어 찾아 볼게
-
-Today some Corporation guards have caught a sentient plant specimen we have never seen before=[보고서 No.4911 주디스 페르세포네]\n오늘은 몇 몇 코퍼레이션 경비원이 우리가 이제까지 본 적 없던 살아 움직이는 식물 표본을 가져갔다
-maybe it was foolish to belive that Synistrus's Necroenzyme was harmless...=시니스트루스의 네크로효소가 무해하다고 믿었던 것은 어리석은 생각이었던 것 같다...
-I will study that specimen, I need to contact the higher ups to ask to push the deadline for project OASIS=나는 이 표본을 조사할 예정이다, 그러기 위해 먼저 상층부에 프로젝트 OASIS의 마감 기한을 연기하도록 연락해야 한다
-
-Whose idea was it to use an enzyme from a madman that turn people into undeads as a fertilizer ?=[보고서 No.5178 주디스 페르세포네]\n사람을 언데드로 만들어버리는 효소를 비료로 사용하겠다는 생각은 누가 한 거야 ?
-Well it was not mine ! But I'm still a dumdum scientist for agreeing with it !=뭐 내가 그런 건 아니야 ! 하지만 나도 그것에 찬성했으니 똑같은 바보 과학자인 셈이네 !
-A cargo of fertilizer N.E.Z was raided by Frorcs in the Swamps=늪지대의 프로오크들이 N.E.Z 비료가 들어 있는 컨테이너를 습격했어
-But those idiots broke some of the containers letting the fertilizer spread across the giant roots of the Treetops trees=그런데 이 멍청이들이 부순 컨테이너때문에 비료가 트리톱 나무들의 거대한 뿌리로 퍼지게 되었어
-Many Florias natives have been infected, turning them even more agressive=많은 플로리아 원주민들이 비료에 감염되었고, 전보다 성격이 더 사나워져 버렸어
-I really need to put a stop to project Oasis, it's just a garden after all ! No big deal !=프로젝트 OASIS는 반드시 중단해야 해, 어찌되었든 간에 정원 실험이잖아 ! 뭐가 중요하냐고 !
-
-Heals 10hp=HP를 10 회복
-YOU GOT THE HAZMAT SUIT !=화학 방호복을 손에 넣었다 !
-You found the Fertilizer sample for Julie !=줄리의 비료 샘플을 찾았다 !
-
-Woooohooooo ! Zombie flowers apocalypse !=[보고서 No.5288 주디스 페르세포네]\n우후 ! 좀비 꽃 아포칼립스 !
-And the nobel prize for worst scientist of the year goes to...  Me ! Judith !=그럼 올해 최악의 과학자에게 주는 노벨상 주인공은 바로... 저 ! 주디스입니다 !
-But since I am so smart anyway I managed to come up with an antidote, I put it inside bombs, that's more fun than regular syringes=그래도 나는 머리가 좋으니까 해독제를 만들 수 있었어, 그리고 해독제를 폭탄에 넣어버렸고, 그게 일반 주사기보다 재밌으니까
-
-Julie=줄리
-Thanks to that sample you got earlier, the Professor got you a new toy to play with, it will be teleported to you shortly, if he don't mess up again.=비료 샘플을 보내줘서 고마워요, 박사님이 곧 바로 그 쪽으로 새 장난감을 보내드릴 거에요, 또 실패하지 않는다면 말이에요.
-
-
-
-The great canopy is near, but my scanners found a huge Biomass in it, Be very careful.=스캐너가 근처에 있는 큰 캐노피에서 거대한 유기물을 감지했어요, 조심하세요.
-
-The greenhouse has been overrun with horrible plant monsters ! Some are even eating us ! We need to evacuate !=[보고서 No.-5703- 병사 24-568]\n온실이 무서운 식물 괴물들로 넘쳐나고 있어 ! 몇몇 사람들은 심지어 잡아먹혔어 ! 대피해야 해 !
-It seems that Doctor Judith Persephone has been shallowed by a massive abomination while she was trying to... throw green bombs in it's mouth ?!=주디스 페르세포네 박사는 거대한 괴물에게 통째로 삼켜질 때까지... 괴물의 입으로 폭탄을 던지려고 했어 ?!
-... Wait is that...? It is ! General Umbra has arrived and is helping personel to evacuate !=... 잠깐 저건...? 틀림없어 ! 움브라 장군님이 우리를 대피시켜 주려고 왔어 !
-
-I think even a good weedkiller won't do the trick !=어떤 제초제가 와도 끄떡 없을 거 같아 !
-PERSEPHONE=페르세포네
-
-Good work sweety !=잘했어요 자기 !
-I'm sending a Narr team to pick up that scientist you just saved=지금 나르 팀이 가서 방금 구한 과학자를 데려갈 거에요
-Her name is Judith Persephone, I'm sure she will be able to help cure the Florias=그녀의 이름은 주디스 페르세포네, 분명 플로리아족들을 정화하려고 했을 거에요
-That's good and all but I'm in a hurry right now=그건 다행이네 하지만 나는 지금 바빠서 말이야
-I got a thief to catch...=도둑을 잡아야 하거든...
-
-I won't let you get away this time !=이번에는 반드시 잡고야 만다 !
-What now ?!=이번에는 또 뭐야 ?!
-Tut=투트
-So this is the one causing all that trouble...=이 녀석이 모든 문제의 원인이었군...
-Aeon=이온
-I guess the rumors were true...=그 소문이 사실이었나 봐...
-Our little Umbra still succeeded.=그래도 우리 움브라는 목표를 완수했어.
-What should we do now ?=그럼 이제 어떡하지 ?
-Well you can do your thing...=뭐 너가 할 수 있는 짓을 해 봐...
-MY PLEASURE !=좋았어 !
-DESERT SANDSTORM !=사막의 모래 폭풍 !
-Ouchies=아우우
-You can't do anything against us !=너는 우리의 상대가 안 돼 !
-We'll see about that !=그건 아직 알 수 없거든 !
-Tssk... Tssk... Tssk...=쯧... 쯧... 쯧...
-Wait....What ?!...=뭐.... 뭐야 ?!...
-...Sigh...it's my turn now...=...하...이제 내 차례야...
-This is my power...=이게 내 힘이지...
-I control all possibilities... all outcomes...=모든 가능성... 모든 결과를 바꿀 수 있지...
-We have to do this... as it's for the best for everyone...=우리는 꼭 해야할 일이 있어... 모두를 위한 일 말이야...
-Your bunny... We need it...=너의 토끼... 그 토끼가 필요해...
-I'm sorry it has to come to this...=너를 이 일에 끌어들이게 된 건 미안해...
-I truly am...=진심이야...
-
-Rise and shine sweetheart=정신이 드세요 자기
-Where am I ?!=여긴 어디야 ?!
-In the Narr Village, you should nap a bit more though=나르 마을이에요, 일단 지금은 푹 쉬세요
-What's wrong sweety ?=자기 왜 그러세요 ?
-I can't sleep without Bunbun...=나는 번번 없이는 잠을 못 자...
-They left with him and I have no idea where they went...=그 녀석들이 사라졌고 이젠 어디로 갔는지 몰라...
-What am I going to do now Julie ?....=이제 난 어떻게 해야 하지 줄리 ?....
-It's fine Carol, I'm sure we will find a solution=괜찮아요 캐롤, 분명 방법을 찾을 거에요
-What is all that whining I hear ?!=이 징징대는 소리는 뭐야 ?!
-This is no time to weep ! We have much to do !=울고 있을 시간이 없어 ! 우리에겐 할 일이 있다 !
-Thanks to our scout we know exactly where the Corporation is and what they are up to !=우리의 정찰이 코퍼레이션의 위치와 놈들의 목적을 알아냈지 !
-They are in the Frosty peaks as we speak !=지금 그들은 프로스티 픽스에 있어 !
-The Corporation....=코퍼레이션 놈들....
-I've already arranged a boat for you in the Chroma Falls Harbor=크로마 폴 항구에 이미 배를 정착시켜 놨어
-There is no time to waste !=이러고 있을 시간 없어 !
-That's the spirit !=좋아 바로 그 기세야 !
-Umbra... I'm coming for you...=움브라... 내가 간다...
 
 //메탈기어캐롤
 Julie what is this ?...=줄리 이건 뭐야 ?...
@@ -690,56 +527,7 @@ Don't worry about it.=아무 것도 아니야.
 
 You found a Key=열쇠를 찾았다
 
-//파인우드시티
-Welcome to the city of Pinewood=파인우드 시티에 오신 것을 환영합니다
-You should use the cable car to head to the Glacier=글레이시어로 가져면 케이블카를 이용해야 해요
-Weird... The cable car seems offline... =이상하네요... 케이블카가 작동하지 않아요...
-Head to the Observatory to turn the power back on=천문대로 가서 케이블카를 다시 작동시킬 수 있을 거에요
 
-//터프코너
-Uuuuh hello ? Anybody ?=어 저기요 ? 아무도 없어요 ?
-Ben=벤
-Owww......Grrblblblblbll=어우......부르르르르
-Ooooh hello and welcome to THE Tough Corner=오오 안녕 터프 코너에 오신 것을 환영합니다
-What can i do for you my boy... girl... girl...=무엇을 도와 드릴까요 왕자... 공주님... 공주님...
-Well i saw your shop and i was wondering what you were selling...=뭐 상점에서 뭘 팔고 있나 궁금해서요...
-*Burp* Watering cans... ton of watering cans=*꺼억* 물뿌리개... 많은 물뿌리개
-What ? that's super lame !...=뭐라고요 ? 정말 썰렁하네요 !...
-Hey kid... How old are you ?=꼬마야... 나이가 어떻게 되니 ?
-10 years old why ?=10살인데요 왜요 ?
-You should have said so earlier you are old enough !=진작에 말했어야지 나이가 충분하잖아 !
-Ah that's much better !=아 훨씬 낫네요 !
-I have everything, bubbler mk2, Kf7 Liberator, potato launchers and ton of stuff...=뭐든지 있단다, 버블러 mk2, KF7 리버레이터, 감자 발사기 등등...
-what about this one ?=저건 뭐에요 ?
-Oh this ?! That's the poopy popper from foam-blasters !=아 저거 ?! 저건 Form-Blasters에서 생산한 푸피 파퍼야 !
-If you want i got a little tape about it=자세한 내용은 이 테이프에서 알려줄게
-But tapes are lame...=하지만 테이프는 재미없는데...
-Hey trash can, come here !=야 쓰레기통, 일로 와 !
-Maxigro=막시그로
-Hello i am Maxigro the funny robot=안녕 나는 막시그로 재미있는 로봇이지
-yeah yeah whatever open your mouth...=그래 그래 알겠어 입을 열어봐...
-I'm not sure this is...=그렇게 하면 안 될...
-Aarrgh aaarh aaaah Wrong way, Try again.=아아아 아아 아아 반대 방향으로 다시 넣어주세요.
-Ah FU...Fun.....that's what i was gonna say=아 씨...신나.....신난다고 말하려고 했어
-Great... Good job...=잘했어... 잘했어요...
-Yeah yeah whatever=그래 그래 알겠어
-Hello to all the sleepy frorcs and WELCOME to THE Tough Corner=안녕 모든 게으른 프로오크 여러분 터프 코너에 오신 것을 환영합니다
-Nobody asked for it but here it is: The Poopy popper from Foam Blasters=아무도 원하지 않았겠지만 Form Blasters에서 생산한 푸피 파퍼를 소개합니다
-And it's AWFUL=이건 진짜 쓰레기야
-No seriously guys, look at this! the paintjob is disgusting=아니 진심이야 친구들, 이거 봐! 페인팅 처리가 끔찍하잖아
-And look at that sight, Seriously ?! was it made for FRORCS ?!=그리고 이 시야를 봐봐, 진심이야 ?! 이거 프로오크 전용인 거야 ?!
-And look at this accuracy EEWwWwAAARRGH i wanna barf=그리고 또 이 정확도를 봐 으에에에에 토할 것 같아
-i feel like im trying to shoot from a trampoline after a night at the Tavern=술에 취한 상태로 트램펄린에서 쏘는 기분이라고
-And the Woooorst thing is, This mess eat as much ammo as if we let lose a Searys in Splash Boulevard during a school trip !=무엇보다도 최악인 점은 탄약을 막 써버린다니까, 마치 소풍 날 스플래시 워터파크에서 큰 물고기로부터 도망가는 속도로 말이야 ! //Searys가-큰-물고기?
-It's simple, the Liberator might be badly made, at least it WORKS=간단해, 리버레이터는 별로일 수 있지, 하지만 작동은 하잖아
-BUT YOU DARE SELL THIS GUYS=하지만 너희들은 기필코 이걸 파는구나
-Honestly, you should send a rubber band and a crayon to all your clients, it will do a lot more damage !=솔직히, 너희들은 고객에게 고무줄이랑 크레파스를 보내야 해, 그게 더 강력할테니까 !
-So to resume thing, it's expensive, it's dreadful......=정리하자면, 비싸고, 최악이고......
-AND I BOUGHT A WHOLE SHIPMENT AAAAARGH HELP ME!=그리고 나는 이걸 대량으로 사버렸다고 아아악 도와줘!
-So ? How many you want ?=그래서 ? 얼마나 원하니 ?
-But... You just said it was terrible...=하지만... 방금 전까지 끔찍하다고 말했잖아요...
-Aaaaaah well im sure some Frorcs will buy it=아아 그럼 분명 몇 몇 프로오크들은 살 걸
-Anyway take a look, i got plenty of stuff=아무튼 둘러봐, 이것저것 팔고 있어
 
 //크로마폴-마을
 Charles=찰스
@@ -836,12 +624,12 @@ P-P-Provencal is really a nice guy but.... I don't always understand what he say
 Aaaargh!=으악!
 Hello my Little pumpkin, what's your name ?=안녕 꼬마 호박님, 이름이 뭔가요 ?
 Uh... Carol=어... 캐롤이요 
-Haha ! Welcome to my mobile shop !=하하 ! 내 이동식 상점에 온 것을 환영합니다 !
+Haha ! Welcome to my mobile shop !=하하 ! 내 이동식 상점에 온 것을 환영합니다!
 I'm Ragg's !=나는 래그즈라고 해 !
 I'm selling plenty of things ! I got some toys to improve your arsenal=다양한 물건들을 팔고 있어 ! 무기고를 채워주는 장난감도 팔고
 I'm selling a bunch of elixirs with ton of different effects !=다양한 효과를 지닌 엘릭서도 팔지 !
 I'm also selling ton of gadgets, like fruity bombs, if you want to blow some Frorcs up or if you are hungry nyehe...=그리고 수많은 가젯도 있어, 예를 들어 이 과일 폭탄으로 프로오크를 날려버리거나 배고프면 흐흐...
-And if you want to change your look, i got outfits your size !=그리고 스타일을 바꾸고 싶은 너를 위해 딱 맞는 옷들도 준비했단다 !
+And if you want to change your look, i got outfits your size !=그리고 스타일을 바꾸고 싶은 너를 위해 딱 맞는 옷들도 준비했단다!
 in this corner, you can find the costume closet to change your outfit=이 코너에는 옷을 갈아입을 수 있는 코스튬 옷장이 있어
 In this toybox, you can store stuff you find=이 장난감상자에는 찾은 물건들을 보관할 수 있지
 Also, i can bring you to places you already visited !=그리고 한번 방문한 장소에 바로 데려가 줄 수도 있어 !
@@ -857,6 +645,7 @@ What is going on over here?....=무슨 일이지?....
 Professor=박사
 I'm telling you Julie! Umbra got nothing to do in the Far Lands!=내가 말했잖아 줄리! 움브라가 굳이 파랜드에 온 이유가 분명 있다고!
 She looked like she was in a hurry too!=심지어 뭔가 다급해 보이기까지 했어!
+Julie=줄리
 Please calm down professor!=제발 진정하세요 박사님!
 No time for this calming down you speak about!=진정할 시간도 없어!
 I need to find my radio in this mess and contact General LILPEA=무전기를 찾아서 릴피아 장군에게 연락해야 해
@@ -939,17 +728,17 @@ The need for Crearium has increased again. We received an order to bypass the ag
 Extra mining equipement has been deployed and production has doubled.=추가 채광 장비를 보급받으면서 생산량이 두 배로 뛰었다.
 We felt some tremors today, and a landslide happenned, destroying part of the Volcano. Corpogineers have been deployed to deal with the issue.=오늘 약간의 진동을 느꼈고 산사태가 일어나서 화산의 일부가 붕괴되었다. 이 문제를 해결하기 위해 코퍼레이션 엔지니어들이 배치되었다.
 Let's hope the Fire Tribe isn't aware of this.=파이어족들이 눈치채지 않았기를 바란다.
-The Fire Tribe is unhappy about what is happening. We broke the accords, but they don't understand what is at stake !=파이어족은 이번 사고에 대해 불만을 보였다. 우리가 협상을 깼지만, 그들은 이 일이 얼마나 중요한 일인지 이해하지 못할 것이다 !
+The Fire Tribe is unhappy about what is happening. We broke the accords, but they don't understand what is at stake !=파이어족은 이번 사고에 대해 불만을 보였다. 우리가 협상을 깼지만, 그들은 이 일이 얼마나 중요한 일인지 이해하지 못할 것이다!
 We will do everything to keep them at bay and defend the installations, and the mined crearium is being transported by secured cargo ships=우리는 그들이 접근하지 못하게 막고 설비를 방어하기 위해 전력을 다할 것이다, 그리고 채굴한 크레아륨은 안전한 화물선에 운송 중에 있다.
 Their anger is understandable, but we will use force if necessary to cool them down.=그들의 분노는 이해하지만, 무력을 써서라도 그들을 진정시켜야 할 것이다.
-We are under attack !=[데이터 로그 5387] 우리는 공격 받고 있다 !
+We are under attack !=[데이터 로그 5387] 우리는 공격 받고 있다!
 Even with reinforcements, the Fire Tribe managed to pierce our defenses, and it is getting really hot out here. I can see the Magmaulers coming...=지원군의 도움에도 파이어족은 우리의 방어선을 뚫었다, 이제 여기는 정말로 더워지고 있다. 마그마울러들이 다가 오는 것이 보인다...
 Awaiting further orders.=추가 지시를 대기 중.
 We have lost the foundry=[데이터 로그 5389] 우리는 주조소를 잃었다
 The evacuation order has been given and we are trying to take as much crearium as we can with us, but most of our collegues already had their rear toasted=대피 명령이 떨어져서 가능한 많은 크레아륨을 챙기고 대피했다, 하지만 대부분의 동료들은 이미 타 버렸다.
 I will personaly give a full report on the situation when we arrive at Corpopolis=내가 코퍼폴리스에 도착했을 때 나는 이 사태에 대해 구체적으로 보고할 것이다.
 
-YOU GOT THE PYROBARBARIAN OUTFIT !=파이로바바리안 의상을 손에 넣었다 !
+YOU GOT THE PYROBARBARIAN OUTFIT !=파이로바바리안 의상을 손에 넣었다!
 This is the costume worn by the legendary hero of the famous show ''The Adventures of the Pyrobarbarian''=이 코스튬은 유명 쇼 "파이로바바리안의 모험"에 등장하는 전설적인 영웅이 입고 있던 옷이다.
 ''When in doubt, Put them all to sleep.''="의심스러울 때는, 모두 다 잠재워라 "
 
@@ -1033,7 +822,7 @@ Them spread their evil ways on our brothers and sisters...  Why did they do that
 I'm warning you I am terrible at gardening!=미리 경고하는데, 나 정원 가꾸는 거 할 줄 몰라!
 
 Strike notice ! Brother and sisters ! Corpotato ! Corpotato !=[번역하는 중...]\n파업 통보 ! 형제자매들이여 ! 코퍼타도 ! 코퍼타도 !
-Florias can't deal with Corpo mistakes no more ! Corpotato ! Corpotato ! We are not their Corpogarden !=플로리안족은 코퍼레이션의 실수를 더 이상 견딜 수 없다 ! 코퍼타도 ! 코퍼타도 ! 우리는 코퍼레이션을 위한 정원이 아니다 !
+Florias can't deal with Corpo mistakes no more ! Corpotato ! Corpotato ! We are not their Corpogarden !=플로리안족은 코퍼레이션의 실수를 더 이상 견딜 수 없다! 코퍼타도 ! 코퍼타도 ! 우리는 코퍼레이션을 위한 정원이 아니다!
 No more ! No more ! No more bad fertilizer ! No more crazy poison !=중단하라 ! 중단하라 ! 나쁜 비료를 중단하라 ! 정신나간 독을 중단하라 !
 
 What is going on over here?=무슨 일이야?
@@ -1065,11 +854,11 @@ Lot of our brothers and sisters hit by great scourge! The big poison is spreadin
 They say we must close ways to swamps... and send our infected Florias friends here...=우리는 감염된 플로리아 친구들을 늪지대로 보내고... 그 통로를 닫아야만 했어...
 We hope they are still okay...=그들이 무사하길 빌어...
 We Florias closed the way to the Swamp to stop poison from spreading more.=[번역하는 중...] \n우리 플로리아족은 독이 널리 퍼지지 않도록 늪지대로 가는 통로를 닫았어.
-If someone is reading this, the people of the trees is asking for help. Florias great ! Florias wise!=만약 이 글을 읽고 있다면 들어줘, 나무의 백성은 도움을 청하고 있어. 플로리아족은 위대하다 ! 플로이아족은 현명하다!
+If someone is reading this, the people of the trees is asking for help. Florias great ! Florias wise!=만약 이 글을 읽고 있다면 들어줘, 나무의 백성은 도움을 청하고 있어. 플로리아족은 위대하다! 플로이아족은 현명하다!
 But Florias still flowers... and flowers don't like bad fertilizer...=하지만 플로리아족은 꽃에 불과해... 꽃은 나쁜 비료를 싫어아지...
 
 HIVE TOTEM=하이브 토템
-You found Queen B's perfect Honeypot !=퀸비의 완벽한 꿀통을 발견했다 !
+You found Queen B's perfect Honeypot !=퀸비의 완벽한 꿀통을 발견했다!
 
 My precious honey... Aaaaaah ! Hahaha Hahahaha !=내 소중한 꿀... 아아 ! 하하하 하하하하 !
 Next time go to a grocery store... Like everyone else...=다음에는 마트가서 사... 다른 사람들처럼...
@@ -1138,11 +927,160 @@ Go meet Bobby, his house isn't too far, you should find it if you follow the gre
 Fifi's cookies are the best! but I never tasted them since she is pretty trigger happy...=피피의 쿠키는 최고야! 하지만 피피가 총만 들면 정신을 못 차려서 먹어본 적은 없어
 I never understood how Ragg's shop works... sometime it's here, sometime it's not... spooky...=래그즈 상점이 어떻게 돌아가는 지 모르겠어... 언제는 있다가, 또 언제는 사라져 있고... 무서워...
 
+//바비의-집
+Fifi=피피
+Who are ya !? Y'all want sum of my cookies I bet !=뉘슈 !? 내 쿠키 훔치려고 온거 맞제!
+Wow calm down, I just want to get through =워워 진정해, 그냥 여기를 지나가고 싶어서 왔어
+OH ! 'kay then ! = 앗! 알갔슈!
+Well,it was easy to change her mind... = 뭐, 생각보다 말이 잘 통하네...
+Grandpa look ! We got sum visitor and it ain't Frorcs != 할아버지, 이것 좀 보슈 ! 손님이가 프로오크가 아니에유 !
+Bobby=바비
+Hey there young lady = 안녕 꼬마 아가씨
+Hi ! Are you Bobby ? Julie told me you could help me = 안녕하세요! 바비 맞으신가요 ? 줄리로부터 들었어요. 바비라는 분이 도움이 될 거라고요
+Aah ! Ya must be Lil' Carol ! Sorry for the brutal welcome. = 아하 ! 니 녀석이 꼬마 캐롤이구나 ! 아까 위협한 건 사과할게.
+Right, Sorry for the mess, but 'em stupid frorcs keep attackin' our home... = 네, 아까는 미안했슈. 하지만, 저 머저리같은 프로오크들이 계속 집에 들이 쳤거든유...
+Oh ? Why would they attack a little house in the swamps ? = 어라 ? 그 녀석들이 왜 이런 작은 집에 들이닥치는데 ?
+The kid's cookies ! = 우리 아이의 쿠키 때문이지 !
+Cookies ?!  = 쿠키 ?!
+Yep ! My grand daughter Fifi cookies are the best in the whole swamps=그럼 ! 내 손녀 딸 피피의 쿠키가 늪지대에서 최고라고
+Nobody 'part from the old man can touch mah cookies ! = 할아버지와 친한 사람이 아니면 쿠키를 줄 수 없슈 !
+and me can I have one ? = 그러면, 나는 먹어도 되는거지 ?
+Grrrrrrrr=크흠
+I see....  = 알겠어....  
+Darn it they're back ! = 제길, 그 놈들이 돌아왔슈 !
+Cooooooooooooooooookieeees ! =쿠우우우키이이이 !
+Hey YOU ! Make yerself useful and help US ! = 거기 당신 ! 저희와 함께 싸울 준비하세유 !
+What ? To get rid of a few frogs ? = 뭐 ? 겨우 개구리 몇 마리 잡는데 ?
+Pffft, I can take care of that all alone ! =쯧, 저정도는 나 혼자서 전부 잡을 수 있다고 !
+Fifi ! Get me the Rifle ! = 피피 ! 라이플을 다오 !
+No Grandpa ! Yer to old ! = 관둬요, 할아버지 ! 너무 늙으셨잖아유 !
+You, you can play sum BANJO ! = 밴조를 연주해주세유 !
+Wookay= 오케이
+IT's GUNNA GET MESSY ! =한바탕 싸워 볼까 !
+
+Wow, yer a real gunslinger ! Ya earned sum of d'em cookies !=우와, 당신 참말로 총잡이네유 ! 덕분에 쿠키를 지킬 수 있었슈 !
+They better be as good as you say ! = 이 쿠키 정말 맛있네 !
+The best I tell ya ! = 말 그대로 최고라니까유 !
+So, ya wanna get to dat Greenhouse ?  = 그럼, 온실로 가고 싶다고 했었쥬 ?
+I'll go open ! Wait right here ! = 열어줄게유 ! 잼만 기다리슈 !
+Since we are living 'round here, the Corporation let us take care of dat gate. = 우리가 여기서 살고 있다는 이유로, 코퍼레이션은 우리한테 이 게이트를 관리하라고 했어.
+Hey ! Thanks for everything ! =저기요 ! 감사했어요 !
+Oh The pleasure was all ours young lady ! = 우리야말로 고맙지, 꼬마 아가씨 !
+ 
+//온실
+OASIS GREENHOUSE=OASIS GREENHOUSE
+You found the Red Keycard=빨간색 키카드를 찾았다
+You found the Yellow Keycard=노랑색 키카드를 찾았다
+You found the Blue Keycard=파란색 키카드를 찾았다
+Terminal=터미널
+
+The Fertilizer N.E.Z is proving to be very efficient so far=[보고서 No.4720 주디스 페르세포네]\nN.E.Z 비료는 현재까지 매우 효율적인 결과를 보여주고 있다
+It seems plant growth have increased in speed by 500%=식물의 성장률을 500% 빠르게 증가시키는 것으로 보인다.
+I still recomend further testing before using it for the project OASIS=그러나 프로젝트 OASIS에 바로 적용하기 전에 추가 테스트를 권장한다
+I still recommend further testing before using it for the project OASIS=그러나 프로젝트 OASIS에 바로 적용하기 전에 추가 테스트를 권장한다
+
+It seems I was wrong to worry about the N.E.Z !=[보고서 No.4814 주디스 페르세포네]\n N.E.Z에 대해 괜한 걱정을 한 것 같아 !
+The greenhouse is now full of beautiful plants we have never ever seen before !=온실이 이제까지 본 적 없는 아름다운 식물들로 가득해 졌어 !
+The Narrs are going to be so happy with the renovation, and I guess the Corporation will be happy about profits.=나르들은 이런 혁신에 만족할 거고, 코퍼레이션 역시 많은 돈을 벌게 될 거야.
+
+The Corporation is very strict on Project Oasis's Deadline=[보고서 No.4762 주디스 페르세포네]\n코퍼레이션은 프로젝트 OASIS 마감 기한에 매우 엄격하다
+They are pushing us to use the N.E.Z Fertilizer to speed up the process=생산 속도를 높이기 위해 N.E.Z. 비료를 사용하라고 압박 중이다
+I still wish I could have done some more testing......=나는 아직 좀 더 테스트가 필요하면 좋을 것 같다고 생각한다......
+
+Corp Trooper=코퍼레이션 병사
+General Umbra ?! What are you doing here ?!=움브라 장군님?! 여기서 뭐하십니까?!
+You !!!=이 녀석!!!
+Give back my Bunbun !=내 번번 돌려줘!
+Grrrrr=크으으으
+
+Sweety, since you are in the Corporation labs, can you pick up a sample of that fertilizer ? The Professor is really interested in it=자기, 코퍼레이션 연구소에 있어서 하는 말인데요, 비료 샘플을 구해다 줄 수 있나요 ? 박사님이 흥미를 보이는 것 같아요
+Even if I beat up those plants, what is happenning to them is not nice...=물론 식물들을 때리는 것도 분명 안 좋겠지만, 뭔가 안 좋은 일이 있었던 것 같아...
+Even if I beat up those plants, what is happening to them is not nice...=물론 식물들을 때리는 것도 분명 안 좋겠지만 뭔가 안 좋은 일이 있었던 것 같아...
+Alright I will try to find it=알겠어 찾아 볼게
+
+Today some Corporation guards have caught a sentient plant specimen we have never seen before=[보고서 No.4911 주디스 페르세포네]\n오늘은 몇 몇 코퍼레이션 경비원이 우리가 이제까지 본 적 없던 살아 움직이는 식물 표본을 가져갔다
+maybe it was foolish to belive that Synistrus's Necroenzyme was harmless...=시니스트루스의 네크로효소가 무해하다고 믿었던 것은 어리석은 생각이었던 것 같다...
+I will study that specimen, I need to contact the higher ups to ask to push the deadline for project OASIS=나는 이 표본을 조사할 예정이다, 그러기 위해 먼저 상층부에 프로젝트 OASIS의 마감 기한을 연기하도록 연락해야 한다
+
+Whose idea was it to use an enzyme from a madman that turn people into undeads as a fertilizer ?=[보고서 No.5178 주디스 페르세포네]\n사람을 언데드로 만들어버리는 효소를 비료로 사용하겠다는 생각은 누가 한 거야 ?
+Well it was not mine ! But I'm still a dumdum scientist for agreeing with it !=뭐 내가 그런 건 아니야 ! 하지만 나도 그것에 찬성했으니 똑같은 바보 과학자인 셈이네 !
+A cargo of fertilizer N.E.Z was raided by Frorcs in the Swamps=늪지대의 프로오크들이 N.E.Z 비료가 들어 있는 컨테이너를 습격했어
+But those idiots broke some of the containers letting the fertilizer spread across the giant roots of the Treetops trees=그런데 이 멍청이들이 부순 컨테이너때문에 비료가 트리톱 나무들의 거대한 뿌리로 퍼지게 되었어
+Many Florias natives have been infected, turning them even more agressive=많은 플로리아 원주민들이 비료에 감염되었고, 전보다 성격이 더 사나워져 버렸어
+I really need to put a stop to project Oasis, it's just a garden after all ! No big deal !=프로젝트 OASIS는 반드시 중단해야 해, 어찌되었든 간에 정원 실험이잖아 ! 뭐가 중요하냐고 !
+
+YOU GOT THE HAZMAT SUIT !=화학 방호복을 손에 넣었다!
+You found the Fertilizer sample for Julie !=줄리의 비료 샘플을 찾았다!
+
+Woooohooooo ! Zombie flowers apocalypse !=[보고서 No.5288 주디스 페르세포네]\n우후! 좀비 꽃 아포칼립스!
+And the nobel prize for worst scientist of the year goes to...  Me ! Judith !=그럼, 올해 최악의 과학자에게 주는 노벨상 주인공은 바로... 저! 주디스입니다!
+But since I am so smart anyway I managed to come up with an antidote, I put it inside bombs, that's more fun than regular syringes=그래도 나는 머리가 좋으니까 해독제를 만들 수 있었어. 그리고 해독제를 폭탄에 넣어버렸고, 그게 일반 주사기보다 재밌으니까.
+
+Julie=줄리
+Thanks to that sample you got earlier, the Professor got you a new toy to play with, it will be teleported to you shortly, if he don't mess up again.=비료 샘플을 보내줘서 고마워요, 박사님이 곧 바로 그 쪽으로 새 장난감을 보내드릴 거에요, 또 실패하지 않는다면 말이에요.
+
+The great canopy is near, but my scanners found a huge Biomass in it, Be very careful.=스캐너가 근처에 있는 큰 캐노피에서 거대한 유기물을 감지했어요, 조심하세요.
+
+The greenhouse has been overrun with horrible plant monsters ! Some are even eating us ! We need to evacuate !=[보고서 No.-5703- 병사 24-568]\n온실이 무서운 식물 괴물들로 넘쳐나고 있어 ! 몇몇 사람들은 심지어 잡아먹혔어 ! 대피해야 해 !
+It seems that Doctor Judith Persephone has been shallowed by a massive abomination while she was trying to... throw green bombs in it's mouth ?!=주디스 페르세포네 박사는 거대한 괴물에게 통째로 삼켜질 때까지... 괴물의 입으로 폭탄을 던지려고 했어 ?!
+... Wait is that...? It is ! General Umbra has arrived and is helping personel to evacuate !=... 잠깐 저건...? 틀림없어 ! 움브라 장군님이 우리를 대피시켜 주려고 왔어 !
+
+I think even a good weedkiller won't do the trick !=어떤 제초제가 와도 끄떡 없을 거 같아 !
+PERSEPHONE=페르세포네
+
+Good work sweety !=잘했어요 자기 !
+I'm sending a Narr team to pick up that scientist you just saved=지금 나르 팀이 가서 방금 구한 과학자를 데려갈 거에요
+Her name is Judith Persephone, I'm sure she will be able to help cure the Florias=그녀의 이름은 주디스 페르세포네, 분명 플로리아족들을 정화하려고 했을 거에요
+That's good and all but I'm in a hurry right now=그건 다행이네 하지만 나는 지금 바빠서 말이야
+I got a thief to catch...=도둑을 잡아야 하거든...
+
+I won't let you get away this time !=이번에는 반드시 잡고야 만다!
+What now ?!=이번에는 또 뭐야 ?!
+Tut=투트
+So this is the one causing all that trouble...=이 녀석이 모든 문제의 원인이었군...
+Aeon=이온
+I guess the rumors were true...=그 소문이 사실이었나 봐...
+Our little Umbra still succeeded.=그래도 우리 움브라는 목표를 완수했어.
+What should we do now ?=그럼 이제 어떡하지 ?
+Well you can do your thing...=뭐 너가 할 수 있는 짓을 해 봐...
+MY PLEASURE !=좋았어 !
+DESERT SANDSTORM !=사막의 모래 폭풍 !
+Ouchies=아우우
+You can't do anything against us !=너는 우리의 상대가 안 돼 !
+We'll see about that !=그건 아직 알 수 없거든 !
+Tssk... Tssk... Tssk...=쯧... 쯧... 쯧...
+Wait....What ?!...=뭐.... 뭐야 ?!...
+...Sigh...it's my turn now...=...하...이제 내 차례야...
+This is my power...=이게 내 힘이지...
+I control all possibilities... all outcomes...=모든 가능성... 모든 결과를 바꿀 수 있지...
+We have to do this... as it's for the best for everyone...=우리는 꼭 해야할 일이 있어... 모두를 위한 일 말이야...
+Your bunny... We need it...=너의 토끼... 그 토끼가 필요해...
+I'm sorry it has to come to this...=너를 이 일에 끌어들이게 된 건 미안해...
+I truly am...=진심이야...
+
+Rise and shine sweetheart=정신이 드세요 자기
+Where am I ?!=여긴 어디야 ?!
+In the Narr Village, you should nap a bit more though=나르 마을이에요, 일단 지금은 푹 쉬세요
+What's wrong sweety ?=자기 왜 그러세요 ?
+I can't sleep without Bunbun...=나는 번번 없이는 잠을 못 자...
+They left with him and I have no idea where they went...=그 녀석들이 사라졌고 이젠 어디로 갔는지 몰라...
+What am I going to do now Julie ?....=이제 난 어떻게 해야 하지 줄리 ?....
+It's fine Carol, I'm sure we will find a solution=괜찮아요 캐롤, 분명 방법을 찾을 거에요
+What is all that whining I hear ?!=이 징징대는 소리는 뭐야 ?!
+This is no time to weep ! We have much to do !=울고 있을 시간이 없어 ! 우리에겐 할 일이 있다!
+Thanks to our scout we know exactly where the Corporation is and what they are up to !=우리의 정찰이 코퍼레이션의 위치와 놈들의 목적을 알아냈지 !
+They are in the Frosty peaks as we speak !=지금 그들은 프로스티 피크에 있어 !
+The Corporation....=코퍼레이션 놈들....
+I've already arranged a boat for you in the Chroma Falls Harbor=크로마 폴 항구에 이미 배를 정착시켜 놨어
+There is no time to waste !=이러고 있을 시간 없어 !
+That's the spirit !=좋아 바로 그 기세야 !
+Umbra... I'm coming for you...=움브라... 내가 간다...
+
 //패덕-만남
-Haha, Welcome aboard !=하하, 승선을 환영한다 !
+Haha, Welcome aboard !=하하. 승선을 환영한다!
 Captain Paddock=패덕 선장
-Name's Paddock, at your service !=나는 패덕이야, 잘 부탁해 !
-The Professor told me you could help me get to the Frosty Peaks=박사님이 프로스티 픽스로 데려다 준다고 들었어요
+Name's Paddock, at your service !=나는 패덕이야. 잘 부탁해!
+The Professor told me you could help me get to the Frosty Peaks=박사님이 프로스티 피크로 데려다 준다고 들었어요.
 Ah yes, the Professor is an old friend of mine, I owe him a lot.=아 물론, 박사님은 내 오랜 친구야, 신세를 많이 지고 있지.
 Can we leave now ? I'm chasing someone... =바로 출발할 수 있나요 ? 제가 사람을 쫓고 있어서...
 Oh yes of course, the Professor explained it all to me...=아 물론이지, 박사님이 전부 설명해 주셨어...
@@ -1153,12 +1091,12 @@ And let's not talk about their taxes !=또 세금 얘기도 빠질 수 없지 !
 Blablabla back in the days when I was a young sailor blablabla=이러쿵저러쿵 내가 젊은 선원이었을 때는 이러쿵저러쿵
 Blablablabla boring adult stuff Bla Bla Blabla=이러쿵저러쿵 어른들의 지루한 이야기 이러쿵저러쿵
 Blabla Being a sailor was better back in the good ol' days BlaBlaBla=어쩌고저쩌고 나때는 선원이 지금보다 더 좋은 대우를 받았었어 어쩌고저쩌고
-And that's how I became Pirate king for a few days after winning a poker game.=그리고 이게 내가 포커 게임을 이겨서 며칠동안 해적왕이 된 이야기란다.
+And that's how I became Pirate king for a few days after winning a poker game.=그래서 내가 포커 게임을 이겨서 며칠동안 해적왕이 되었었단다.
 Can we go now ?...=이제 출발하면 안 되나요 ?...
-Oh right sorry about rambling !=오 미안 이야기가 길었구나 !
-Maurice ! Get ready to raise the anchor and cast off !=모리스 ! 닻을 올리고 출항할 준비를 하자 !
+Oh right sorry about rambling !=아, 미안. 이야기가 길었구나!
+Maurice ! Get ready to raise the anchor and cast off !=모리스! 닻을 올리고 출항할 준비를 하자 !
 Maurice=모리스
-Captain Captain !=선장님 선장님 !
+Captain Captain !=선장님, 선장님!
 what is it ?!=왜 그래 ?!
 Well I can't do that=그게 전 할 수 없어요
 And why is that ?!=왜 할 수 없어 ?!
@@ -1175,6 +1113,7 @@ What is it now ?!=이번엔 또 뭔데 ?!
 I'm still a fish !=전 아직 물고기인데요 !
 You are pushing it Maurice...=적당히 해라 모리스...
 AAAAARGH LET'S LEAVE ALREADY !!!=아아아아 빨리 출발해요 !!!
+
 //코퍼레이션-1
 Ullr=울르
 You're late.=늦었어.
@@ -1209,42 +1148,64 @@ Find more to unlock secrets !=비밀을 풀려면 더 많이 찾아야 해 !
 
 YETI=예티
 
-C..r..l w..ere ..re y.u  ............. Con....xion ...... ..ery  b..d .....czzztrxxlxllzzzzzbbbzzt=ㅋㅐ..로. 어ㄷㅣ...ㅈ.. ............. 여ㄴ....겨..... ㄴ..무 않.....치지이ㅣㅣㅣ이지지직
+//파인우드시티
+Welcome to the city of Pinewood=파인우드 시티에 오신 것을 환영합니다.
+You should use the cable car to head to the Glacier=글레이시어로 가려면 케이블카를 이용해야 해요.
+Weird... The cable car seems offline... =이상하네요... 케이블카 전원이 꺼져 있어요...
+Head to the Observatory to turn the power back on=천문대로 가서 케이블카 전원을 다시 켜야할 것 같아요.
 
-
-You're back again to buy some stuff ?=또 사러 온 거야 ?
-Klank Klank All those pearls in my box, mmmm i love money=짤랑 짤랑 모든 펄들이 내 상자 속에, 으음 나는 돈이 좋아
-Sup.=섭.
-Uuuuh i'm not sure this one works i use it to scratch my back=어어 그건 어디에 쓰는지 잘 몰라 나는 등 긁을 때 사용해
-Goodbye=안녕
-Ah !=아아 !//벤-인사
-Hihi.=히히.//막시그로-인사
-I'm warning ya, no refunds.=말해 두지만 환불은 없어.
-Go on, enjoy yourself !=잘 가, 잘 지내 !//벤-인사
-Ahah Patsy=아아 호구
-It's called the Though Corner, not the Broke Corner.=여긴 터프 코너지 대출 코너가 아니야.
-It's called the Tough Corner, not the Broke Corner.=여긴 터프 코너지 대출 코너가 아니야
-No you don't have enough pearls for that=안 돼 펄이 모자라잖아
-Oh ! Hello and welcome to THE Though Corner=오 ! 안녕 터프 코너에 온 것을 환영해
-Oh ! Hello and welcome to THE Tough Corner=오 ! 안녕 터프 코너에 온 것을 환영해
-You don't have enough pearls=펄이 부족해
-You can't afford that !=그걸로는 모자라 !
-See you.=다음에 봐.
-You're back to buy some stuff ?=또 사러 온 거야 ?
-Hi.=안녕.
-Welcoooome=어서오세요오오
-The robot says, goodbye.=로봇이 말합니다, 안녕.
-Hello.=안녕.
-Oooh hello and welcome to T-he-he-he Though Corner=오오 안녕하세요 터-터-터 터프 코너에 오신 것을 환영합니다
-Oooh hello and welcome to T-he-he-he Tough Corner=오오 안녕하세요 터-터-터 터프 코너에 오신 것을 환영합니다
-Beep boop beep boop beep boooooop=삡 붑 삡 붑 삡 부우웁
-
+//터프코너
+Uuuuh hello ? Anybody ?=어, 저기요? 아무도 없어요?
+Ben=벤
+Owww......Grrblblblblbll=어우......부르르르르
+Ooooh hello and welcome to THE Tough Corner=오, 안녕. 터프 코너에 어서와.
+What can i do for you my boy... girl... girl...=무엇을 도와 드릴까요, 왕자... 공주님... 공주님...
+Well i saw your shop and i was wondering what you were selling...=뭐, 어떤 물건을 팔고 있나 궁금해서요...
+*Burp* Watering cans... ton of watering cans=*꺼억* 물뿌리개 팔아... 많은 물뿌리개.
+What ? that's super lame !...=뭐라고요? 완전 헛소리네요!...
+Hey kid... How old are you ?=꼬마야... 나이가 어떻게 되니?
+10 years old why ?=10살인데, 왜요?
+You should have said so earlier you are old enough !=갖고 놀 수 있는 나이인데, 이제 말하면 어떡해!
+Ah that's much better !=아, 훨씬 낫네요!
+I have everything, bubbler mk2, Kf7 Liberator, potato launchers and ton of stuff...=원하는 건 다 있어. 버블러 mk2, KF7 리버레이터, 감자 발사기 등등...
+what about this one ?=저건 뭐에요?
+Oh this ?! That's the poopy popper from foam-blasters !=아, 저거?! 저건 Form-blasters에서 생산한 푸피 파퍼야!
+If you want i got a little tape about it=자세한 내용은 이 테이프에서 알려 줄게.
+But tapes are lame...=하지만 테이프는 재미없는데...
+Hey trash can, come here !=야, 쓰레기통. 일로 와!
+Maxigro=막시그로
+Hello i am Maxigro the funny robot=안녕. 나는 막시그로. 재미있는 로봇이지.
+yeah yeah whatever open your mouth...=그래, 그래. 알겠어. 입을 열어봐...
+I'm not sure this is...=그렇게 하면 안 될...
+Aarrgh aaarh aaaah Wrong way, Try again.=아아아. 아아. 아아. 반대 방향으로 다시 넣어주세요.
+Ah FU...Fun.....that's what i was gonna say=아, 개새ㄲ... 강아지... 강아지라고, 그냥.
+Great... Good job...=잘했어... 잘했어요...
+Yeah yeah whatever=그래, 그래. 알겠어.
+Hello to all the sleepy frorcs and WELCOME to THE Tough Corner=안녕, 모든 게으른 프로오크 여러분. 터프 코너에 오신 것을 환영합니다.
+Nobody asked for it but here it is: The Poopy popper from Foam Blasters=아무도 원하지 않았겠지만 Form Blasters에서 생산한 푸피 파퍼를 소개합니다.
+And it's AWFUL=이건 진짜 쓰레기야.
+No seriously guys, look at this! the paintjob is disgusting=그래 진심이야, 친구. 이거 봐! 이 끔찍한 페인팅 처리를.
+And look at that sight, Seriously ?! was it made for FRORCS ?!=그리고 시야를 보면, 진심이냐?! 이거 프로오크만 쓸 수 있는 거야?!
+And look at this accuracy EEWwWwAAARRGH i wanna barf=그리고 또 명중률을 보여줄게. 으에에에에, 토할 것 같아.
+i feel like im trying to shoot from a trampoline after a night at the Tavern=마치 술에 취한 상태로 트램펄린에서 쏘는 기분이라고.
+And the Woooorst thing is, This mess eat as much ammo as if we let lose a Searys in Splash Boulevard during a school trip !=무엇보다도 최악인 점은 탄약을 막 써버린다니까. 마치 소풍 날 스플래시 워터파크에 나타난 거대 물고기로부터 대피하는 속도로 말이야! //Searys가-큰-물고기?
+It's simple, the Liberator might be badly made, at least it WORKS=간단해. 리버레이터는 별로일 수 있지. 하지만 작동은 하잖아.
+BUT YOU DARE SELL THIS GUYS=하지만 너희들은 기필코 이걸 파는구나.
+Honestly, you should send a rubber band and a crayon to all your clients, it will do a lot more damage !=솔직히, 너희들은 고객에게 고무줄이랑 크레파스를 보내야 해. 그게 더 강력할테니까!
+So to resume thing, it's expensive, it's dreadful......=정리하자면, 비싸고, 최악이고......
+AND I BOUGHT A WHOLE SHIPMENT AAAAARGH HELP ME!=그리고 나는 이걸 대량으로 사버렸다고, 아아악 도와줘!
+So ? How many you want ?=그래서? 얼마나 원하니?
+But... You just said it was terrible...=하지만... 방금 전까지 끔찍하다고 말했잖아요...
+Aaaaaah well im sure some Frorcs will buy it=아아, 그럼 분명 몇 몇 프로오크들은 살 걸.
+Anyway take a look, i got plenty of stuff=아무튼 둘러봐. 이것 저것 팔고 있어.
 
 Sorry sweety, but this isn't ready yet, Don't worry though, the Devs are working hard on it!=미안해요 자기. 아직 준비가 덜 되었어요. 걱정하지 말아요. 개발자분들이 열심히 개발 중이에요!
-You found a Dimensional Stone=차원석을 발견했다
-Use it to power up the Portal=이것을 사용해서 포털을 작동시킬 수 있습니다
+You found a Dimensional Stone=차원석을 발견했다.
+Use it to power up the Portal=차원석을 사용해서 포털을 작동시킬 수 있습니다.
 
 Marina=마리나
+
+C..r..l w..ere ..re y.u  ............. Con....xion ...... ..ery  b..d .....czzztrxxlxllzzzzzbbbzzt=ㅋㅐ..로. 어ㄷㅣ...ㅈ.. ............. 여ㄴ....겨..... ㄴ..무 않.....치지이ㅣㅣㅣ이지지직
 
 B.. C..r..f..ll  ....xxbxbzbzbxzzxbzz  da..g...ous cczzzzzttrrrrrrrbbxxzzzz=ㅈㅗ....심.... ㅎ.... ....ㅊ치지ㅣㅣㅣㅣ이ㅣㅣ 위...ㅎ..ㅐ... 치ㅣㅣㅣㅣㅣㅣㅣㅣ지ㅣㅣㅣㄱ
 
@@ -1260,7 +1221,7 @@ What's the deal down those stairs ? that place is freaky !=밖의 계단 밑에�
 We have no idea what you are talking about=무슨 말씀하시는 지 잘 모르겠군요
 Giant teeth and tentacles everywhere ? you didn't notice that ?=거대한 이빨하고 촉수가 사방팔방에 있었는데요 ? 본 적 없었어요 ?
 We rarely leave our temple, even less since the ice tribe is causing us troubles=저희는 사원에서 잘 나가지 않습니다, 특히 아이스족이 침범한 이후로 말이죠
-They are back ! Run away ! Run awaaaay !=놈들이 왔다 ! 도망쳐 ! 도망쳐어어 !
+They are back ! Run away ! Run awaaaay !=놈들이 왔다! 도망쳐 ! 도망쳐어어 !
 Little Sister ! you must help us ! We cannot fight ourselves=수녀님 ! 저희를 도와주십시오 ! 저희로서는 싸울 수 없습니다
 You better have something nice for me after that.=이 일이 끝나면 보상을 넉넉히 줘야 할 거에요.
 
@@ -1364,7 +1325,7 @@ This little girl right here...=이 소녀라면...
 Could probably take both you and your warriors on... and make you beg for your Mama=베어님과 당신의 전사들을 모두 상대할 수 있을 겁니다... 베어님이 져서 엄마한테 이르러 갈 정도로요
 Is that so ?=그 정도로 ?
 Then please let me see for myself...!=그렇다면 내 눈으로 직접 확인해야 겠군...!
-In battle !=결투다 !
+In battle !=결투다!
 I usually wouldn't fight a child, as this is against my code of honor=원래라면 내 신념에 따라 아이와 싸우지 않겠지만,
 But since you are apparently so strong, what do you say ?=하지만 너가 그 정도로 강하다면, 어떻게 할 거냐?
 Finaly something interesting around here.=드디어 좀 재미있어지네.
@@ -1468,7 +1429,7 @@ Thoraldr=토랄드르
 Those boats are the glory of the village ! Sad that they will be totally useless for the battle...=이 배들은 우리 마을의 자랑이야 ! 싸움에는 전혀 도움이 안되서 유감이지만...
 Not gonna lie, this Paddock guy is really good at parking.=솔직히 말하자면 패덕이란 남자는 정말 주차를 잘하는거 같아.
 Geirny=거니
-I like your outfit !=옷 참 이쁘다 !
+I like your outfit !=옷 참 이쁘다!
 Thanks ! that's nice.=고마워 ! 신경 쓴 옷이거든.
 However you should stuff yourself more, you ain't gonna make it through the winter if you're thin like that=하지만 몸을 더 채우는 것이 좋겠어. 그렇게 마르면 겨울을 넘기기 어려울 거야
 Are you ready for battle ? Do you need a sword ?=싸울 준비 됐어 ? 검이 필요해 ?
@@ -1481,14 +1442,14 @@ The weather is really cold around here, But the auroras are beautiful.=이 곳 �
 Herjolf=헤룔프
 Being a lumberjack around here isn't easy, there's not many trees around=이 곳에서 나무꾼 일을 하기는 쉽지 않아. 나무가 별로 없거든
 Seems you've got your work cut out for you though.=그래도 그 일이 나무랄 데 없이 딱 맞나 보네요.
-AH ! CUT OUT ! I GOT IT ! HAHAHAHAHAHA !=아 ! 나무 ! 알겠다 ! 하하하하하하 !
+AH ! CUT OUT ! I GOT IT ! HAHAHAHAHAHA !=아 ! 나무 ! 알겠다! 하하하하하하 !
 Life in the village is axeolutly amazing !=이 마을의 삶은 완전 톱이야 !
 Lumberjack jokes, you don't get it=나무꾼 말장난인데, 이해하지 못했구나
 Yngvild=잉빌드
 When we won the war against the pine trees, we built our village on their grounds=우리가 소나무와의 전쟁에서 이겼을 때, 그들의 땅에 우리의 마을을 지었어요
 Wait ....then... all the wood from your houses is... =잠깐 ...그 말은... 당신의 집의 모든 나무들이...
 Our defeated enemies ! Yaaaaaaay !=우리가 무찌른 적들이죠 ! 예에에이 !
-I designed all the houses around here ! Do you like it ?=이 주변의 모든 집은 제가 설계했답니다 ! 마음에 드시나요 ?
+I designed all the houses around here ! Do you like it ?=이 주변의 모든 집은 제가 설계했답니다! 마음에 드시나요 ?
 You really did it all by yourself ?=정말로 혼자서 이 전부를 ?
 Yes, it was a lot of work. You can see my first house here and in front of it my latest one.=물론이죠, 힘든 작업이었어요. 여기 이 집이 처음에 지은 집이고 앞의 집이 가장 최근에 지은 집이에요.
 Bolli=볼리
@@ -1563,7 +1524,7 @@ Hey there little warrior !=안녕하신가, 꼬마 전사 !
 'Sup Honeybag=하이 곰돌이
 While you were busy everyone was hard at work here.=너가 바쁘게 돌아다니는 동안, 모두 이 곳에서 열심히 일하고 있었어. 
 And I want to show you something...=그래서 너한테 보여주고 싶은 게 뭐냐 하면...
-Isn't she beautiful ? Meet my personal war ship, the Leviathan !=멋지지 않아 ? 내 개인용 전쟁 함선, 레비아탄이다 !
+Isn't she beautiful ? Meet my personal war ship, the Leviathan !=멋지지 않아 ? 내 개인용 전쟁 함선, 레비아탄이다!
 Personaly I call her Levania.=나는 레바니아라고 불러.
 And no you can't drive her, Paddock already asked.=그리고 안 돼. 넌 운전할 수 없어. 패덕이 이미 먼저 부탁했거든.
 Everyone is ready for the big fight, So gear up !=모두가 큰 전투를 준비하고 있으니까, 각오 단단히 해 !
@@ -1582,12 +1543,12 @@ Nah...= 에이...
  Nah...=에이...
 They will probably run all over the place again, trip all over, and get stuck in the snow or something...=또 사방팔방 뛰다니다 넘어지고 눈에 파묻이고 그러겠지 뭐...
 Watch...=봐봐...
-Ready to fire !=발사합니다 ! 
+Ready to fire !=발사합니다! 
 No ! Wait !=안 돼 ! 기다려 !
 See ? What did i tell you.=봤지 ? 내가 뭐랬어.
 What happened ?!=무슨 일이지 ?!
 Narrs happened...=나르 일이요...
-Alright ! Plan B !=좋아 ! 플랜 B다 !
+Alright ! Plan B !=좋아 ! 플랜 B다!
 What is that ?!=저게 뭐야 ?!
 Sound the Alarm !!!=경보 울려 !!!
 
@@ -1710,7 +1671,7 @@ Your pure soul will be tainted.=순수한 영혼이 더러워지게 될거야.
 I set foot where I want, and your face seem like a nice spot.=나는 가고 싶은 데로 갈거야, 네 얼굴 위라든가.
 
 Aaah... If all my clients were like you....hm !=아아... 만약 모든 손님이 너와 같았으면....흡 !
-Thanks for your purchase ! Come back when you want !=구매해 주어서 감사합니다 ! 다음에 또 놀러오렴 !
+Thanks for your purchase ! Come back when you want !=구매해 주어서 감사합니다! 다음에 또 놀러오렴 !
 
 Right, see ya.=그래, 안녕.
 Cough, Cough, Patsy.=쿨럭, 쿨럭, 호구.
@@ -1742,7 +1703,7 @@ DAMAGE TEXT=피해량 표시
 FPS MODE (Experimental)=FPS 모드 (실험적)
 HEALTH BARS=체력 바
 
-YOU FOUND A NEW OUTFIT !=새로운 의상을 손에 넣었다 !
+YOU FOUND A NEW OUTFIT !=새로운 의상을 손에 넣었다!
 
 Ooooh you won't regret it=오오 후회하지 않을 거야.
 Oh I think you're broke...=오 돈이 없나 보네...
@@ -1915,7 +1876,7 @@ Carol, The library is right ahead, we have to go through the Academy=캐롤, 도
 
 //도서관
 Librarian=사서
-Hello and welcome to our library ! Do you need help with anything ?=안녕하세요 도서관에 오신 것을 환영합니다 ! 도움이 필요하신가요 ?
+Hello and welcome to our library ! Do you need help with anything ?=안녕하세요 도서관에 오신 것을 환영합니다! 도움이 필요하신가요 ?
 Hi ! Do you have any books on the Corporation ?=안녕하세요 ! 코퍼레이션에 관한 책이 있나요 ?
 Of course we do ! Do you need ''Get fit with Tut'' or ''Plushcoins for dumdums'', those are pretty popular !=물론이죠 ! 인기 있는 책들로, "투트와 함께 피트니스", "바보들을 위한 귀여운 동전지갑들" 등이 있어요 !
 No thanks... Can I take a look myself ?=아뇨 그런 것보단... 제가 직접 찾아 볼 수 있을까요 ?
@@ -1940,13 +1901,13 @@ Wait ! I need that book !=잠깐 ! 그 책이 필요하다고 !
 Guard=근위병
 Arrest the thieves !=도둑을 잡아라 !
 Wait ! Princess Shezara !=잠깐 ! 셰자라 공주 !
-What are you doing here ?! Let us escort you back to the palace safely !=여기서 뭐 하시는 겁니까 ?! 저희가 궁전까지 안전하게 호위하겠습니다 !
+What are you doing here ?! Let us escort you back to the palace safely !=여기서 뭐 하시는 겁니까 ?! 저희가 궁전까지 안전하게 호위하겠습니다!
 What the..=무슨..
-Yes Princess, there are thieves around ! It's dangerous for a Princess !=맞습니다 공주님, 도적단이 있다고요 ! 공주님에겐 너무 위험합니다 !
+Yes Princess, there are thieves around ! It's dangerous for a Princess !=맞습니다 공주님, 도적단이 있다고요 ! 공주님에겐 너무 위험합니다!
 What are you frogs talking about ?!=이 개구리가 무슨 소리 하는 거야 ?!
 Yes princess, that's right, you should head back to the palace=그래 공주, 궁전으로 돌아가야 해
 Hmmmpf..=으흠..
-Your majesty ! We found the Princess !=폐하 ! 공주님을 찾았습니다 !
+Your majesty ! We found the Princess !=폐하 ! 공주님을 찾았습니다!
 You mischievous daughter ! What were you up to this time ?!=이 말썽꾸러기 딸 ! 이번에는 무슨 일을 꾸미고 있었던 거야 ?!
 Sultan=술탄
 Who are you ?=누구세요 ?
@@ -1959,7 +1920,7 @@ Here you go again ! Hurting me like that !=또 그 소리 ! 상처을 주는구�
 What where you up to ? Hanging out with that biker frorc gang again ?=무슨 일을 꾸미고 있지 ? 또 그 프로오크 폭주족들과 노는구나 ?
 You know these things are not things a princess should do !=너도 그게 공주가 해야할 짓이 아니란 건 알텐데 !
 No no no i'm serious, who are you ? I'm not your daughter.=아니 아니 진심으로요, 누구시냐고요 ? 저는 당신의 딸이 아니에요.
-That's it ! You are GROUNDED !=이젠 못 참아 ! 외출 금지다 !
+That's it ! You are GROUNDED !=이젠 못 참아 ! 외출 금지다!
 Guards ! Escort her to her room ! And do not let her escape this time !=근위병 ! 공주를 방으로 모셔 ! 그리고 절대로 탈출하지 못하게 해 !
 Waaaah...=에에에...
 What did I get myself into this time...=이번에는 무슨 일에 휘말린 거야...
@@ -2060,10 +2021,8 @@ Sweet.=좋아.
 
 module=모듈
 Aurora=오로라
-Hairdryer shots are now wider=드라이기 샷의 범위가 더 넓어졌습니다
-Ah ! You won't regret it !=아 ! 후회하지 않을 거야 !//래그즈
-Eh Hurry up, i don't have many left.=어 서둘러, 이제 재고가 얼마 없어.
-Money equals pearls, pearls equasl money. Mmmmmm i love money=돈은 펄과 같지, 펄은 돈과 같지, 으으음 나는 돈이 좋아
+Hairdryer shots are now wider=헤어 드라이기 샷의 범위가 더 넓어졌습니다
+
 
 //Whats-new
 
@@ -2072,13 +2031,13 @@ SUMMER SLIME BLAST 4 and new movement options !=SUMMER SLIME BLAST 4와 새로�
 New Tales map !\n\nTake on the slimes once more in the district of Uchimizu, located in Corpopolis !\n\nBut be careful, the Slimes learned new tricks !=새로운 Tales 맵 !\n\n코르포폴리스의 우치미주 자치구에서 슬라임과 다시 한번 싸우세요 !\n\n하지만 조심하세요, 슬라임이 새로운 기술을 배웠거든요 !
 
 New features !\n\n- NEW MELEE SYSTEM !\n\n- Standing, moving and crouching and airborn have unique combo strings\n- Sliding have a kick attack\n- long jump have a dive kick attack\n- belly flopping have a roll attack\n- Pixie dash have a spin attack\n- Sprinting have a should bash\n- diving have a spiking attack\n\n- NEW BLOCK SYSTEM\n\n- Holding the dodge/sprint button when not moving (B on controller) will cause Carol to enter a blocking stance, blocking any incomming damage.\n- When blocking, Stamina is used as "Shield", if it reach zero, Carol will be stunned\n- after blocking a hit, you can do a counter attack\n=새로운 기능 !\n\n- 새로운 근접전 시스템 !\n\n- 가만히 서있기, 움직이기, 웅크리기, 공중에 떠있기 상태에서 고유의 근접전 연타 공격이 추가됨\n- 슬라이딩은 발차기 공격이 추가됨\n- 멀리 뛰기는 다이브 킥 공격이 추가됨\n- 엎드리기는 구르기 공격이 추가됨\n- 픽시 대시는 스핀 공격이 추가됨\n- 달리기는 어깨 밀치기가 추가됨a should bash- 다이브는 내려 찍기 공격이 추가됨\n\n- 새로운 막기 시스템\n\n- 움직이지 않은 상태에서 회피/달리기 버튼을 누르면 (컨트롤러의 B버튼) 캐롤은 막기 상태에 도입합니다, 들어오는 공격을 막습니다.\n- 막는 동안 스테미나가 "실드"로 사용됩니다, 스테미나가 0이 되면 캐롤은 기절합니다\n- 공격을 막는 즉시 반격이 가능합니다\n
-During October and November, we will be releasing a lot of content !\n\nWe are starting with a new Tales map, HIGH TENSION !\n\n\n\n=10월과 11월동안 많은 콘텐츠를 제공할 예정입니다 !\n\n새로운 Tales 맵으로 시작합니다, HIGH TENSION입니다 !\n\n\n\n
-The season of Tricks & Treats begins !=트릭 앤 트리트 시즌이 시작했습니다 !
+During October and November, we will be releasing a lot of content !\n\nWe are starting with a new Tales map, HIGH TENSION !\n\n\n\n=10월과 11월동안 많은 콘텐츠를 제공할 예정입니다!\n\n새로운 Tales 맵으로 시작합니다, HIGH TENSION입니다!\n\n\n\n
+The season of Tricks & Treats begins !=트릭 앤 트리트 시즌이 시작했습니다!
 
 
-Part2 of the season of Tricks & Treats is here !=트릭 앤 트리트 시즌의 두 번째 내용이 공개됩니다 !
-Part3 of the season of Tricks & Treats is here !=트릭 앤 트리트 시즌의 세 번째 내용이 공개됩니다 !
-During October and November, we will be releasing a lot of content !\n\nWe released a newTales map, HIGH TENSION !\nNow get ready for a Hunt map full of spooky surprises, Death Valley !\n\n=10월과 11월동안 많은 콘텐츠를 제공할 예정입니다 !\n\n새로운 Tales 맵으로 시작합니다, HIGH TENSION입니다 !\n이제 무서운 서프라이즈로 가득한 Hunt 맵을 만난 준비하세요, Death Valley 입니다 !\n\n
+Part2 of the season of Tricks & Treats is here !=트릭 앤 트리트 시즌의 두 번째 내용이 공개됩니다!
+Part3 of the season of Tricks & Treats is here !=트릭 앤 트리트 시즌의 세 번째 내용이 공개됩니다!
+During October and November, we will be releasing a lot of content !\n\nWe released a newTales map, HIGH TENSION !\nNow get ready for a Hunt map full of spooky surprises, Death Valley !\n\n=10월과 11월동안 많은 콘텐츠를 제공할 예정입니다!\n\n새로운 Tales 맵으로 시작합니다, HIGH TENSION입니다!\n이제 무서운 서프라이즈로 가득한 Hunt 맵을 만난 준비하세요, Death Valley 입니다!\n\n
 
 In the Chroma Falls village, a strange altar has appeared.....\n\nApproach it to start the Halloween challenge and claim your terrifying prize !\n\n=크로마 폴 마을에 이상한 제단이 나타났습니다.....\n\n제단에 다가가서 핼러윈 챌린지를 시작하고 끔찍한 보상을 획득하세요 !\n\n
 Darkness falls across the Chroma Falls.... Halloween night is here...=어둠이 크로마 폴을 덮쳤습니다.... 핼러윈의 밤이 찾아왔습니다...
@@ -2087,7 +2046,7 @@ Then head to the temple and claim your spooky prize...=그런 다음 제단으�
 
 
 VERSUS (PLAYGROUND) MODE OVERHAUL AND ENGINE UPGRADE !=VERSUS (PLAYGROUND) 모드가 개편 및 엔진 업그레이드 !
-Versus mode has been reworked from scratch !\n\nIt is no longer a multiplayer only game mode, in fact, you can now add up to 15 Carols bots !\n\nNew gamemodes, new maps, new settings !\n\nPlay a variety of team based gamemodes, or fight for your own glory !\n\nYou can also customize the match with weapon sets, abilities and more !=Versus 모드가 처음부터 새로 재작업되었습니다 !\n\n 이제 멀티플레이어 전용 모드가 아닙니다, 정확히는 최대 15명의 캐롤 봇을 추가할 수 있습니다 !\n\n 새로운 게임 모드, 새로운 맵, 새로운 설정 !\n\n다양한 팀 기반 게임 모드를 즐기거나, 영광을 위해 싸우세요 !\n\n또한 무기 세트, 능력 등을 맞춤 설정할 수 있습니다 ! 
+Versus mode has been reworked from scratch !\n\nIt is no longer a multiplayer only game mode, in fact, you can now add up to 15 Carols bots !\n\nNew gamemodes, new maps, new settings !\n\nPlay a variety of team based gamemodes, or fight for your own glory !\n\nYou can also customize the match with weapon sets, abilities and more !=Versus 모드가 처음부터 새로 재작업되었습니다!\n\n 이제 멀티플레이어 전용 모드가 아닙니다, 정확히는 최대 15명의 캐롤 봇을 추가할 수 있습니다!\n\n 새로운 게임 모드, 새로운 맵, 새로운 설정 !\n\n다양한 팀 기반 게임 모드를 즐기거나, 영광을 위해 싸우세요 !\n\n또한 무기 세트, 능력 등을 맞춤 설정할 수 있습니다! 
 
 New features !\n\n- Carol can now walljump while aiming\n- Added a setting to change Carol voice and subtitles separatly\n- Added Real time reflection setting\n- Added Global illumination setting\n- Reworked the Sparkle Mortar\n- Reworked the Laser oscillator\n- New engine version\n- Fixed issues with the water in chroma falls temple\n- New pressure pistol model\n- New weapons !\n- Probably a lot of stuff i forgot about !=새로운 기능 !\n\n- 캐롤은 이제 조준 모드에서 벽 점프를 할 수 있습니다\n- 캐롤의 목소리와 자막을 따로 설정할 수 있는 설정을 추가\n- 실시간 반사 설정을 추가\n- 글로벌 일루미네이션 설정을 추가\n- 반짝반짝 박격포를 재작업\n- 레이저 발진기를 재작업\n- 새로운 엔진 버전\n- 크로마 폴 유적의 물과 관련된 문제를 고침\n- 새로운 프레셔 피스톨 모델\n- 새로운 무기 !\n- 아마도 내가 까먹은 많은 것들 !
 
@@ -2100,7 +2059,7 @@ New features !\n\n- New health bar system for enemies\n\n- Critical points ! You
 
 New features !\n\n- New quick melee ! (press the use key to do it when there is nothing to use nearby)\n\n- Reworked inferno valley lighting\n- Ladybun outfit added to tough corner\n- Hunt Smg rework\n- Hunt Gadget reworks\n	- Flak bomb\n	- Ice mine\n	- Sentry gun\n	- Electro punch\n	- Shield projector\n- new Boomstick model=새로운 기능 !\n\n- 신규 빠른 근접 공격 ! (근처에 아무것도 상호작용할 것이 없는 상태에서 상호작용 버튼을 누르면 공격함)\n\n- 재작업된 인페르노 밸리 조명 효과\n-레이디번 의상이 터프 코너에 추가되었습니다\n- Hunt Smg 재작업\n- Hunt 가젯 재작업\n   - 플라크 폭탄\n	- 얼음 지뢰\n	- 센트리 건\n	- 일렉트로 펀치\n	- 실드 프로텍터\n- 새로운 붐스틱 모델
 New Hunt map !=새로운 Hunt 맵 !
-LUNAR ESPLANADE=LUNAR ESPLANADE
+
 New Hunt map !\n\nFight off the Corporation during the year of the Bunbun festival on the lunar esplanade !=새로운 Hunt 맵 !\n\n루나 에스플러네이드에서 개최하는 번번의 해 페스티벌 동안 코퍼레이션과 맞서 싸우세요 !
 
 New features !\n\n- New gadget system !\nNow gadgets are bound to two buttons, like abilities, and work on cooldowns. You can only carry two now.\n\n- Reworked Elixirs into super powerful buffs that got their own slots.\n\n-Reworked toybox so Guns and Gadgets are saved as soon as you find / buy one\n\n- Most gadgets have been rebalanced to fit the new system=새로운 기능 !\n\n- 새 가젯 시스템 !\n이제 능력처럼 가젯이 2개의 버튼에 할당됩니다, 쿨타임이 적용됩니다. 이제 최대 2개까지만 들고 다닐 수 있습니다. \n\n- 재작업된 엘릭서는 매우 강력한 버프를 제공하며 고유한 슬롯을 차지합니다. \n\n- 재작업된 장난감상자는 이제 발견한 / 구매한 모든 총과 가젯을 저장합니다 \n\n- 대부분의 가젯이 새 시스템에 맞게 조정되었습니다
@@ -2108,8 +2067,8 @@ New features !\n\n- New gadget system !\nNow gadgets are bound to two buttons, l
 New Adventure chapter !\n\nExplore the magestic city of Alhibdae !=새로운 어드벤처 챕터 !\n\n알히브데의 마법의 도시를 탐험하세요 !
 
 New Adventure area, the WINDY MEADOWS !=새로운 모험 지역, 바람이 부는 초원!
-Set between the Inferno valley and the Shining Treetops, we are adding a new adventure area !\n\nBut why add a new level between those two you might ask ?\nWe felt that early Onirism lacked a bit of the variety of the later levels, so we wanted to improve the pace of the early game !\n\nExplore the new meadows using brand new vehicles ! and discover all it's secrets !=인페르노 밸리와 샤이닝 트리톱 사이에 새로운 어드벤처 에어리어가 추가되었습니다 !\n\n그런데 왜 새로운 에어리어 만들었나요 ?\nOnirism의 앞부분이 뒷부분보다 다양성 부분이 조금 부족하다고 느꼈습니다. 그래서 앞부분에 다양성을 추가하기 원했기 때문입니다 !\n\n 새로운 탈 것을 타고 초원을 탐색하세요 ! 그리고 모든 비밀을 찾아보세요 !
+Set between the Inferno valley and the Shining Treetops, we are adding a new adventure area !\n\nBut why add a new level between those two you might ask ?\nWe felt that early Onirism lacked a bit of the variety of the later levels, so we wanted to improve the pace of the early game !\n\nExplore the new meadows using brand new vehicles ! and discover all it's secrets !=인페르노 밸리와 샤이닝 트리톱 사이에 새로운 어드벤처 에어리어가 추가되었습니다!\n\n그런데 왜 새로운 에어리어 만들었나요 ?\nOnirism의 앞부분이 뒷부분보다 다양성 부분이 조금 부족하다고 느꼈습니다. 그래서 앞부분에 다양성을 추가하기 원했기 때문입니다!\n\n 새로운 탈 것을 타고 초원을 탐색하세요 ! 그리고 모든 비밀을 찾아보세요 !
 New features !\n\n- Carol now has proper hands, goodbye square sausage fingers\n- Improved some of the old outfits models\n- added 15 new outfits !\n- Carol can now carry 4 extra guns, from 5 to 9 !\n- new damage over time system\n- added 3 new weapons\n- HUGE weapon balance patch, check the steam patchnotes for more info !=새로운 기능 !\n\n- 캐롤은 이제 적절한 손을 얻었습니다, 잘 있어 네모난 소시지 손가락\n- 몇 몇 오래된 의상 모델을 개선\n- 15개의 새로운 의상을 추가 !\n- 캐롤은 이제 4개의 총을 더 들고 다닌 수 있습니다, 5개에서 9개로 늘어났죠 !\n- 새로운 시간 당 피해량 시스템\n- 새로운 무기 3개\n- 엄청난 무기 밸런스 패치, 더 자세한 정보는 Steam 패치 노트를 확인해주세요 !
 
 AREA 15 REWORK=AREA 15 재 작업
-The Area 15 tales map got a complete overhaul !\n=Area 15 Tales 맵이 개편되었습니다 !\n
+The Area 15 tales map got a complete overhaul !\n=Area 15 Tales 맵이 개편되었습니다!\n

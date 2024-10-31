@@ -15,24 +15,24 @@ r:"Pro Boomstick MK.(\d)"=프로 붐스틱 MK.$1
 r:"Pro Toaster MK.(\d)"=프로 토스터 MK.$1
 r:"Pro Nader MK.(\d)"=프로 네이더 MK.$1
 
-
 Welcome to Hunt ! The Goal of this mode is to survive multiple wave of enemies and get the higher score ! The more enemies you eliminate in a row the more points you get !=Hunt에 오신 것을 환영합니다! Hunt 모드는 매 웨이브마다 출현하는 적들를 잡아 최고 기록을 노리는 것입니다! 콤보가 끊기지 않고 더 많은 적을 처치할 수록 더 높은 점수를 얻을 수 있습니다!
 Meet the Maxcot ! He can spawn during waves randomly. Shoot him, he got a lot of pearls in his pockets=막스코트를 소개합니다! 웨이브 중에 랜덤으로 스폰하는 적입니다. 막스코트를 쏘면 주머니에 있는 대량의 펄을 얻을 수 있습니다!
 Use this button to launch the next wave !=버튼을 눌러 다음 웨이브를 시작할 수 있습니다!
 Use these machine to upgrade your Toys, abilities, stats and gadgets !=머신을 사용해서 장난감, 능력, 스텟, 가젯을 업그레이드할 수 있습니다!
 This is a Bot Spawner, you can activate it during the wave to spawn robots that will award cash ! Use these smartly, as they can be used to keep your combo up !=이것은 봇 스포너입니다. 웨이브 도중 작동시키면, 펄을 떨어트리는 로봇들을 소환시킬 수 있습니다! 콤보가 끊기는 것을 방지하는데 사용할 수 있습니다!
-WEAPONS=무기
-ABILITIES=능력
-SPEED DEMON=SPEED DEMON
-PIXIE DASH=PIXIE DASH
-DOUBLE JUMP=DOUBLE JUMP
-HARD LOOTER=HARD LOOTER
-VAMPIRESS=VAMPIRESS
+//맵
+HUNT TUTORIAL=HUNT 튜토리얼
+SUNSET STADIUM=선셋 스타디움
+DOOMED COLISEUM=운명의 콜로세움
+SEWERS ARENA=하수도 아레나
+SHANGRI-LA=샹그릴라
+GREENHOUSE HIPPODROME=그린하우스 대경기장
+PINEWOOD CIRCLE=파인우드 서클
+NORTHERN FRORC TEMPLE=북쪽의 프로오크 템플
+NEPTUNIA'S MARINA=넵튜니아의 마리나
+LUNAR ESPLANADE=루나 에스플러네이드
+DRY ROCK=드라이 락
 
-GADGETS=가젯
-AMMO=탄약
-AGILITY=어질리티
-STAMINA=스테미나
 START THE HUNT=Hunt 시작
 LET THE HUNT BEGIN !=LET THE HUNT BEGIN !
 THE HUNT IS OVER=THE HUNT IS OVER
@@ -42,4 +42,5 @@ DAMAGE TAKEN=맞은 피해량
 DAMAGE DEALT=가한 피해량
 Final Score:=최종 점수:
 RETRY=다시 시도
+EXIT=나가기
 Victory !=Victory !

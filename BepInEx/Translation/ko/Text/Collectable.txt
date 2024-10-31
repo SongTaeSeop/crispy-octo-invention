@@ -32,6 +32,7 @@ Quickly heal 20 Hp=20 HP를 빠르게 회복
 //무기
 r:"^You got the (.+)$"=$1을(를) 손에 넣었다!
 Laser Dryer=레이저 드라이기
+HAIRDRYER=헤어 드라이기
 Blunderbuss=나팔총
 Somewhat useful ?=조금은 유용할지도?
 You got the Blunderbuss !=나팔총을 손에 넣었다!
@@ -486,7 +487,10 @@ You got the Ecto Blaster !=액토 블래스터를 손에 넣었다!
 
 You got the Widow's kiss !=과부의 키스를 손에 넣었다!
 You got the Widow 's kiss !=과부의 키스를 손에 넣었다!//인게임
+//Tales
 BroomStick=부룸스틱
+Crearium Accelerator=크레아륨 가속기
+Classic BB-11=클래식 BB-11
 
 //가젯
 Bubble Bracer=거품 브레이서
@@ -595,6 +599,7 @@ Sentry Gun=센트리 건
 //TALES
 Snowball=눈덩이
 Heavy Swimsuit=헤비 수영복
+Scooter=스쿠터
 Malum Cucurbita=말룸 쿠쿠르비타
 Lux Sphaera=럭스 스패라
 Perros Guirec=페로스 기레크
@@ -741,3 +746,4 @@ Biker=바이커
 Beach Day=해변의 날
 Pool Party=수영장 파티 
 Froggy splash=개구리 스플래시
+Hazmat Suit=화학 방호복

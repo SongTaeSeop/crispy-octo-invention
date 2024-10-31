@@ -54,7 +54,26 @@ r"YOU PUT PLAYER (\d) TO SLEEP"=플레이어 $1을(를) 잠들게 했습니다
 r"PLAYER (\d) PUT YOU TO SLEEP"=플레이어 $1이(가) 당신을 잠재웠습니다
 r:"^You put (.+) to sleep"=$1을(를) 잠들게 했습니다
 r:"^(.+) put you to sleep"=$1이(가) 당신을 잠재웠습니다
+//맵
+BALLPITS=고무공 풀장
+WATERPARK=워터파크
+FAIRY WOODS=요정 숲
+ROOFTOPS=루프톱
+NIGHTCLUB=나이트클럽
+SKYRAIL=스카이레일
+MINES=동굴
+TOMB=유적
+SPACEPORT=우주 기지
+DOCKS=부두
+SCHOOL=학교
+TESTING GROUND=테스팅 그라운드
+CATHEDRAL=대성당
+HYPERSPACE=하이퍼스페이스
+ATLANTIS=아틀란티스
+FACE TO FACE=면대면
 
+//기믹
+NUCLEAR BROCCOLI TEST INBOUND=핵 브로콜리 실험 발사체 접근 중
 //봇이름
 Demon Queen=Demon Queen
 A hat with a gun=A hat with a gun
