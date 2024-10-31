@@ -15,11 +15,7 @@ r:"Pro Boomstick MK.(\d)"=프로 붐스틱 MK.$1
 r:"Pro Toaster MK.(\d)"=프로 토스터 MK.$1
 r:"Pro Nader MK.(\d)"=프로 네이더 MK.$1
 
-Electro Punch=일렉트로 펀치
-Shield Projector=실드 프로젝터
-Flak Bomb=플라크 폭탄
-Ice Mine=얼음 지뢰
-Sentry Gun=센트리 건
+
 Welcome to Hunt ! The Goal of this mode is to survive multiple wave of enemies and get the higher score ! The more enemies you eliminate in a row the more points you get !=Hunt에 오신 것을 환영합니다! Hunt 모드는 매 웨이브마다 출현하는 적들를 잡아 최고 기록을 노리는 것입니다! 콤보가 끊기지 않고 더 많은 적을 처치할 수록 더 높은 점수를 얻을 수 있습니다!
 Meet the Maxcot ! He can spawn during waves randomly. Shoot him, he got a lot of pearls in his pockets=막스코트를 소개합니다! 웨이브 중에 랜덤으로 스폰하는 적입니다. 막스코트를 쏘면 주머니에 있는 대량의 펄을 얻을 수 있습니다!
 Use this button to launch the next wave !=버튼을 눌러 다음 웨이브를 시작할 수 있습니다!

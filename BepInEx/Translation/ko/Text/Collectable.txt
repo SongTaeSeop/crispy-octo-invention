@@ -1,13 +1,16 @@
 //+개수아이템!
-r:"^\+([0-9]{1,10}) (.+) !$"=+$1 $2!
-r:"^\+([0-9]{1,10}) (.+)!$"=+$1 $2!
+sr:"^\+([0-9]{1,10}) (.+) !$"=+$1 $2!
+sr:"^\+([0-9]{1,10}) (.+)!$"=+$1 $2!
 //자원
 Health=체력
 Imagination Shard=상상 파편
+Firework=폭죽
 Fireworks=폭죽
 Soap Water=비눗물
 Foam Ammo=발포탄
 Energy=에너지
+//업그레이드
+
 //엘릭서
 Regen Elixir=회복 엘릭서
 Heal 40hp + 4 Hp every second for 20 seconds=40 HP를 회복 + 20초 동안 매 초 4 씩 회복
@@ -34,452 +37,456 @@ Somewhat useful ?=조금은 유용할지도?
 You got the Blunderbuss !=나팔총을 손에 넣었다!
 Boomstick=붐스틱
 Good for those with terrible aim=조준이 어려운 사람도 쉽게 다룰 수 있습니다
-You got the Boomstick !=붐스틱을 손에 넣었다 !
+You got the Boomstick !=붐스틱을 손에 넣었다!
 Hydra=히드라
 3 shot bursts, used by the woodland mercenaries=3 점 샷, 숲의 용병들이 사용합니다
-You got the Hydra !=히드라를 손에 넣었다 !
+You got the Hydra !=히드라를 손에 넣었다!
 Drencher=드렌처
 I think it's raining today=오늘 비가 올 것 같아
-You got the Drencher !=드렌처를 손에 넣었다 !
+You got the Drencher !=드렌처를 손에 넣었다!
 Flaregun=플레어건
 You are not supposed to shoot it at people...=사람을 향해 발사하면 안 됩니다...
-You got the Flaregun !=플레어건을 손에 넣었다 !
+You got the Flaregun !=플레어건을 손에 넣었다!
 Big Boomstick=빅 붐스틱
 Because one barrel is never enough=싱글 배럴로는 부족하니까
-You got the Big Boomstick !=빅 붐스틱을 손에 넣었다 !
+You got the Big Boomstick !=빅 붐스틱을 손에 넣었다!
 Elven Pencil Thrower=엘프 연필 발사기
 Made aeons ago, yet somehow use batteries=수 년 전에 제작된 무기, 그럼에도 배터리로 작동한다
 You got the Elven Pencil Thrower !=엘프 연필 발사기를 손에 넣었다!
 Dual Splashers=듀얼 스플래셔
 Double the gun, Double the fun=총이 2배, 재미가 2배
-You got the Dual Splashers !=듀얼 스플래셔를 손에 넣었다 !
+You got the Dual Splashers !=듀얼 스플래셔를 손에 넣었다!
 Fairy Wand=요정 완드
 Magic.=마법.
-You got the Fairy Wand !=요정 완드를 손에 넣었다 !
+You got the Fairy Wand !=요정 완드를 손에 넣었다!
 Bazooka=바주카
 Time for some fireworks=폭죽을 터트릴 시간
-You got the Bazooka !=바주카를 손에 넣었다 !
+You got the Bazooka !=바주카를 손에 넣었다!
 Varmint Carabine=버민트 카라빈
 Mainly used by the swamp people=늪지대 사람들이 주로 사용합니다
-You got the Varmint Carabine !=버민트 카라빈을 손에 넣었다 !
+You got the Varmint Carabine !=버민트 카라빈을 손에 넣었다!
 Liberator=리버레이터
 Famous in the resistance, its accuracy is terrible=저항군에서 유명합니다. 끔찍한 정확도로요
-You got the Liberator !=리버레이터를 손에 넣었다 !
+You got the Liberator !=리버레이터를 손에 넣었다!
 Stinger=스팅어
 
-You got the Stinger !=스팅어를 손에 넣었다 !
+You got the Stinger !=스팅어를 손에 넣었다!
 Soda Sprayer=소다 스프레이
 
-You got the Soda Sprayer !=소다 스프레이를 손에 넣었다 !
+You got the Soda Sprayer !=소다 스프레이를 손에 넣었다!
 Sniper Rifle=스나이퍼 라이플
 If you need glasses.=돋보기가 필요하다면.
-You got the Sniper Rifle !=스나이퍼 라이플을 손에 넣었다 !
+You got the Sniper Rifle !=스나이퍼 라이플을 손에 넣었다!
 Aquommando=아쿠만도
 Shoot like there is no tomorrow=내일은 생각하지 말고 쏴라
-You got the Aquommando !=아쿠만도를 손에 넣었다 !
+You got the Aquommando !=아쿠만도를 손에 넣었다!
 the HIVE=더 하이브
-You got the the HIVE !=더 하이브를 손에 넣었다 !
-You got the HIVE !=더 하이브를 손에 넣었다 !
+You got the the HIVE !=더 하이브를 손에 넣었다!
+You got the HIVE !=더 하이브를 손에 넣었다!
 Sparkle Mortar=반짝반짝 박격포
 Turn every fight into a party=모든 전투가 파티로 변해라
-You got the Sparkle Mortar !=반짝반짝 박격포를 손에 넣었다 !
+You got the Sparkle Mortar !=반짝반짝 박격포를 손에 넣었다!
 Toaster=토스터
 
-You got the Toaster !=토스터를 손에 넣었다 !
+You got the Toaster !=토스터를 손에 넣었다!
 'Nade Launcher=유탄 발사기
 
-You got the 'Nade Launcher !=유탄 발사기를 손에 넣었다 !
+You got the 'Nade Launcher !=유탄 발사기를 손에 넣었다!
 Floria's Bow=플로리아족의 활
 
-You got the Floria's Bow !=플로리아족의 활을 손에 넣었다 !
+You got the Floria's Bow !=플로리아족의 활을 손에 넣었다!
 Storm PDW=스톰 PDW
 Tactical drenching device=전술 분사기
-You got the Storm PDW !=스톰 PDW를 손에 넣었다 !
+You got the Storm PDW !=스톰 PDW를 손에 넣었다!
 Spore Rifle=스포어 라이플
 
-You got the Spore Rifle !=스포어 라이플을 손에 넣었다 !
+You got the Spore Rifle !=스포어 라이플을 손에 넣었다!
 Pressure Pistol 7=프레셔 피스톨 7
 Perfect for silent deeds=암살에 완벽합니다
-You got the Pressure Pistol 7 !=프레셔 피스톨 7을 손에 넣었다 !
+You got the Pressure Pistol 7 !=프레셔 피스톨 7을 손에 넣었다!
 
 Rustic Boomstick=러스틱 붐스틱
 
-You got the Rustic Boomstick !=러스틱 붐스틱을 손에 넣었다 !
+You got the Rustic Boomstick !=러스틱 붐스틱을 손에 넣었다!
 Splash-12=스플래시-12
 Time for a shower=샤워할 시간
-You got the Splash-12 !=스플래시-12를 손에 넣었다 !
+You got the Splash-12 !=스플래시-12를 손에 넣었다!
 P-Lah Mk3=P-Lah Mk3
 Ingalls wished he had this=잉걸스가 갖고 싶다고 기도한 것 //Ingalls?
-You got the P-Lah Mk3 !=P-Lah Mk3를 손에 넣었다 !
+You got the P-Lah Mk3 !=P-Lah Mk3를 손에 넣었다!
 Combat Boomstick=컴뱃 붐스틱
 Charge it to fire a grenade=충전해서 수류탄을 발사합니다
-You got the Combat Boomstick !=컴뱃 붐스틱을 손에 넣었다 !
+You got the Combat Boomstick !=컴뱃 붐스틱을 손에 넣었다!
 Turbinotron-56=터비노트론-56
 Blast 'em all=다 날려버려
-You got the Turbinotron-56 !=터비노트론-56을 손에 넣었다 !
+You got the Turbinotron-56 !=터비노트론-56을 손에 넣었다!
 ElectroBubbler=일렉트로 버블러
 Fire homing electrified bubbles=유도 전기 거품을 발사합니다
-You got the ElectroBubbler !=일렉트로 버블러를 손에 넣었다 !
+You got the ElectroBubbler !=일렉트로 버블러를 손에 넣었다!
 Icicle Launcher=고드름 발사기
 Charge it to release a bigger icicle=충전해서 더 큰 고드름을 발사합니다
-You got the Icicle Launcher !=고드름 발사기를 손에 넣었다 !
+You got the Icicle Launcher !=고드름 발사기를 손에 넣었다!
 KF7 Operator=KF7 오퍼레이터
 Nice tool don't you think comrade ?=좋은 도구라고 생각하지 않나, 동무 ?
-You got the KF7 Operator !=KF7 오퍼레이터를 손에 넣었다 !
+You got the KF7 Operator !=KF7 오퍼레이터를 손에 넣었다!
 Buffalo-XL=버팔로-XL
 
-You got the Buffalo-XL !=버팔로-XL을 손에 넣었다 !
+You got the Buffalo-XL !=버팔로-XL을 손에 넣었다!
 Wyvern=와이번
 
-You got the Wyvern !=와이번을 손에 넣었다 !
+You got the Wyvern !=와이번을 손에 넣었다!
 Cryolator=크라이오레이터 //폴아웃4패러디
 
-You got the Cryolator !=크라이오레이터를 손에 넣었다 !
+You got the Cryolator !=크라이오레이터를 손에 넣었다!
 Bubbler=버블러
 A shower of deadly bubbles !=죽음의 거품 샤워 !
-You got the Bubbler !=버블러를 손에 넣었다 !
+You got the Bubbler !=버블러를 손에 넣었다!
 Crossbow=석궁
 
-You got the Crossbow !=석궁을 손에 넣었다 !
+You got the Crossbow !=석궁을 손에 넣었다!
 Venom-GZR=베놈-GZR
 
-You got the Venom-GZR !=베놈-GZR을 손에 넣었다 !
+You got the Venom-GZR !=베놈-GZR을 손에 넣었다!
 Hydra-tech=히드라-테크
 Splash-Tec improved the old Hydra designs=Splash-Tec가 업그레이드한 히드라 디자인
-You got the Hydra-tech !=히드라-테크를 손에 넣었다 !
+You got the Hydra-tech !=히드라-테크를 손에 넣었다!
 Heavy Firework Repeater=헤비 폭죽 리피터
 Fire 5 fireworks in a quick burst=빠르게 5연속 폭죽 발사
-You got the Heavy Firework Reapeater !=헤비 폭죽 리피터를 손에 넣었다 !
-You got the Heavy Firework Repeater !=헤비 폭죽 리피터를 손에 넣었다 !
+You got the Heavy Firework Reapeater !=헤비 폭죽 리피터를 손에 넣었다!
+You got the Heavy Firework Repeater !=헤비 폭죽 리피터를 손에 넣었다!
 Olympus=올림푸스
 Shoots big exploding balls of water=커다란 폭발하는 물방울을 발사합니다
-You got the Olympus !=올림푸스를 손에 넣었다 !
+You got the Olympus !=올림푸스를 손에 넣었다!
 La Duchesse=라 두체스
 
-You got the La Duchesse !=라 두체스를 손에 넣었다 !
+You got the La Duchesse !=라 두체스를 손에 넣었다!
 Crayon Launcher=크레용 발사기
 Also good for coloring=색칠놀이에도 좋아요
-You got the Crayon Launcher !=크레용 발사기를 손에 넣었다 !
+You got the Crayon Launcher !=크레용 발사기를 손에 넣었다!
 Goop-O-Matic=끈적끈적 마커//Splatoon의-볼드마커-패러디?
 Make everything sticky=전부 끈적끈적하게 만들어라
-You got the Goop-O-Matic !=끈적끈적 마커를 손에 넣었다 !
+You got the Goop-O-Matic !=끈적끈적 마커를 손에 넣었다!
 Hydrozooka=하이드로주카
 Instant flooding=인스턴트 홍수
-You got the Hydrozooka !=하이드로주카를 손에 넣었다 !
+You got the Hydrozooka !=하이드로주카를 손에 넣었다!
 Laser Oscillator=레이저 발진기
 Fire a constant stream of energy=일정한 흐름의 에너지를 발사합니다
-You got the Laser Oscillator !=레이저 발진기를 손에 넣었다 !
+You got the Laser Oscillator !=레이저 발진기를 손에 넣었다!
 Elven Lense Cannon=엘프 렌즈 캐논
 Fire a stream of lasers=레이저 광선을 발사합니다
-You got the Elven Lense Cannon !=엘프 렌즈 캐논을 손에 넣었다 !
+You got the Elven Lense Cannon !=엘프 렌즈 캐논을 손에 넣었다!
 
 Peace Bringer R33=피스 브링어 R33
 m16Description=m16Description//오류?
-You got the Peace Bringer R33 !=피스 브링어 R33를 손에 넣었다 !
+You got the Peace Bringer R33 !=피스 브링어 R33를 손에 넣었다!
 Poopy Popper=푸피 파퍼
 Watch the tape kid !=이 테이프를 봐, 꼬마야 !
-You got the Poopy Popper !=푸피 파퍼를 손에 넣었다 !
+You got the Poopy Popper !=푸피 파퍼를 손에 넣었다!
 Soapy Hues=소피 휴즈
 
-You got the Soapy Hues !=소피 휴즈를 손에 넣었다 !
+You got the Soapy Hues !=소피 휴즈를 손에 넣었다!
 Hotkiss Bonet Merci=핫키스 베넷 메르시에//Hotchkiss-M1909-Benét–Mercié-machine-gun-총이-어원
 A vestige from the old war=과거 전쟁의 자취
-You got the Hotkiss Bonet Merci !=핫키스 베넷 메르시에를 손에 넣었다 !
+You got the Hotkiss Bonet Merci !=핫키스 베넷 메르시에를 손에 넣었다!
 Mimigun=미미건
 It costs over 100 pearls to shoot this for 12 seconds=딱 12초만 쏘면 100펄이 날아가는 거지//TF2의-Meet-the-Heavy-패러디
-You got the Mimigun !=미미건을 손에 넣었다 !
+You got the Mimigun !=미미건을 손에 넣었다!
 Hot Typhon=핫 타이폰
 Steaming hot=뜨거운 증기
-You got the Hot Typhon !=핫 타이폰을 손에 넣었다 !
+You got the Hot Typhon !=핫 타이폰을 손에 넣었다!
 Hurricane-90=허리케인-90
 Made for the Corporation Elite troops=코퍼레이션 엘리트 부대를 위해 제작되었습니다
-You got the Hurricane-90 !=허리케인-90을 손에 넣었다 !
+You got the Hurricane-90 !=허리케인-90을 손에 넣었다!
 Poison bow=포이즌 보우
 Fire poison arrow that deal damage over time=지속적으로 피해를 주는 독 화살을 발사합니다
-You got the poison bow !=포이즌 보우를 손에 넣었다 !
+You got the poison bow !=포이즌 보우를 손에 넣었다!
 Papasha=파파샤
 BB hose.=BB 호스.
-You got the Papasha !=파파샤를 손에 넣었다 !
+You got the Papasha !=파파샤를 손에 넣었다!
 SP5-Navy=SP5-네이비
 A tactical classic=택티컬 클래식
-You got the SP5-Navy !=SP5-네이비를 손에 넣었다 !
+You got the SP5-Navy !=SP5-네이비를 손에 넣었다!
 Sticky Launcher=접착 폭탄 발사기
 Fire Sticky bombs=접착 폭탄을 발사합니다
-You got the Sticky Launcher !=접착 폭탄 발사기를 손에 넣었다 !
+You got the Sticky Launcher !=접착 폭탄 발사기를 손에 넣었다!
 Hot Fuzz=핫 퓨즈
 Aaaaah that's hot=으아아아 뜨거워
-You got the Hot Fuzz !=핫 퓨즈를 손에 넣었다 !
+You got the Hot Fuzz !=핫 퓨즈를 손에 넣었다!
 Hornet=호넷 //하프라이프
 Fire a stream of micro missiles that stick to targets=적에게 날아가는 초소형 미사일들을 발사합니다
-You got the Hornet !=호넷을 손에 넣었다 !
+You got the Hornet !=호넷을 손에 넣었다!
 EM Mag-Rail=EM 매그-레일
 Fire a magnetic shot that go through any surface=모든 벽을 통과하는 자기장 샷을 발사합니다
-You got the EM Mag-Rail !=EM 매그-레일을 손에 넣었다 !
+You got the EM Mag-Rail !=EM 매그-레일을 손에 넣었다!
 The Huntresses=더 헌트레스
 Fire bolts that go through enemies=적을 관통하는 화살을 발사합니다
-You got the The Huntresses !=더 헌트레스를 손에 넣었다 !
+You got the The Huntresses !=더 헌트레스를 손에 넣었다!
 Tesla Cannon=테슬라 캐논
 Positively shocking=긍정적인 충격
-You got the Tesla Cannon !=테슬라 캐논을 손에 넣었다 !
+You got the Tesla Cannon !=테슬라 캐논을 손에 넣었다!
 Flash-4=플래시-4
 Fire incendiary rockets=화염 로켓을 발사합니다
-You got the Flash-4 !=플래시-4를 손에 넣었다 !
+You got the Flash-4 !=플래시-4를 손에 넣었다!
 Frisbee Cannon=프리스비 캐논
 Fire a frisbee that bounce around=통통 튀는 프리즈비를 발사합니다
-You got the Frisbee Cannon !=프리스비 캐논을 손에 넣었다 !
+You got the Frisbee Cannon !=프리스비 캐논을 손에 넣었다!
 Airburst MX=에어버스트 MX
 Automatic balloon launcher=자동 풍선 발사기
-You got the Airburst MX !=에어버스트 MX를 손에 넣었다 !
+You got the Airburst MX !=에어버스트 MX를 손에 넣었다!
 Ice Staff=얼음 지팡이
 
-You got the Ice Staff !=얼음 지팡이를 손에 넣었다 !
+You got the Ice Staff !=얼음 지팡이를 손에 넣었다!
 Ymir's Breath=이미르의 숨결
 
-You got the Ymir's Breath !=이미르의 숨결을 손에 넣었다 !
+You got the Ymir's Breath !=이미르의 숨결을 손에 넣었다!
 Garnet Revolver=가넷 리볼버
 
-You got the Garnet Revolver !=가넷 리볼버를 손에 넣었다 !
+You got the Garnet Revolver !=가넷 리볼버를 손에 넣었다!
 Vintage Rifle=빈티지 라이플
 
-You got the Vintage Rifle !=빈티지 라이플을 손에 넣었다 !
+You got the Vintage Rifle !=빈티지 라이플을 손에 넣었다!
 Doc's Rifle=박사의 라이플
 This'll shoot the fleas off a Frorc's back=프로오크의 등에 붙은 벼룩도 맞힐 수 있지//백투더퓨처PART3패러디
-You got the Doc's Rifle !=박사의 라이플을 손에 넣었다 !
+You got the Doc's Rifle !=박사의 라이플을 손에 넣었다!
 UZB=UZB
 Shoot stuff and store data !=쏠 수도 있고 데이터를 저장할 수 있지 !
-You got the UZB !=UZB를 손에 넣었다 !
+You got the UZB !=UZB를 손에 넣었다!
 HandKranker=핸드크랭커
 Krank it up=마구 돌려 버려
-You got the HandKranker !=핸드크랭커를 손에 넣었다 !
+You got the HandKranker !=핸드크랭커를 손에 넣었다!
 Heavy Machine Gun=헤비 머신 건
 
-You got the Heavy Machine Gun !=헤비 머신 건을 손에 넣었다 !
+You got the Heavy Machine Gun !=헤비 머신 건을 손에 넣었다!
 Devastatron=데바스테이트론
 Two rocket launchers for the price of one=로켓 발사기 두 개를 한 개의 가격으로
-You got the Devastatron !=데바스테이트론을 손에 넣었다 !
+You got the Devastatron !=데바스테이트론을 손에 넣었다!
 Bouncing Blizzard=바운싱 블리자드
 Fire bouncing projectiles that freeze enemies=적을 얼리는 통통 튀는 탄을 발사합니다
-You got the Bouncing Blizzard !=바운싱 블리자드를 손에 넣었다 !
+You got the Bouncing Blizzard !=바운싱 블리자드를 손에 넣었다!
 Pool Sweeper=풀 스위퍼
 Automatic cleaning device=자동 청소 기기
-You got the Pool Sweeper !=풀 스위퍼를 손에 넣었다 !
+You got the Pool Sweeper !=풀 스위퍼를 손에 넣었다!
 Meteor Strike=메테오 스트라이크
 Fire 6 projectiles in a star pattern=6개의 발사체가 별을 그리며 발사합니다
-You got the Meteor Strike !=메테오 스트라이크를 손에 넣었다 !
+You got the Meteor Strike !=메테오 스트라이크를 손에 넣었다!
 Gamma Claw=감마 클로
 Lock on up to 5 enemies=최대 5명의 적까지 고정
-You got the Gamma Claw !=감마 클로를 손에 넣었다 !
+You got the Gamma Claw !=감마 클로를 손에 넣었다!
 Dragon=드래곤
 
-You got the Dragon !=드래곤을 손에 넣었다 !
+You got the Dragon !=드래곤을 손에 넣었다!
 Starhawk.50=스타호크.50
 They say it can stop trucks !=이 무기는 트럭도 막을 수 있대 !
-You got the Starhawk.50 !=스타호크.50를 손에 넣었다 !
+You got the Starhawk.50 !=스타호크.50를 손에 넣었다!
 Napalm Cannon=네이팜 캐논
 Toasty !=노릇노릇 !
-You got the Napalm Cannon !=네이팜 캐논을 손에 넣었다 !
+You got the Napalm Cannon !=네이팜 캐논을 손에 넣었다!
 Splashling=스플래시 스피너
 Solve your enemies thirst issues=적들의 갈증 문제를 해결합니다
 
 Window Maker=윈도우 메이커
 It makes windows.=창문 제조기
-You got the Window Maker !=윈도우 메이커를 손에 넣었다 !
+You got the Window Maker !=윈도우 메이커를 손에 넣었다!
 Whistling Arrow=효시
 Fire explosive arrow=폭발 화살을 발사합니다
-You got the Whistling Arrow !=효시를 손에 넣었다 !
+You got the Whistling Arrow !=효시를 손에 넣었다!
 TommyGun=토미건
 
-You got the TommyGun !=토미건을 손에 넣었다 !
+You got the TommyGun !=토미건을 손에 넣었다!
 Sludger=슬러저
 
-You got the Sludger !=슬러저를 손에 넣었다 !
+You got the Sludger !=슬러저를 손에 넣었다!
 R.P.G=R.P.G
 
-You got the R.P.G !=R.P.G를 손에 넣었다 !
+You got the R.P.G !=R.P.G를 손에 넣었다!
 Jessie & James=제시 & 제임스
 For true Desperados=진정한 데스페라도를 위한 무기
-You got the Jessie & James !=제시 & 제임스를 손에 넣었다 !
+You got the Jessie & James !=제시 & 제임스를 손에 넣었다!
 UberBubbler=우버버블러
 A bubbler, but UBER=버블러, UBER가 추가된
-You got the UberBubbler !=우버버블러를 손에 넣었다 !
+You got the UberBubbler !=우버버블러를 손에 넣었다!
 Doppellauf=도펠라우프
 
-You got the Doppellauf !=도펠라우프를 손에 넣었다 !
+You got the Doppellauf !=도펠라우프를 손에 넣었다!
 Trench Boomstick=트렌치 붐스틱
 
-You got the Trench Boomstick !=트렌치 붐스틱을 손에 넣었다 !
+You got the Trench Boomstick !=트렌치 붐스틱을 손에 넣었다!
 Model 101=모델 101
 
-You got the Model 101 !=모델 101을 손에 넣었다 !
+You got the Model 101 !=모델 101을 손에 넣었다!
 STG=STG
 
-You got the STG !=STG를 손에 넣었다 !
+You got the STG !=STG를 손에 넣었다!
 Cerberus=케르베로스
 
-You got the Cerberus !=케르베로스를 손에 넣었다 !
+You got the Cerberus !=케르베로스를 손에 넣었다!
 Little Pearl=리틀 펄
 
-You got the Little Pearl !=리틀 펄을 손에 넣었다 !
+You got the Little Pearl !=리틀 펄을 손에 넣었다!
 Klog-9=클록-9
 
-You got the Klog-9 !=클록-9을 손에 넣었다 !
+You got the Klog-9 !=클록-9을 손에 넣었다!
 Wasserpistole 96=워셔피스톨레 96
 
-You got the Wasserpistole 96 !=워셔피스톨레 96를 손에 넣었다 !
+You got the Wasserpistole 96 !=워셔피스톨레 96를 손에 넣었다!
 Lycan's Bane=라이칸의 베인
 
-You got the Lycan's Bane !=라이칸의 베인을 손에 넣었다 !
+You got the Lycan's Bane !=라이칸의 베인을 손에 넣었다!
 Sakura Rifle=벚꽃 라이플
 
-You got the Sakura Rifle !=벚꽃 라이플을 손에 넣었다 !
+You got the Sakura Rifle !=벚꽃 라이플을 손에 넣었다!
 EnSten-11=EnSten-11
 
-You got the EnSten-11=EnSten-11을 손에 넣었다 !
+You got the EnSten-11=EnSten-11을 손에 넣었다!
 Railgun=레일건
 
-You got the Railgun !=레일건을 손에 넣었다 !
+You got the Railgun !=레일건을 손에 넣었다!
 Judicator=재판관
 
-You got the Judicator !=재판관을 손에 넣었다 !
+You got the Judicator !=재판관을 손에 넣었다!
 Compact Cleaner=콤팩트 클리너
 
-You got the Compact Cleaner !=콤팩트 클리너를 손에 넣었다 !
+You got the Compact Cleaner !=콤팩트 클리너를 손에 넣었다!
 
 Deck Clearer=데크 클리어러
 One shot is enough to clean the deck=데크를 청소하는데 한 발이면 충분해
-You got the Deck Clearer !=데크 클리어러를 손에 넣었다 !
+You got the Deck Clearer !=데크 클리어러를 손에 넣었다!
 Schaumpistole 9=샤움피스톨레 9
 
-You got the Schaumpistole 9 !=샤움피스톨레 9을 손에 넣었다 !
+You got the Schaumpistole 9 !=샤움피스톨레 9을 손에 넣었다!
 Jolly Launcher=졸리 발사기
 
-You got the Jolly Launcher=졸리 발사기를 손에 넣었다 !
+You got the Jolly Launcher=졸리 발사기를 손에 넣었다!
 Harpoon=작살
 
-You got the Harpoon !=작살을 손에 넣었다 !
+You got the Harpoon !=작살을 손에 넣었다!
 Cold Thumper=콜드 썸퍼
 
-You got the Cold Thumper !=콜드 썸퍼를 손에 넣었다 !
+You got the Cold Thumper !=콜드 썸퍼를 손에 넣었다!
 Laptop Gun=랩톱 건//PerfectDark패러디?
 
-You got the Laptop Gun !=랩톱 건을 손에 넣었다 !
+You got the Laptop Gun !=랩톱 건을 손에 넣었다!
 Precision Boom Device=정밀 폭발 장치
 
-You got the Precision Boom Device !=정밀 폭발 장치를 손에 넣었다 !
+You got the Precision Boom Device !=정밀 폭발 장치를 손에 넣었다!
 Zapper=재퍼
 
-You got the Zapper !=재퍼를 손에 넣었다 !
+You got the Zapper !=재퍼를 손에 넣었다!
 Rashasha=라샤샤
 Rashashashashashashashashashashashasha !=라샤샤샤샤샤샤샤샤샤샤샤샤 !
-You got the Rashasha !=라샤샤를 손에 넣었다 !
+You got the Rashasha !=라샤샤를 손에 넣었다!
 Royal Lance=로열 랜스
 A royal upgrade of the elven lance=엘프 랜스의 로열 업그레이드
-You got the Royal Lance !=로열 랜스를 손에 넣었다 !
+You got the Royal Lance !=로열 랜스를 손에 넣었다!
 Antimatter Rifle=반물질 라이플
 Charge to fire an orb that can be destroyed with the primary fire=충전 샷으로 구체를 발사할 수 있고, 구체는 일반 샷에 맞으면 폭발합니다
-You got the Antimatter Rifle !=반물질 라이플을 손에 넣었다 !
+You got the Antimatter Rifle !=반물질 라이플을 손에 넣었다!
 Gentleman's Tool=신사의 도구
 Charge to use the secondary barrel=충전 샷으로 두 번째 배럴을 사용합니다
-You got the Gentleman's Tool !=신사의 도구를 손에 넣었다 !
+You got the Gentleman's Tool !=신사의 도구를 손에 넣었다!
 Captain's Boomstick=캡틴의 붐스틱
 
-You got the Captain's Boomstick !=캡틴의 붐스틱을 손에 넣었다 !
+You got the Captain's Boomstick !=캡틴의 붐스틱을 손에 넣었다!
 Janny's fury=제니의 격노
 It's just a bucket, really.=그냥 양동이야, 진짜로.
-You got the Janny's fury !=제니의 격노를 손에 넣었다 !
+You got the Janny's fury !=제니의 격노를 손에 넣었다!
 Hydra-XL=히드라-XL
 Fire heavy globs of water=묵직한 물방울을 발사합니다
-You got the Hydra-XL !=히드라-XL을 손에 넣었다 !
+You got the Hydra-XL !=히드라-XL을 손에 넣었다!
 Streetart Vortex=스트리트아트 볼텍스
 Shoot a spinning vortex that goes through target, and smaller projectiles in a cone=적을 관통하는 회전하는 볼텍스를 발사하며, 동시에 부채꼴 모양으로 작은 발사체를 발사합니다
-You got the Streetart Vortex !=스트리트아트 볼텍스를 손에 넣었다 !
+You got the Streetart Vortex !=스트리트아트 볼텍스를 손에 넣었다!
 Roller Blade=롤러 블레이드
 Fire wide projectiles that go through targets=적을 관통하는 넓은 범위의 발사체를 발사합니다
-You got the Roller Blade !=롤러 블레이드를 손에 넣었다 !
+You got the Roller Blade !=롤러 블레이드를 손에 넣었다!
 Tidal Whale=타이달 웨일
 Generate massive waves that go through targets=적을 관통하는 거대한 파도를 생성
-You got the Tidal Whale !=타이달 웨일을 손에 넣었다 !
+You got the Tidal Whale !=타이달 웨일을 손에 넣었다!
 Power washer=파워 워셔
 Fire a constant stream of water=일정한 수압의 물을 발사합니다
-You got the Power washer !=파워 워셔를 손에 넣었다 !
+You got the Power washer !=파워 워셔를 손에 넣었다!
 Ballpoint Inker=볼펜 총
 Charge it to increase the range=충전 샷으로 더 먼 거리를 공격합니다
-You got the Ballpoint Inker !=볼펜 총을 손에 넣었다 !
+You got the Ballpoint Inker !=볼펜 총을 손에 넣었다!
 Burster-SR=버스터-SR
 Short range blaster=근거리 블래스터
-You got the Burster-SR !=버스터-SR을 손에 넣었다 !
+You got the Burster-SR !=버스터-SR을 손에 넣었다!
 Burster-LR=버스터-LR
 Long range blaster=원거리 블래스터
-You got the Burster-LR !=버스터-LR을 손에 넣었다 !
+You got the Burster-LR !=버스터-LR을 손에 넣었다!
 Queensgirl's Rainmaker=퀸즈걸의 레인메이커
 Hold the fire button to deploy a shield=발사 버튼을 길게 눌러 실드를 생성합니다
-You got the Queensgirl's Rainmaker !=퀀즈걸의 레인메이커를 손에 넣었다 !
+You got the Queensgirl's Rainmaker !=퀀즈걸의 레인메이커를 손에 넣었다!
 Bubbler Blower=버블러 블로어
 Blow giant bubbles that can bounce on surfaces=바닥에서 통통 튀는 거대한 거품들을 발사합니다
-You got the Bubbler Blower !=버블러 블로어를 손에 넣었다 !
+You got the Bubbler Blower !=버블러 블로어를 손에 넣었다!
 
 Tacticooler=택티쿨러
 
-You got the Tacticooler !=택티쿨러를 손에 넣었다 !
+You got the Tacticooler !=택티쿨러를 손에 넣었다!
 RayP 40=RayP 40
 
-You got the RayP 40 !=RayP 40를 손에 넣었다 !
+You got the RayP 40 !=RayP 40를 손에 넣었다!
 Enforcer=집행자
 
-You got the Enforcer !=집행자를 손에 넣었다 !
+You got the Enforcer !=집행자를 손에 넣었다!
 Raygun=레이건
 
-You got the Raygun !=레이건을 손에 넣었다 !
+You got the Raygun !=레이건을 손에 넣었다!
 Strikers=스트라이커즈
 
-You got the Strikers !=스트라이커즈를 손에 넣었다 !
+You got the Strikers !=스트라이커즈를 손에 넣었다!
 'Tickler' Chaingun='티클러' 체인건
 
-You got the 'Tickler' Chaingun !='티클러' 체인건을 손에 넣었다 !
+You got the 'Tickler' Chaingun !='티클러' 체인건을 손에 넣었다!
 Super Dragon=슈퍼 드래곤
 
-You got the Super Dragon !=슈퍼 드래곤을 손에 넣었다 !
+You got the Super Dragon !=슈퍼 드래곤을 손에 넣었다!
 Raygun Carbine=레이건 카빈
 
-You got the Raygun Carbine !=레이건 카빈을 손에 넣었다 !
+You got the Raygun Carbine !=레이건 카빈을 손에 넣었다!
 The Shock Value=더 쇼크 밸류
 
-You got the The Shock Value !=더 쇼크 밸류를 손에 넣었다 !
+You got the The Shock Value !=더 쇼크 밸류를 손에 넣었다!
 Desert Raptor=데저트 랩터
 
-You got the Desert Raptor !=데저트 랩터를 손에 넣었다 !
+You got the Desert Raptor !=데저트 랩터를 손에 넣었다!
 Krabb=크랩
 
-You got the Krabb !=크랩을 손에 넣었다 !
+You got the Krabb !=크랩을 손에 넣었다!
 Impulse Rifle=임펄스 라이플
 
-You got the Impulse Rifle !=임펄스 라이플을 손에 넣었다 !
+You got the Impulse Rifle !=임펄스 라이플을 손에 넣었다!
 Orion Laser Rifle=오리온 레이저 라이플
 
-You got the Orion Laser Rifle !=오리온 레이저 라이플을 손에 넣었다 !
+You got the Orion Laser Rifle !=오리온 레이저 라이플을 손에 넣었다!
 Apep Staff=아펩 지팡이
 
-You got the Apep Staff !=아펩 지팡이를 손에 넣었다 !
+You got the Apep Staff !=아펩 지팡이를 손에 넣었다!
 K-Pr-1 Launcher=K-Pr-1 발사기
 
-You got the K-Pr-1 Launcher !=K-Pr-1 발사기를 손에 넣었다 !
+You got the K-Pr-1 Launcher !=K-Pr-1 발사기를 손에 넣었다!
 'Storm' Gewehr='스톰' 게베어
 
-You got the 'Storm' Gewehr !='스톰' 게베어를 손에 넣었다 !
+You got the 'Storm' Gewehr !='스톰' 게베어를 손에 넣었다!
 ZL9 Lasergun=ZL9 레이저건
 Shotgun that has a Horizontal spread that goes through targets=적을 관통하고 수평으로 퍼지는 샷을 발사하는 샷건
-You got the ZL9 Lasergun !=ZL9 레이저건을 손에 넣었다 !
+You got the ZL9 Lasergun !=ZL9 레이저건을 손에 넣었다!
 BB-12 Spreader=BB-12 스프레더
 The longer it fires, the faster it fires=오래 발사할 수록, 발사 속도가 빨라집니다
-You got the BB-12 Spreader !=BB-12 스프레더를 손에 넣었다 !
+You got the BB-12 Spreader !=BB-12 스프레더를 손에 넣었다!
 XPML SonicBoom=XPML 소닉붐
 
-You got the XPML SonicBoom !=XPML 소닉붐을 손에 넣었다 !
+You got the XPML SonicBoom !=XPML 소닉붐을 손에 넣었다!
 Widow's kiss=과부의 키스
 Widow 's kiss=과부의 키스//인게임
+Ecto Blaster=액토 블래스터
+
+You got the Ecto Blaster !=액토 블래스터를 손에 넣었다!
 
 You got the Widow's kiss !=과부의 키스를 손에 넣었다!
 You got the Widow 's kiss !=과부의 키스를 손에 넣었다!//인게임
+BroomStick=부룸스틱
 
 //가젯
 Bubble Bracer=거품 브레이서
@@ -579,7 +586,29 @@ Napalm Strike=네이팜 폭격
 Rain fire upon things you don't enjoy, like vegetables=좋아하지 않는 것들을 향해 불 폭격을 가합니다. 채소처럼요.
 Rocket Sentry=로켓 센트리
 Rocket launching sentry gun=로켓을 발사하는 센트리 건
-
+//HUNT
+Electro Punch=일렉트로 펀치
+Shield Projector=실드 프로젝터
+Flak Bomb=플라크 폭탄
+Ice Mine=얼음 지뢰
+Sentry Gun=센트리 건
+//TALES
+Snowball=눈덩이
+Heavy Swimsuit=헤비 수영복
+Malum Cucurbita=말룸 쿠쿠르비타
+Lux Sphaera=럭스 스패라
+Perros Guirec=페로스 기레크
+Vitibus Spiculum=비티부스 스피쿨룸
+Abra Isekai=아브라 이세카이
+Spectrum Invokum=스펙트럼 인보쿰
+Volare Natare=볼라레 나타레
+Terra Daemonium=테라 데이모늄
+Magnus Saltus=마그누스 살투스
+Nonoss Invokum=노노스 인보쿰
+Exponentia Sanguinis=익스포넨시아 상기니스
+Minima Persona=미니마 페르소나
+Ignis Badaboum=이그니스 바다붐
+Atchoum Fluctus=애첨 플루투스
 //의상
 Ladybug=무당벌레
 Skater=스케이터
