@@ -1,72 +1,5 @@
-﻿Player 1=Player 1
-Player 2=Player 2
-Player 3=Player 3
-Player 4=Player 4
-YOU PUT PLAYER 1 TO SLEEP=Player 1을 잠들게 했습니다
-PLAYER 1 PUT YOU TO SLEEP=Player 1이 당신을 잠재웠습니다
-YOU PUT PLAYER 2 TO SLEEP=Player 2를 잠들게 했습니다
-PLAYER 2 PUT YOU TO SLEEP=Player 2가 당신을 잠재웠습니다
-YOU PUT PLAYER 3 TO SLEEP=Player 3를 잠들게 했습니다
-PLAYER 3 PUT YOU TO SLEEP=Player 3가 당신을 잠재웠습니다
-YOU PUT PLAYER 4 TO SLEEP=Player 4를 잠들게 했습니다
-PLAYER 4 PUT YOU TO SLEEP=Player 4가 당신을 잠재웠습니다
-PRESS A TO JOIN=A 키를 눌러서 참여
-SELECT A CHARACTER=SELECT A CHARACTER
-
-r:"^You put (.+?)(\s+)(?=to sleep$) to sleep"=$1을(를) 잠들게 했습니다
-r:"^(.+?)(\s+)(?=put you to sleep$) put you to sleep"=$1이(가) 당신을 잠재웠습니다
-
-DMG DEALT=가한 피해량
-DMG TAKEN=맞은 피해량
-ROOKIE's DOME=ROOKIE's DOME
-Oh...Hello and welcome to Tough TV !=어... 안녕. 터프 TV에 온 것을 환영해 !
-Live from the Rookie's Dome=루키스 돔에서 라이브 중이야.
-That is a lot of spectators for a training session=리허설인데도 관객들이 많이 찾아와 줬어.
-Well at least rookies are fun to laugh at....hehe...=뭐 적어도 루키들을 보면 재밌잖아... 히히...
-Today's match is going to be a BLAST=오늘의 경기는 정말 엄청날 거야.
-Big money, Big prizes, I love it.=많은 상금. 큰 보상. 너무 좋아.
-Let's see how's today's challenger is going to do....hehe...=그럼 오늘 도전자의 활약을 보도록 해....히히...
-r:"Pro Soaker MK.(\d)"=프로 소커 MK.$1
-r:"Pro Zooka MK.(\d)"=프로 주카 MK.$1
-r:"Pro Railgun MK.(\d)"=프로 레일건 MK.$1
-r:"Pro Boomstick MK.(\d)"=프로 붐스틱 MK.$1
-r:"Pro Toaster MK.(\d)"=프로 토스터 MK.$1
-r:"Pro Nader MK.(\d)"=프로 네이더 MK.$1
-
-Electro Punch=일렉트로 펀치
-Shield Projector=실드 프로젝터
-Flak Bomb=플라크 폭탄
-Ice Mine=얼음 지뢰
-Sentry Gun=센트리 건
-Welcome to Hunt ! The Goal of this mode is to survive multiple wave of enemies and get the higher score ! The more enemies you eliminate in a row the more points you get !=Hunt에 오신 것을 환영합니다! Hunt 모드는 매 웨이브마다 출현하는 적들를 잡아 최고 기록을 노리는 것입니다! 콤보가 끊기지 않고 더 많은 적을 처치할 수록 더 높은 점수를 얻을 수 있습니다!
-Meet the Maxcot ! He can spawn during waves randomly. Shoot him, he got a lot of pearls in his pockets=막스코트를 소개합니다! 웨이브 중에 랜덤으로 스폰하는 적입니다. 막스코트를 쏘면 주머니에 있는 대량의 펄을 얻을 수 있습니다!
-Use this button to launch the next wave !=버튼을 눌러 다음 웨이브를 시작할 수 있습니다!
-Use these machine to upgrade your Toys, abilities, stats and gadgets !=머신을 사용해서 장난감, 능력, 스텟, 가젯을 업그레이드할 수 있습니다!
-This is a Bot Spawner, you can activate it during the wave to spawn robots that will award cash ! Use these smartly, as they can be used to keep your combo up !=이것은 봇 스포너입니다. 웨이브 도중 작동시키면, 펄을 떨어트리는 로봇들을 소환시킬 수 있습니다! 콤보가 끊기는 것을 방지하는데 사용할 수 있습니다!
-WEAPONS=무기
-ABILITIES=능력
-SPEED DEMON=SPEED DEMON
-PIXIE DASH=PIXIE DASH
-DOUBLE JUMP=DOUBLE JUMP
-HARD LOOTER=HARD LOOTER
-VAMPIRESS=VAMPIRESS
-
-GADGETS=가젯
-AMMO=탄약
-AGILITY=어질리티
-STAMINA=스테미나
-START THE HUNT=Hunt 시작
-LET THE HUNT BEGIN !=LET THE HUNT BEGIN !
-THE HUNT IS OVER=THE HUNT IS OVER
-Defeat !=Defeat !
-DOWNED=쓰러진 횟수
-DAMAGE TAKEN=맞은 피해량
-DAMAGE DEALT=가한 피해량
-Final Score:=최종 점수:
-RETRY=RETRY
-Victory !=Victory !
-GAME OVER=GAME OVER
-YOU SURVIVED=생존
+﻿GAME OVER=게임 오버
+YOU SURVIVED=생존한 웨이브
 WAVES=웨이브
 
 SWEET SWIFTNESS=SWEET SWIFTNESS
@@ -95,56 +28,55 @@ TOTAL REFILL=TOTAL REFILL
 DOUBLE DAMAGE=DOUBLE DAMAGE
 
 CORNBRIDGE, U.S.C=U.S.C 콘브릿지
-PLANET=PLANET
-GLOOM LAKE=GLOOM LAKE
+PLANET=행성
+GLOOM LAKE=글룸 레이크
 Somewhere in the polar sea...=극해의 어딘가...
 Lecordier's Witchcraft Public School=레코르디아의 공립 마법 학교
 THRILL LAGOON=스릴 라군
 SPLASHBOULEVARD=스플래시 워터파크
 On Halloween Night...=핼러윈 밤...
-PARK ENTRY=PARK ENTRY
-SURVIVAL=SURVIVAL
+PARK ENTRY=공원 입구
+SURVIVAL=서바이벌
 Somewhere in the mountains...=산 중턱 어딘가...
-EPSILON FACILITY=EPSILON FACILITY
-HIGH TENSION=HIGH TENSION
+EPSILON FACILITY=입실론 공장
+HIGH TENSION=하이 텐션
 You need to turn on the Power=전원을 켜야 합니다
-DEATH VALLEY=DEATH VALLEY
-Oh...Hello and welcome to THE UNDERWORLD=오... 안녕 언더월드에 온 것을 환영해
+DEATH VALLEY=데스 밸리
+Oh...Hello and welcome to THE UNDERWORLD=오... 안녕. 언더월드에 온 걸 환영해.
 Tonight match is going to be terrifying !=오늘 밤 경기는 끔찍할거야 !
 I always knew we would end up here.=우리가 여기까지 올 줄 알았지.
-Well now that we are here might as well have some fun !=뭐 그럼 온 김에 신나게 즐기자고 !
+Well now that we are here might as well have some fun !=뭐 그럼, 온 김에 신나게 즐기자고 !
+
 Snowball=눈덩이
-+10 Snowball!=+10 눈덩이!
-+1 Snowball!=+1 눈덩이!
 Heavy Swimsuit=헤비 수영복
+Splash Jacket=스플래시 재킷
+
 Minako Yūrei=미나코 유레이
 SODA=소다
 Classic BB-11=클래식 BB-11
 NEW JOLLY CITY=뉴 졸리 시티
 A CHRISTMAS CAROL=크리스마스 캐롤
-Uchimizu District=Uchimizu District
+Uchimizu District=우치미주 구역
 SUMMER SLIME BLAST 4=SUMMER SLIME BLAST 4
 Scooter=스쿠터
 BIG BULLY INCOMING=거대 불량배 출현
 
-r:"^Buy (.+?)(\s+)(?=for) for ([0-9]{1,10}) pearls$"=$2펄로 $1 구매
-
-
+r:"^Buy (.+) for ([0-9]{1,10}) pearls$"=$2펄로 $1 구매
 r:"^([0-9]{1,10}) pearls for a random Elixir$"=$1펄로 랜덤 엘릭서 구매
-r:"^Buy Soap Water for ([0-9]{1,10}) pearls$"=$1펄로 비눗물 구매
-r:"^Buy Energy for ([0-9]{1,10}) pearls$"=$1펄로 에너지 구매
-r:"^Buy Foam Ammo for ([0-9]{1,10}) pearls$"=$1펄로 발포탄 구매
-r:"^Buy Fireworks for ([0-9]{1,10}) pearls$"=$1펄로 폭죽 구매
-r:"^Buy Soda for ([0-9]{1,10}) pearls$"=$1펄로 소다 구매
-r:"^Buy Heal for ([0-9]{1,10}) pearls$"= $1펄로 회복 구매
 r:"^([0-9]{1,10}) pearls to open$"=$1펄로 열기
-r:"^Buy BACK SHIELD for ([0-9]{1,10}) pearls$"=$1펄로 후방 실드 구매
 r:"^([0-9]{1,10}) pearls for a random weapon$"=$1펄로 랜덤 무기 구매
 r:"^([0-9]{1,10}) pearls to upgrade your weapon$"=$1펄로 무기 업그레이드
 r:"^([0-9]{1,10}) pearls to activate the generator$"=$1펄로 발전기 작동
 r:"^([0-9]{1,10}) pearls to Activate TRAP$"=$1펄로 함정 작동
 r:"^([0-9]{1,10}) pearls to use the Teleporter$"=$1펄로 텔레포터 사용
 r:"^([0-9]{1,10}) pearls to call Nine to help$"=$1펄로 나인에게 도움 요청
+r:"^Buy Soap Water for ([0-9]{1,10}) pearls$"=$1펄로 비눗물 구매
+r:"^Buy Energy for ([0-9]{1,10}) pearls$"=$1펄로 에너지 구매
+r:"^Buy Foam Ammo for ([0-9]{1,10}) pearls$"=$1펄로 발포탄 구매
+r:"^Buy Fireworks for ([0-9]{1,10}) pearls$"=$1펄로 폭죽 구매
+r:"^Buy Soda for ([0-9]{1,10}) pearls$"=$1펄로 소다 구매
+r:"^Buy Heal for ([0-9]{1,10}) pearls$"= $1펄로 회복 구매
+r:"^Buy BACK SHIELD for ([0-9]{1,10}) pearls$"=$1펄로 후방 실드 구매
 r:"^Buy Inflatable Mine for ([0-9]{1,10}) pearls$"=$1펄로 풍선 지뢰 구매
 r:"^Buy Fizz'Nade for ([0-9]{1,10}) pearls$"=$1펄로 탄산 폭탄 구매
 r:"^Buy Water Balloon for ([0-9]{1,10}) pearls$"=$1펄로 물풍선 구매

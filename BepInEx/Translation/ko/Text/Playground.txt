@@ -33,7 +33,12 @@ SPOOKY=공포
 JUNGLE WARFARE=정글 전쟁
 MOUNTAINS=마운틴
 SPACE RACE=우주 개발 경쟁
-
+Player 1=플레이어 1
+Player 2=플레이어 2
+Player 3=플레이어 3
+Player 4=플레이어 4
+PRESS A TO JOIN=A 키를 눌러서 참가
+SELECT A CHARACTER=캐릭터 선택
 1st=1등
 2nd=2등
 3rd=3등
@@ -44,6 +49,11 @@ ELIMINATIONS=처치한 횟수
 NAPS=잠든 횟수
 
 Shiny Gun=반짝반짝 총
+
+r"YOU PUT PLAYER (\d) TO SLEEP"=플레이어 $1을(를) 잠들게 했습니다
+r"PLAYER (\d) PUT YOU TO SLEEP"=플레이어 $1이(가) 당신을 잠재웠습니다
+r:"^You put (.+) to sleep"=$1을(를) 잠들게 했습니다
+r:"^(.+) put you to sleep"=$1이(가) 당신을 잠재웠습니다
 
 //봇이름
 Demon Queen=Demon Queen
