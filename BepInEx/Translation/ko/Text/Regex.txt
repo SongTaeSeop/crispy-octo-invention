@@ -17,7 +17,6 @@ Orion=오리온
 Laser=레이저
 Rifle=라이플
 
-
 Crayon=크레용
 K-Pr-1=K-Pr-1
 Jolly=졸리
@@ -37,6 +36,7 @@ Model=모델
 Airburst=에어버스트
 Mag-Rail=매그-레일
 Storm=스톰
+'Storm'='스톰'
 Wasserpistole=워셔피스톨레
 Heavy=헤비
 Firework=폭죽
@@ -66,7 +66,6 @@ Desert=데저트
 Raptor=랩터
 Apep=아펩
 Staff=지팡이
-'Storm'='스톰'
 Gewehr=게베어
 
 Varmint=버민트
