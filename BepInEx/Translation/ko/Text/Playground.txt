@@ -50,8 +50,8 @@ NAPS=잠든 횟수
 
 Shiny Gun=반짝반짝 총
 
-r"YOU PUT PLAYER (\d) TO SLEEP"=플레이어 $1을(를) 잠들게 했습니다
-r"PLAYER (\d) PUT YOU TO SLEEP"=플레이어 $1이(가) 당신을 잠재웠습니다
+r"YOU PUT PLAYER (\d) TO SLEEP$"=플레이어 $1을(를) 잠들게 했습니다
+r"PLAYER (\d) PUT YOU TO SLEEP$"=플레이어 $1이(가) 당신을 잠재웠습니다
 r:"^You put (.+) to sleep"=$1을(를) 잠들게 했습니다
 r:"^(.+) put you to sleep"=$1이(가) 당신을 잠재웠습니다
 //맵
@@ -70,7 +70,7 @@ TESTING GROUND=테스팅 그라운드
 CATHEDRAL=대성당
 HYPERSPACE=하이퍼스페이스
 ATLANTIS=아틀란티스
-FACE TO FACE=면대면
+FACE TO FACE=면 대 면
 
 //기믹
 NUCLEAR BROCCOLI TEST INBOUND=핵 브로콜리 실험 발사체 접근 중

@@ -16,6 +16,7 @@ Regen Elixir=회복 엘릭서
 Heal 40hp + 4 Hp every second for 20 seconds=40 HP를 회복 + 20초 동안 매 초 4 씩 회복
 Heal 10hp + 2 Hp every second for 20 seconds=10 HP를 회복 + 20초 동안 매 초 2 씩 회복
 Tough'nough Elixir=튼튼 엘릭서
+Though'nough Elixir=튼튼 엘릭서//다른표기
 Take 80% less Damage for 30 seconds=30초 동안 80% 더 적은 피해를 받음
 Berserk Elixir=버서커 엘릭서
 Deal double damage for 20 seconds=20초 동안 적에게 2배의 피해를 줌
@@ -380,8 +381,10 @@ Royal Lance=로열 랜스
 A royal upgrade of the elven lance=엘프 랜스의 로열 업그레이드
 You got the Royal Lance !=로열 랜스를 손에 넣었다!
 Antimatter Rifle=반물질 라이플
+Antimater Rifle=반물질 라이플//인게임
 Charge to fire an orb that can be destroyed with the primary fire=충전 샷으로 구체를 발사할 수 있고, 구체는 일반 샷에 맞으면 폭발합니다
 You got the Antimatter Rifle !=반물질 라이플을 손에 넣었다!
+You got the Antimater Rifle !=반물질 라이플을 손에 넣었다! //인게임
 Gentleman's Tool=신사의 도구
 Charge to use the secondary barrel=충전 샷으로 두 번째 배럴을 사용합니다
 You got the Gentleman's Tool !=신사의 도구를 손에 넣었다!
@@ -487,10 +490,32 @@ You got the Ecto Blaster !=액토 블래스터를 손에 넣었다!
 
 You got the Widow's kiss !=과부의 키스를 손에 넣었다!
 You got the Widow 's kiss !=과부의 키스를 손에 넣었다!//인게임
-//Tales
+Staff of the Bundeads=번데드의 지팡이
+
+You got the Staff of the Bundeads=번데드의 지팡이를 손에 넣었다!
 BroomStick=부룸스틱
+
+You got the BroomStick !=부룸스틱을 손에 넣었다!
+
 Crearium Accelerator=크레아륨 가속기
+
+You got the Crearium Accelerator !=크레아륨 가속기를 손에 넣었다!
 Classic BB-11=클래식 BB-11
+
+You got the Classic BB-11 !=클래식 BB-11을 손에 넣었다!
+Spitfire=스핏파이어
+
+You got the Spitfire !=스핏파이어를 손에 넣었다!
+MaschinenPewpew=마스키넨퓨퓨
+
+You got the MaschinenPewpew !=마스키넨퓨퓨를 손에 넣었다!
+Jackhammer=잭해머
+
+You got the Jackhammer !=잭해머를 손에 넣었다!
+Electroscalpel=전기 메스
+
+You got the Electroscalpel !=전기 메스를 손에 넣었다!
+Zombieclaws=좀비 손
 
 //가젯
 Bubble Bracer=거품 브레이서
@@ -747,3 +772,4 @@ Beach Day=해변의 날
 Pool Party=수영장 파티 
 Froggy splash=개구리 스플래시
 Hazmat Suit=화학 방호복
+Bunnymancer=토끼술사
