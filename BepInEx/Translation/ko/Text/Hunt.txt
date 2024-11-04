@@ -8,6 +8,7 @@ Well at least rookies are fun to laugh at....hehe...=뭐 적어도 루키들을 
 Today's match is going to be a BLAST=오늘의 경기는 정말 엄청날 거야.
 Big money, Big prizes, I love it.=많은 상금. 큰 보상. 너무 좋아.
 Let's see how's today's challenger is going to do....hehe...=그럼 오늘 도전자의 활약을 보도록 해....히히...
+
 r:"Pro Soaker MK.(\d)"=프로 소커 MK.$1
 r:"Pro Zooka MK.(\d)"=프로 주카 MK.$1
 r:"Pro Railgun MK.(\d)"=프로 레일건 MK.$1

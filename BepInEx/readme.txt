@@ -42,16 +42,12 @@ Alt+0 으로 메뉴를 열어서 기계 번역을 돌릴 수 있습니다. 이�
 
 이야기가 나온 김에 해당 폴더에 있는 txt 파일 내용은 다음과 같습니다:
 
-  * main.txt: 메인 스토리(무기, 이야기) , 설정, 메뉴, What's new? 등
-  * Arcade.txt: 아케이드 중 Hunt와 Tales 내용
-  * Playground.txt: 아케이드 중 Playground 내용, 가장 짧음
-  * Regex.txt: 여러 단어 조합을 단어 단위로 번역한 것, 예를 들어,
-    Frisbee=프리스비
-    Tesla=테슬라
-    Balloon=풍선
-    Cannon=캐논
-    은 각각 프리스비 캐논, 테슬라 캐논, 풍선 캐논 무기
-	FT.txt: 빠른 이동 지명, 위의 버그로 인해 번역 금지
+  * main.txt: 메인 스토리, 메뉴, 설정, What's new?
+  * Hunt.txt: Arcade 중 Hunt 관련 내용
+  * Tales.txt: Arcade 중 Tales 관련 내용
+  * Playground.txt: Arcade 중 Playground 관련 내용
+  * Collectable.txt: 무기, 가젯, 의상 등 이름과 설명, Regex
+  * FT.txt: 빠른 이동 제목 (변경 금지)
 
 6. 감사의 말씀
 

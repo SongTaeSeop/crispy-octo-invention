@@ -1,8 +1,4 @@
-﻿LOADING...=불러오는 중...
-r:"^You got the (.+) !$"=$1을(를) 손에 넣었다!
-r:"^You got the (.+)!$"=$1을(를) 손에 넣었다!
-
-//튜토리얼-영상
+﻿//튜토리얼-영상
 Press [LeftMouseButton] to use your umbrella against enemies=[좌클릭]으로 우산을 사용해서 적을 공격할 수 있습니다.
 Press [RightMouseButton] to switch to AIM=[우클릭]으로 조준 모드로 전환할 수 있습니다.
 Press [F] to pick up Toys, Items and interact with characters=[F] 키로 장난감, 아이템을 줍거나 캐릭터들과 상호작용할 수 있습니다.
@@ -51,7 +47,7 @@ Gadget Ability 1=가젯 능력 1
 HELPING YOUR FRIEND...=친구를 도와주는 중...
 YOU ARE BEING SAVED=도움을 받는 중
 
-Ooooh ! Thanks for your purchase ! Come back when you want !=오오! 구매해 주어서 감사합니다! 다음에 또 놀러오렴 !
+
 PRESS ANY KEY=PRESS ANY KEY
 STORY MODE=STORY MODE
 ARCADE=ARCADE
@@ -269,6 +265,7 @@ Batteries capacity increased by 5=배터리 소지량이 5 증가했다
 YOU GOT A STAMINA EXPENSION !=스태미나 확장 키트를 손에 넣었다!
 Maximum Stamina capacity increased by 10=스태미나의 최대치가 10 증가했다
 
+//장난감상자
 ALL=전체
 TOYBOX=장난감상자
 ACCESSORY=액세서리
@@ -292,40 +289,44 @@ Ragg's=래그즈
 r:"Always a pleasure to see you, Carol(.+)"=언제나 만나서 반갑구나, 캐롤$1
 r:"Hihi my pumpkin(.+)"=히히 내 호박$1
 Welcome to Ragg's !=래그즈에 어서와!
-Ha ha ! Welcome to my mobile shop !=하 하! 내 상점에 어서와!
+Ha ha ! Welcome to my mobile shop !=하 하! 내 상점에 어서 와!
 What can i do for you ?=무엇을 도와줄까?
+Money equals pearls, pearls equasl money. Mmmmmm i love money=돈이 곧 펄이고, 펄이 곧 돈이지. 으으음 나는 돈이 좋아.
 r:"Go on, don't be scared, spend your pearls(.+)"=그래, 떨지 말고, 펄을 쓰는거야$1
-Thanks for your purchases !=구매해 주어서 감사합니다!
-Very very nice choice !=정말 정말 현명한 선택입니다!
+Thanks for your purchases !=사 줘서 정말 고마워!
+Ooooh ! Thanks for your purchase ! Come back when you want !=오오! 사 줘서 정말 고마워! 다음에 또 놀러오렴!
+Oooooh ! Thanks for your purchase ! Come back when you want !=오오! 사 줘서 정말 고마워! 다음에 또 놀러오렴!
+Thanks for your purchase ! Come back when you want !=사 줘서 정말 고마워! 다음에 또 놀러오렴!
+Very very nice choice !=정말 정말 현명한 선택이야!
+r:"Ah! Good choice(.+)"=아! 현명한 선택이야$1
+r:"Good choice(.+)"=현명한 선택이야$1
 I'm warning you, no refunds !=경고하는데, 환불을 없어!
-r:"Good choice(.+)"=잘 골랐어$1
-I like clients like you=너 같은 손님이 참 좋아
-r:"Ah! Good choice(.+)"=아! 잘 골랐어$1
-Ah ! I love clients like you=아 ! 너 같은 손님이 정말 좋아
-Oh i'm sure you will make good use of it !=오, 너라면 분명 잘 쓸 수 있을거야!
+I like clients like you=너 같은 손님이 정말 좋아.
+Ah ! I love clients like you=아! 너 같은 손님이 정말 좋아.
 Aaaaah... I love clients like you...=아아... 너 같은 손님이 정말 좋아...
-Thanks to you, i can buy a new cauldron !=고마워, 새 가마솥을 살 수 있겠어 !
-You should buy some more thingies...=너를 위해 준비했으니 꼭 사야해...
-Hurry up, i don't have many left.=서둘러, 이제 재고가 얼마 없어.
-Ooooh Hurry up, i don't have many left.=오오 서둘러, 이제 재고가 얼마 없어.
+Aaah... If all my clients were like you....hm !=아아... 만약 모든 손님이 너와 같았으면....흡 !
+Oh i'm sure you will make good use of it !=오, 너라면 분명 잘 쓸 수 있을거야!
+Thanks to you, i can buy a new cauldron !=고마워. 덕분에 새 가마솥을 살 수 있겠어!
+You should buy some more thingies...=너를 위해 준비했으니까 꼭 사야 해...
+Hurry up, i don't have many left.=서둘러. 이제 재고가 얼마 없어.
+Ooooh Hurry up, i don't have many left.=오오 서둘러. 이제 재고가 얼마 없어.
+Eh Hurry up, i don't have many left.=으, 서둘러. 이제 재고가 얼마 없어.
 If you want more, don't worry ! I'll go get some more !=더 많이 원한다면 걱정 마! 재고를 더 준비할게!
 I think i'm going to have to refill soon !=물건을 리필해야 겠어!
-Ah Nice look...=이야, 잘 어울려...
+Ah Nice look...=아, 잘 어울려...
 Ooooh looks good on you. !=오오 잘 어울려!
 Ooooh looks good on you...=오오 잘 어울려...
 Oooh... I think you're broke...=오... 돈이 없나 보구나...
 Oooh i can't do much if you are out of pearls...=오 펄이 모자라면 내가 해줄 수 있는 게 없어...
 r:"Come back when you want my pumpkin(.+)"=다음에 또 놀러오렴, 내 호박$1
 r:"Come back when you have more pearls my pumpkin(.+)"=펄을 많이 갖고 있다면 또 놀러오렴, 내 호박$1
-Oooooh ! Thanks for your purchase ! Come back when you want !=오오! 구매해줘서 고마워! 다음에 또 놀러오렴!
 Ah ! You won't regret it !=아! 후회하지 않을 거야!
-Eh Hurry up, i don't have many left.=으, 서둘러. 이제 재고가 얼마 없어.
-Money equals pearls, pearls equasl money. Mmmmmm i love money=돈 이퀄 펄. 펄 이퀄 돈. 으으음 나는 돈이 좋아.
+
 //터프
 You're back again to buy some stuff ?=또 사러 온 거야 ?
 Klank Klank All those pearls in my box, mmmm i love money=짤랑 짤랑 모든 펄들이 내 상자 속에, 으음 나는 돈이 좋아
-Sup.=섭.
-Uuuuh i'm not sure this one works i use it to scratch my back=어어 그건 어디에 쓰는지 잘 몰라 나는 등 긁을 때 사용해
+Sup.=왓섭.
+Uuuuh i'm not sure this one works i use it to scratch my back=어어... 나도 그건 어디에 쓰는 지 몰라. 등 긁을 때 쓰긴 해.
 Goodbye=안녕
 Ah !=아아 !//벤-인사
 Hihi.=히히.//막시그로-인사
@@ -347,7 +348,7 @@ Oooh hello and welcome to T-he-he-he Tough Corner=오오 안녕하세요 터-터
 Beep boop beep boop beep boooooop=삡 붑 삡 붑 삡 부우웁
 
 //맵
-CHROME FALLS=크로마 폴
+CHROMA FALLS=크로마 폴
 FAR LANDS=파 랜드
 RIVERSIDE=리버사이드
 GUMGUM SPEEDWAY=껌껌 스피드웨이
@@ -370,7 +371,7 @@ FULL METAL RAMPAGE=풀 메탈 광란
 THE GLACIER=더 글레이시어
 ALPINE GETAWAY=알파인 도주
 BOREALIS SEA=보리알리스 바다
-BATTLE FOR THE GLAHALLA=글랄할라를 위한 전투
+BATTLE FOR THE GLAHALLA=글랄할라를 건 전투
 ULLR'S FACTORY=울르의 공장
 RUSTY CANYON=러스티 캐니언
 SANDY KINGDOMS=모래가 많은 왕국
@@ -503,31 +504,7 @@ You found the Village key !=마을 키를 발견했다!
 
 .....Ow.....=......아우......
 
-
-
-//메탈기어캐롤
-Julie what is this ?...=줄리 이건 뭐야 ?...
-It's the Professor Sneaky Call app=박사님의 잠입 전화 앱이에요
-Pretty cool isn't it ?=멋지지 않나요 ?
-Looks REALLY outdated if I'm honest...=솔직히 말해서 되게 구식인 것 같아...
-Anyway Carol, there are lot of bad guys ahead=아무튼 캐롤, 앞에 나쁜 놈들이 있어요
-You gotta be sneaky !=반드시 잠입해야 해요 !
-I don't wanna be sneaky, I just want to shoot things.=잠입은 싫어, 그냥 전부 쏴버리고 싶어.
-Well you gonna have to sweatheart=그래야만 할 거에요 자기
-There is a mercenary base up ahead=저 앞에 용병 기지가 있어요
-It seems the way to the city of Pinewood is blocked by ice=파인우드 시티로 가는 길이 얼음으로 막혀있는 것 같아요
-If you can get inside the Dam, you should be able to build up pressure to break the ice=댐 안쪽으로 들어갈 수만 있다면, 수압을 높여서 얼음을 부술 수 있어요
-You need to infiltrate the base to activate the bridge to the Dam=댐으로 향하는 다리를 내리려면 먼저 기지에 침투해야 하죠
-Be careful, the base is full of security cameras=조심하세요, 기지에는 보안 카메라가 가득해요
-Also watch out for sniper towers=아 그리고 탑에 있는 스나이퍼에 주의하세요
-They might be big dumdums, they are still dangerous=바보같이 행동할 지 몰라도, 위험한 건 여전해요
-I bet I can do it 00 Agent style.=나는 00 에이전트 스타일로 잠입해야지.//007-패러디
-What do you mean ?=무슨 말이에요 ?
-Don't worry about it.=아무 것도 아니야.
-
 You found a Key=열쇠를 찾았다
-
-
 
 //크로마폴-마을
 Charles=찰스
@@ -547,7 +524,7 @@ Do you know how plushies are made?=인형이 어떻게 만들어지는지 알아
 ...I will explain that to you later.=...나중에 설명해드릴게요.
 George=조지
 I like shorts, they are pretty comfy.=나는 반바지가 좋아, 쾌적하거든.
-I'm more of a skirt person myself.=나는 스커트 쪽이 좀더 좋다고 생각해.
+I'm more of a skirt person myself.=나는 스커트 쪽이 좀 더 좋다고 생각해.
 My grandmother started walking five miles a day when she was sixty. She's ninety-seven now, and we don't know where the hell she went.=내 할머니는 60세일 적부터 하루에 8KM 씩 걷기 시작했지. 올해로 97세이신데 어디로 가신 건지 모르겠어.
 You should probably go look for her...=할머니를 찾으러 가시는게 좋겠어요...
 Lilith=리리스
@@ -586,6 +563,8 @@ Rozi=로지
 There is this old guy and his robot assistant that arrived in the village not long ago, they know lots of things!=최근에 이 마을에 노인 한 분과 로봇 조수가 왔는데, 엄청 똑똑하더라!
 The Bon Cochon makes the best meals!=본 코숀 음식은 정말 최고야!
 Now that you mention it I am quite hungry...=그 말 들으니까 배고파졌어요...
+
+//막대기
 Hello there!=안녕하세요!
 ...Wait what are you even selling?...=...잠시만요 팔긴 하는 건가요?...
 Shopkeeper=상점 주인
@@ -597,7 +576,6 @@ You are the worst businessman ever...=당신은 정말 최악의 판매원이에
 If you bought my sticks I would be better...=막대기를 사줬다면 최악의 판매원까진 아니겠지...
 Actually since you are my first client I'll let you buy the gun.=사실 내 첫 손님이기도 하거든 총을 살 수 있게 해 줄게.
 ...Great.=...좋아요...
-Buy DRENCHER for 100 pearls=100 펄로 드렌처 구매
 I used to work at a library in Corpopolis, but the pressure of the city was too much, I'm much happier in the Far Lands.=이전에는 코퍼폴리스의 도서관에서 일했어, 하지만 도시의 스트레스를 견딜 수 없더라고, 지금 파랜드가 훨씬 좋아.
 Provencal=프로방살
 Do you know where the volcano is?=화산이 어디에 있는지 알아요?
@@ -613,20 +591,20 @@ Noupi has quests?=누피가 퀘스트를 준다고요?
 Yes, but I think they might be too mysterious for me. The 'Get Lost' quest is quite hard to understand.=맞아, 하지만 내 생각에는 정말 수수께끼같아. 그 '길을 잃다' 퀘스트는 이해하기 너무 어려워.
 Right...=그렇군요...
 Mimi=미미
-H-H-Hello...=아-아-안녕...
+H-H-Hello...=아... 아... 안녕...
 Hi!=안녕!
-I-I-I was supposed to play my mime show at Rottenlake City but...=나-나-나는 로튼레이크 시티에서 마임쇼를 하기로 했는데...
+I-I-I was supposed to play my mime show at Rottenlake City but...=내... 내... 내가 로튼레이크 시티에서 마임쇼를 하기로 했는데...
 But?=했는데?
 AAAAAAH! TOO MUCH PRESSURE!!!=아아아! 너무 긴장돼!!!
-P-P-Provencal is really a nice guy but.... I don't always understand what he says...=프-프-프로방살은 정말 친절하신 분이야 하지만... 난 항상 그가 무슨 말을 하는지 모르겠어...
+P-P-Provencal is really a nice guy but.... I don't always understand what he says...=프... 프... 프로방살은 정말 친절하신 분인데... 항상 그가 무슨 말을 하는지 모르겠어...
 
 //래그즈-만남
-Aaaargh!=으악!
-Hello my Little pumpkin, what's your name ?=안녕 꼬마 호박님, 이름이 뭔가요 ?
-Uh... Carol=어... 캐롤이요 
-Haha ! Welcome to my mobile shop !=하하 ! 내 이동식 상점에 온 것을 환영합니다!
-I'm Ragg's !=나는 래그즈라고 해 !
-I'm selling plenty of things ! I got some toys to improve your arsenal=다양한 물건들을 팔고 있어 ! 무기고를 채워주는 장난감도 팔고
+Aaaargh!=으아악!
+Hello my Little pumpkin, what's your name ?=안녕, 꼬마 호박. 이름이 어떻게 되니?
+Uh... Carol=어... 캐롤이요.
+Haha ! Welcome to my mobile shop !=하하! 내 상점에 어서 와!
+I'm Ragg's !=나는 래그즈라고 해!
+I'm selling plenty of things ! I got some toys to improve your arsenal=여러 물건들을 팔지!  무기고를 채워주는 장난감도 팔고
 I'm selling a bunch of elixirs with ton of different effects !=다양한 효과를 지닌 엘릭서도 팔지 !
 I'm also selling ton of gadgets, like fruity bombs, if you want to blow some Frorcs up or if you are hungry nyehe...=그리고 수많은 가젯도 있어, 예를 들어 이 과일 폭탄으로 프로오크를 날려버리거나 배고프면 흐흐...
 And if you want to change your look, i got outfits your size !=그리고 스타일을 바꾸고 싶은 너를 위해 딱 맞는 옷들도 준비했단다!
@@ -713,7 +691,7 @@ HELLOOO!=저기요!
 You are not very polite little girl.=예의를 모르는 소녀구나.
 What do you need?=무엇이 필요하신가요?
 I would like to get through that gate.=이 게이트 너머로 가고 싶은데요.
-It's 3500 pearls for humans.=인간 1명에 3500 펄입니다.
+It's 3500 pearls for humans.=인간 1명에 3500펄입니다.
 Wow what a rip-off!!!=우와 정말 바가지네요!!!
 Mmmhh I have a better idea...=음 더 좋은 아이디어가 있는데요...
 OPEN THE GATE AND HAND OVER THE CASH!!!=지금 당장 문 열고 돈 내놔!!!
@@ -1148,6 +1126,26 @@ Find more to unlock secrets !=비밀을 풀려면 더 많이 찾아야 해 !
 
 YETI=예티
 
+//메탈기어캐롤
+Julie what is this ?...=줄리 이건 뭐야 ?...
+It's the Professor Sneaky Call app=박사님의 잠입 전화 앱이에요
+Pretty cool isn't it ?=멋지지 않나요 ?
+Looks REALLY outdated if I'm honest...=솔직히 말해서 되게 구식인 것 같아...
+Anyway Carol, there are lot of bad guys ahead=아무튼 캐롤, 앞에 나쁜 놈들이 있어요
+You gotta be sneaky !=반드시 잠입해야 해요 !
+I don't wanna be sneaky, I just want to shoot things.=잠입은 싫어, 그냥 전부 쏴버리고 싶어.
+Well you gonna have to sweatheart=그래야만 할 거에요 자기
+There is a mercenary base up ahead=저 앞에 용병 기지가 있어요
+It seems the way to the city of Pinewood is blocked by ice=파인우드 시티로 가는 길이 얼음으로 막혀있는 것 같아요
+If you can get inside the Dam, you should be able to build up pressure to break the ice=댐 안쪽으로 들어갈 수만 있다면, 수압을 높여서 얼음을 부술 수 있어요
+You need to infiltrate the base to activate the bridge to the Dam=댐으로 향하는 다리를 내리려면 먼저 기지에 침투해야 하죠
+Be careful, the base is full of security cameras=조심하세요, 기지에는 보안 카메라가 가득해요
+Also watch out for sniper towers=아 그리고 탑에 있는 스나이퍼에 주의하세요
+They might be big dumdums, they are still dangerous=바보같이 행동할 지 몰라도, 위험한 건 여전해요
+I bet I can do it 00 Agent style.=나는 00 에이전트 스타일로 잠입해야지.//007-패러디
+What do you mean ?=무슨 말이에요 ?
+Don't worry about it.=아무 것도 아니야.
+
 //파인우드시티
 Welcome to the city of Pinewood=파인우드 시티에 오신 것을 환영합니다.
 You should use the cable car to head to the Glacier=글레이시어로 가려면 케이블카를 이용해야 해요.
@@ -1243,12 +1241,12 @@ If y..u g..t BzzzgrrttttXzzzzzt M..ssage .... bzzzzzzzt Borealis Sea.....xcz=만
 ATLAS=아틀라스
 ATLAS - HEAD=아틀라스 - 머리
 
-Finaly ! I'm able to reach you !=드디어 ! 연락이 닿았네요 !
-Oh hi Julie, i was getting worried=그래 안녕, 줄리. 걱정하던 참이었어
-What did you do, the Corporation is really after you.=도대체 무슨 짓을 한 거죠, 코퍼레이션이 당신을 전력으로 쫓고 있어요.
-I broke one of their big toys=내가 그 녀석들 장난감 하나를 망가뜨렸거든
-You need to get away from here fast !=빨리 거기서 도망가세요 !
-I think i got just the thing.=지금 딱 좋은 것을 발견했거든.
+Finaly ! I'm able to reach you !=드디어 ! 연락이 닿았네요!
+Oh hi Julie, i was getting worried=안녕, 줄리. 걱정하던 참이었어.
+What did you do, the Corporation is really after you.=도대체 무슨 짓을 한 거에요. 코퍼레이션이 당신을 전력으로 쫓고 있어요.
+I broke one of their big toys=내가 그 녀석들 장난감 하나를 망가뜨렸거든.
+You need to get away from here fast !=빨리 거기서 도망치세요!
+I think i got just the thing.=지금 딱 필요한 게 여기 있네.
 TYPHON 3=TYPHON 3
 POSEIDON 4=POSEIDON 4
 FUEL PUMP=FUEL PUMP
@@ -1257,94 +1255,93 @@ NAUTILUS 2=NAUTILUS 2
 ATLANTIS 1=ATLANTIS 1
 
 Meanwhile...=한편...
-For now we stick to our plans=지금까지는 계획대로 가고 있어
-So... what now ?=그래서... 어떻게 할 거야 ?
-The Boss has tasked us to find those artifacts=보스의 지시대로 유물을 계속 찾아야지
-But we still have no idea where to look=하지만 아직 아무런 단서가 없어
+For now we stick to our plans=지금은 계획을 수정하지 않을 거야.
+So... what now ?=그래서... 어떻게 할 건데?
+The Boss has tasked us to find those artifacts=보스의 지시대로 유물을 계속 찾아야지.
+But we still have no idea where to look=하지만 아직 아무런 단서가 없어.
 And those outbreaks are worrying...=그리고 폭동도 걱정이야...
-They are... And it's only going to get worse.=그렇지... 게다가 상황은 악화될 뿐이야.
-And what about our ''Secondary'' objective ?=그리고 우리의 "두 번째" 목표는 어떻고 ?
-What a cute lil guy=아유 귀여워라
-We keep it around for now... I don't think the time is right yet=일단 우리가 계속 갖고 있어야 해... 아직 때가 되진 않았어
-She will keep chasing us around though=그 여자아이는 계속 쫓아오겠지
-Yeah, apparently she already caused havoc in the glacier=그래, 이미 글레이시어에서 대혼란을 일으킨 것 같아
+They are... And it's only going to get worse.=그렇지... 게다가 상황은 악화되고 있고.
+And what about our ''Secondary'' objective ?=또, 우리의 "두 번째" 목표는 어떻게 할래?
+What a cute lil guy=아유 귀여워라.
+We keep it around for now... I don't think the time is right yet=지금은 우리가 계속 갖고 있어야지... 아직 때가 되진 않았어.
+She will keep chasing us around though=그 여자아이는 계속 쫓아올거야.
+Yeah, apparently she already caused havoc in the glacier=그래. 이미 글레이시어에서 대혼란을 일으킨 것 같아.
 How is she so fast...=정말 빠르군...
-No matter... For now we'll head back to my base, and use the teleporter there...=뭐 됐어... 일단은 기지로 복귀한다, 거기서 텔레포터를 사용할거야...
-...And get some ice cream for Umbra=...거기서 움브라를 위한 아이스크림도 챙겨야지
+No matter... For now we'll head back to my base, and use the teleporter there...=뭐 됐어... 일단은 기지로 복귀한다. 거기서 텔레포터를 사용할거야...
+...And get some ice cream for Umbra=...거기서 움브라를 위한 아이스크림도 챙겨야지.
 
-Oh hi there !=오 안녕 !
-Who are you ?=넌 누구야 ?
+Oh hi there !=어, 안녕!
+Who are you ?=넌 누구야?
 Romeo=로미오
-My name is Romeo, I'm a messenger=내 이름은 로미오, 메시지를 전하러 왔어
-My cute Julie was worried that your phone would lose connection again, so she sent me to greet you !=내 귀여운 줄리가 또 전화가 안 통할까봐 걱정하더라고, 그래서 너를 만나 달라는 부탁을 받고 온 거야 !
-Everybody is waiting for you at the Narr village next to the Glalhalla's gates=글랄할라의 게이트 옆에 나르 마을에서 모두가 너를 기다리고 있어
-You see that giant tree over there ? The village is right under it=거대한 나무 보여 ? 마을이 바로 저 나무 아래에 있어
-Julie said you need to go join them immediately, so don't go around exploring !=줄리가 마을로 가야 한다고 말했어, 그러니까 딴 길로 새지 마 !
-You would probably get lost anyway !=어차피 미아가 되겠지만 말이야 !
+My name is Romeo, I'm a messenger=내 이름은 로미오, 메시지를 전하러 왔어.
+My cute Julie was worried that your phone would lose connection again, so she sent me to greet you !=내 귀여운 줄리가 또 전화가 안 통할까봐 걱정하더라고. 그래서 너를 만나달라는 부탁을 받고 온 거야!
+Everybody is waiting for you at the Narr village next to the Glalhalla's gates=글랄할라의 게이트 옆에 나르 마을에서 모두가 너를 기다리고 있어.
+You see that giant tree over there ? The village is right under it=저기 거대한 나무 보여? 마을이 바로 저 나무 아래에 있어.
+Julie said you need to go join them immediately, so don't go around exploring !=줄리가 곧장 마을로 오라고 말했으니까, 딴 길로 새면 안 돼!
+You would probably get lost anyway !=어차피 길을 잃고 헤맬지도 모르겠지만!
 That's a really big tree...=진짜 큰 나무네...
-I'll see you there !=저쪽에서 보자고 !
+I'll see you there !=저쪽에서 보자고!
 
-Carol please head for the Village under the giant tree, we really need you right now.=캐롤 제발 거대한 나무 아래 마을로 가주세요, 우리에겐 당신이 정말 필요해요.
+Carol please head for the Village under the giant tree, we really need you right now.=캐롤, 제발 거대한 나무 아래에 있는 마을로 가주세요. 우리에겐 당신이 지금 정말 필요해요.
 
-PARTS REQUIRED=부품이 필요함
 
-//글랄할라-마을
+//글랄할라-마을-야를
 Narr=나르
-Look it's her !=봐, 그녀야 !
-The dreamwalking Valkyrie !=몽유의 발키리 !
+Look it's her !=저기 봐, 그녀야!
+The dreamwalking Valkyrie !=몽유의 발키리!
 She's tiny.=꼬마잖아.
-Do you think the legends are true ?=전설이 사실인거야 ?
-I hope so because i think i left my turkey in the oven.=그랬으면 좋겠어 오븐에 칠면조를 두고 온 거 같아서 말이야.
-You sure took your time ! Everyone was waiting for you young lady !=늦었군 ! 모두가 너를 기다리고 있었어 !
+Do you think the legends are true ?=전설이 사실인거야?
+I hope so because i think i left my turkey in the oven.=그랬으면 좋겠어. 오븐에 칠면조를 두고 온 거 같아서 말이야.
+You sure took your time ! Everyone was waiting for you young lady !=늦었잖아! 모두가 너를 기다리고 있었어!
 Wait a second, how come you two are here before me ?=잠깐만, 왜 둘이 여기에 있는거죠?
 When i left the Chroma falls you were still at the village.=제가 크로마 폴을 떠날 때까지만 해도 마을에 계속 있었잖아요.
-Well... the professor fixed his teleportotron and we teleported here directly=그게... 박사님이 텔레포토트론을 고쳐서 바로 이곳으로 텔레포트할 수 있었어요
+Well... the professor fixed his teleportotron and we teleported here directly=그게... 박사님이 텔레포토트론을 고쳐서 바로 이곳으로 텔레포트할 수 있었어요.
 Wait... if you could teleport here directly what was the point of me going through the mountains...=잠깐만... 여기로 바로 텔레포트할 수 있었다면, 내가 산을 넘어간 건 뭐가 되는 거죠...
-Well that's a nice questio...=자, 좋은 질문이에요...
-No point at all ! You could have waited in the village with us sipping hot chocolate ! We didn't even have to walk !=완전 헛걸음이었지 ! 마을에서 핫초코나 마시면서 기다릴 걸 ! 손 하나 까딱할 필요조차 없었다고 !
+Well that's a nice questio...=자, 좋은 질문인데요...
+No point at all ! You could have waited in the village with us sipping hot chocolate ! We didn't even have to walk !=완전 헛걸음이었지! 마을에서 핫초코나 마시면서 기다릴 걸! 손 하나 까딱할 필요조차 없었다고!
 Okay i'm leaving.=네, 그럼 이만.
-Carol Wait !=캐롤 기다려요 !
+Carol Wait !=캐롤 기다려요!
 We have a plan.=계획이 있어요.
-We know where the Generals are=우린 4장군이 어디에 있는지 알고 있어
+We know where the Generals are=우린 4장군이 어디에 있는지 알고 있어.
 and how to get your BUNNY back.=토끼를 되찾는 방법도 알고 있지.
 General Lilpea=릴피아 장군
-Enough chit chat, we don't have much time.=수다는 거기까지, 우리에겐 시간이 없어.
-Allow me to introduce myself=내 소개를 하지
-I am Lilpea, General of the Narr resistance against the Corporation !=나는 릴피아, 코퍼레이션에 대항하는 나르 저항군의 장군이지 !
-I've heard of your feats miss, and i want YOU to lead my soldiers to battle!=자네의 공적은 익히 알고 있네, 그리고 부디 내 군사들을 이끌어 주게!
+Enough chit chat, we don't have much time.=잡담은 거기까지. 우리에겐 시간이 없어.
+Allow me to introduce myself=내 소개를 하지.
+I am Lilpea, General of the Narr resistance against the Corporation !=내 이름은 릴피아, 코퍼레이션에 대항하는 나르 저항군의 장군일세!
+I've heard of your feats miss, and i want YOU to lead my soldiers to battle!=자네의 공적은 익히 알고 있네. 그리고 부디 내 군사들을 이끌어 주게!
 Jarl Bearstruff=야를 베어스트루프
-ENOUGH !=그만 !
-Lilpea, Professor... I trust you both. As a warrior and as a friend=릴피아, 박사님... 나는 둘을 믿었지. 하나의 전사로서, 그리고 하나의 친구로서
-We might have an alliance between your soldiers and my warriors=당신의 군사들과 우리의 전사들 사이에 동맹을 맺을 정도로 말이야
+ENOUGH !=그만!
+Lilpea, Professor... I trust you both. As a warrior and as a friend=릴피아, 박사님... 나는 둘을 믿었지. 하나의 전사로서, 그리고 하나의 친구로서 말이야.
+We might have an alliance between your soldiers and my warriors=당신의 군사들과 우리 전사들 사이는 동맹 관계와도 같지.
 But this girl, i don't know who she is.=하지만 이 아이, 이 소녀는 누구냐.
 She just look like a regular little girl to me...=나에게는 평범한 소녀로밖에 보이지 않는데...
 I'm not going to let my warriors be led by a mere child.=우리 전사들을 이 단순한 아이에게 맡길 수는 없어.
 Meng=멍
-Mr.Bear !=베어님 !
+Mr.Bear !=베어님!
 This little girl right here...=이 소녀라면...
-Could probably take both you and your warriors on... and make you beg for your Mama=베어님과 당신의 전사들을 모두 상대할 수 있을 겁니다... 베어님이 져서 엄마한테 이르러 갈 정도로요
-Is that so ?=그 정도로 ?
+Could probably take both you and your warriors on... and make you beg for your Mama=베어님과 당신의 전사들을 모두 상대할 수 있을 겁니다... 베어님이 져서 엄마한테 이르러 갈 정도로요.
+Is that so ?=그 정도로?
 Then please let me see for myself...!=그렇다면 내 눈으로 직접 확인해야 겠군...!
 In battle !=결투다!
 I usually wouldn't fight a child, as this is against my code of honor=원래라면 내 신념에 따라 아이와 싸우지 않겠지만,
 But since you are apparently so strong, what do you say ?=하지만 너가 그 정도로 강하다면, 어떻게 할 거냐?
 Finaly something interesting around here.=드디어 좀 재미있어지네.
-i'll take you on, Honeybag.=상대해 주지, 곰돌이.
+i'll take you on, Honeybag.=상대해 주지. 곰돌이.
 
-Do you think she will be okay ?=그 아이, 괜찮을까 ?
+Do you think she will be okay ?=그 아이, 괜찮을까?
 Blueberry=블루베리
-Duuuude I saw that girl take on hordes of Frorcs=당연하지 프로오크 무리랑 맞서 싸우는 것을 봤거든
-She's gonna be fiiiiiine=분명 괜찮을 거야
-Just get ready for a nice display of violence !=치열한 싸움이 될 테니까, 지켜나 보라고 !
-Finaly a worthy opponent ! Come ! Our battle will be legendary !=드디어 걸맞은 상대를 만났군 !\n덤벼라 ! 우리들의 전투는 전설이 될 것이다!
+Duuuude I saw that girl take on hordes of Frorcs=당연하지 프로오크 무리랑 맞서 싸우는 것을 봤거든.
+She's gonna be fiiiiiine=분명 괜찮을 거야.
+Just get ready for a nice display of violence !=치열한 싸움이 될 테니까, 지켜나 보라고!
+Finaly a worthy opponent ! Come ! Our battle will be legendary !=드디어 걸맞은 상대를 만났군!\n덤벼라! 우리들의 전투는 전설이 될 것이다!
 
 JARL BEARSTRUFF=야를 베어스트루프
-So ? Am I good enough for you, Honeybag ?=그래서 ? 이 정도면 충분히 강한거지, 곰돌이 ?
+So ? Am I good enough for you, Honeybag ?=그래서? 이 정도면 충분히 강한거지, 곰돌이?
 BWA HA HAHAH HA HAHA HAHA !=으하하 하하하하!
-I like you kid !=마음에 드는구나, 꼬마야 !
+I like you kid !=마음에 드는구나, 꼬마야!
 ...She is really strong...=...진짜 강해...
-And you saw nothing !=저건 아무 것도 아니라니까 !
-Let's head back for now=그럼 돌아갈까요
+And you saw nothing !=저건 아무 것도 아니라니까!
+Let's head back for now=그럼 돌아갈까요.
 
 The Corporation built their ice cream factory on our sacred Glalhalla mountain=코퍼레이션이 우리의 성스러운 글랄할라 산에 아이스크림 공장을 지었어 //야를
 Preventing us from gathering the sacred ice to make our icecreams=성스러운 얼음을 그 놈들의 아이스크림으로 만들려고 말이야
@@ -1670,8 +1667,7 @@ I cannot allow you to set foot in this cursed place...=너는 이 저주받은 �
 Your pure soul will be tainted.=순수한 영혼이 더러워지게 될거야.
 I set foot where I want, and your face seem like a nice spot.=나는 가고 싶은 데로 갈거야, 네 얼굴 위라든가.
 
-Aaah... If all my clients were like you....hm !=아아... 만약 모든 손님이 너와 같았으면....흡 !
-Thanks for your purchase ! Come back when you want !=구매해 주어서 감사합니다! 다음에 또 놀러오렴 !
+
 
 Right, see ya.=그래, 안녕.
 Cough, Cough, Patsy.=쿨럭, 쿨럭, 호구.
@@ -1731,7 +1727,7 @@ Actually...=사실은...
 It would be really nice if you could take care of...=너가 꼭 처리해줬으면 하는 사람이 있는데...
 DAISY !=데이지 !
 EMILY !=에밀리 !
-What is this brat doing here ?!=이 꼬맹이는 여기서 뭐하는거지 ?!
+What is this brat doing here ?!=이 애새끼는 여기서 뭐하는거지 ?!
 Hey angry lady.=안녕, 화난 언니.
 Are you here for round two ?=2차전을 치르려고 왔어요?
 Yes, but let's do it the right way.=그래, 하지만 이번엔 정정당당한 방법으로 하자.
@@ -1743,18 +1739,18 @@ Then we begin.=그럼 시작하지.
 Enough of your tricks Daisy.=잔재주도 거기까지다, 데이지.
 Emily, did you grow some guts lately ?=에밀리, 요새 간이 배 밖으로 나왔네 ?
 If you can't play fair against a child, then i'm not scared of you.=어린 아이 상대로 편법이나 부리는 녀석따윈 무섭지 않아.
-Now we can begin.=이제 진짜 시작이겠네.
+Now we can begin.=이제 시작할 수 있겠어.
 Hey guess what ?= 저기, 시간이 늦었죠?
 What.=뭐가.
 It's high Noon.=석양이 진다.
 No it's n...=아니, 아직...
 Ouuch..=으억..
-you BRAT.=이 꼬맹이가.
+you BRAT.=이 애새끼가.
 Sore loser.=패배자 녀석.
 //기차
 Sorry Niña, I gotta go=미안 꼬마, 바빠서 말이야
-Oh No !=안 돼 !
-She's getting away !=도망치고 있어 !
+Oh No !=안 돼!
+She's getting away !=도망치고 있어!
 Come on miss Emily !=빨리 에밀리씨!
 we have a train to catch=열차를 쫓아 가야 해요
 Come on just a lil bit closer !=제발, 조금만 더 !

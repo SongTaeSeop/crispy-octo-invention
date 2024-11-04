@@ -23,9 +23,9 @@ MELEE ONLY=근접전
 RECOMMENDED=추천
 DEFAULT SET=기본 세트
 TOURNAMENT=토너먼트
-Corporation=코퍼레이션
+CORPORATION=코퍼레이션
 DOUBLE AGENT=이중 요원
-Explosives=폭발물
+EXPLOSIVES=폭발물
 FAIRYLAND=페어리랜드
 FESTIVE=축제
 GANGSTER=갱스터
@@ -33,10 +33,9 @@ SPOOKY=공포
 JUNGLE WARFARE=정글 전쟁
 MOUNTAINS=마운틴
 SPACE RACE=우주 개발 경쟁
-Player 1=플레이어 1
-Player 2=플레이어 2
-Player 3=플레이어 3
-Player 4=플레이어 4
+CAROL DUTY=캐롤 듀티
+
+Player=플레이어
 PRESS A TO JOIN=A 키를 눌러서 참가
 SELECT A CHARACTER=캐릭터 선택
 1st=1등
@@ -73,7 +72,8 @@ ATLANTIS=아틀란티스
 FACE TO FACE=면 대 면
 
 //기믹
-NUCLEAR BROCCOLI TEST INBOUND=핵 브로콜리 실험 발사체 접근 중
+Splashball=스플래시 볼
+
 //봇이름
 Demon Queen=Demon Queen
 A hat with a gun=A hat with a gun
@@ -116,3 +116,6 @@ Gertato=Gertato
 Bunbun<3=Bunbun<3
 La Baguette=La Baguette
 UmbraGaming=UmbraGaming
+Forgotten toys=Forgotten toys
+PoopypopperMeta=PoopypopperMeta
+MimiTheMime=MimiTheMime
