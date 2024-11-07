@@ -46,7 +46,6 @@ RANK=순위
 SCORE=점수
 ELIMINATIONS=처치한 횟수
 NAPS=잠든 횟수
-
 Shiny Gun=반짝반짝 총
 
 r"YOU PUT PLAYER (\d) TO SLEEP$"=플레이어 $1을(를) 잠들게 했습니다
