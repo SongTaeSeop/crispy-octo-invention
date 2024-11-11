@@ -507,6 +507,9 @@ You got the BroomStick !=부룸스틱을 손에 넣었다!
 Crearium Accelerator=크레아륨 가속기
 
 You got the Crearium Accelerator !=크레아륨 가속기를 손에 넣었다!
+Mega Toaster=메가 토스터
+
+You got the Mega Toaster !=메가 토스터를 손에 넣었다!
 Classic BB-11=클래식 BB-11
 
 You got the Classic BB-11 !=클래식 BB-11을 손에 넣었다!
