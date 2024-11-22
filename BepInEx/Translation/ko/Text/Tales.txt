@@ -26,6 +26,7 @@ ERDBEERMOND=ERDBEERMOND
 CHROMA BOMB=CHROMA BOMB
 TOTAL REFILL=TOTAL REFILL
 DOUBLE DAMAGE=DOUBLE DAMAGE
+TICKET=TICKET//카니발
 
 //맵
 AREA-15=15 구역
@@ -41,7 +42,7 @@ Somewhere in the polar sea...=극해의 어딘가...
 HIKARI NO SAITEN=히카리 노 사이텐
 Somewhere in the mountains...=산 중턱 어딘가...
 ACADEMY OF EVIL=악의 아카데미
-Lecordier's Witchcraft Public School=레코르디아의 공립 마법 학교
+Lecordier's Witchcraft Public School=르코르디에 공립 마법 학교
 CATASTROPHE OF THE MOON=달의 재앙
 CARNIVAL OF SHADOWS=카니발 오브 섀도우
 On Halloween Night...=핼러윈 밤...
@@ -57,7 +58,7 @@ SUMMER SLIME BLAST 4=SUMMER SLIME BLAST 4
 Uchimizu District=우치미주 구역
 PARK ENTRY=공원 입구
 
-JOLLYVILLE HARBOR=졸리빌리 하버
+JOLLYVILLE HARBOR=졸리빌 하버
 
 Minako Yūrei=미나코 유레이
 SODA=소다
@@ -72,7 +73,7 @@ r:"^([0-9]{1,10}) pearls to upgrade your weapon"=$1펄로 무기 업그레이드
 r:"^([0-9]{1,10}) pearls to activate the generator$"=$1펄로 발전기 작동
 r:"^([0-9]{1,10}) pearls to Activate TRAP$"=$1펄로 함정 작동
 r:"^([0-9]{1,10}) pearls to use the Teleporter$"=$1펄로 텔레포터 사용
-r:"^([0-9]{1,10}) Pearls to use the Teleporter$"=$1펄로 텔레포터 사용//미들스쿨
+r:"^([0-9]{1,10}) Pearls to use the Teleporter$"=$1펄로 텔레포터 사용//중학교
 r:"^([0-9]{1,10}) pearls to call Nine to help$"=$1펄로 나인에게 도움 요청
 PARTS REQUIRED=부품이 필요함
 Soda=소다
@@ -80,7 +81,6 @@ Heal=회복
 Cotton Candy=솜사탕
 BACK SHIELD=후방 실드
 SPLASH JACKET=스플래시 재킷
-
 
 //악의-아카데미
 Defeat school Bullies=학교 불량 학생들을 해치워라

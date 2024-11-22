@@ -1,13 +1,13 @@
 DMG DEALT=가한 피해량
 DMG TAKEN=맞은 피해량
 ROOKIE's DOME=ROOKIE's DOME
-Oh...Hello and welcome to Tough TV !=어... 안녕. 터프 TV에 온 것을 환영해 !
+Oh...Hello and welcome to Tough TV !=어... 안녕, 터프 TV에 온 걸 환영해!
 Live from the Rookie's Dome=루키스 돔에서 라이브 중이야.
 That is a lot of spectators for a training session=리허설인데도 관객들이 많이 찾아와 줬어.
-Well at least rookies are fun to laugh at....hehe...=뭐 적어도 루키들을 보면 재밌잖아... 히히...
+Well at least rookies are fun to laugh at....hehe...=뭐, 신참들을 지켜보는 것도 재밌잖아... 히히...
 Today's match is going to be a BLAST=오늘의 경기는 정말 엄청날 거야.
 Big money, Big prizes, I love it.=많은 상금. 큰 보상. 너무 좋아.
-Let's see how's today's challenger is going to do....hehe...=그럼 오늘 도전자의 활약을 보도록 해....히히...
+Let's see how's today's challenger is going to do....hehe...=그럼 오늘 도전자의 활약을 보도록 해... 히히...
 
 r:"Pro Soaker MK.(\d)"=프로 소커 MK.$1
 r:"Pro Zooka MK.(\d)"=프로 주카 MK.$1
@@ -42,6 +42,6 @@ DOWNED=쓰러진 횟수
 DAMAGE TAKEN=맞은 피해량
 DAMAGE DEALT=가한 피해량
 Final Score:=최종 점수:
-RETRY=다시 시도
+RETRY=재시작
 EXIT=나가기
 Victory !=Victory !
