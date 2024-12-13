@@ -80,7 +80,7 @@ Soda Sprayer=소다 스프레이
 
 You got the Soda Sprayer !=소다 스프레이를 손에 넣었다!
 Sniper Rifle=스나이퍼 라이플
-If you need glasses.=돋보기가 필요하다면.
+If you need glasses.=돋보기가 필요할 때 사용하세요.
 You got the Sniper Rifle !=스나이퍼 라이플을 손에 넣었다!
 Aquommando=아쿠만도
 Shoot like there is no tomorrow=내일은 생각하지 말고 쏴라

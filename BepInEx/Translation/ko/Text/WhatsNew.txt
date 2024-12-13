@@ -1,0 +1,58 @@
+//Whats-new
+New features !\n\n- Carol got a new face model\n- added the ability to Walljump\n- ledge grabbing can now be used on any flat surface instead of only specific spots\n\n- added 13 new outfits\n- added 12 new weapons\n=새 기능!\n\n- 캐롤에게 새로운 얼굴 모델이 생겼습니다\n- 벽 점프 기능을 추가하였습니다\n- 이제까지 특수한 장소에서만 가능한 절벽 잡기가 이제 모든 평평한 절벽에 매달릴 수 있습니다\n\n- 13개의 새로운 의상\b- 12개의 새로운 무기\n
+
+SUMMER SLIME BLAST 4 and new movement options !=SUMMER SLIME BLAST 4와 새로운 동작 옵션!
+
+New Tales map !\n\nTake on the slimes once more in the district of Uchimizu, located in Corpopolis !\n\nBut be careful, the Slimes learned new tricks !=새로운 Tales 맵!\n\n코르포폴리스의 우치미주 자치구에서 슬라임과 다시 한번 싸우세요!\n\n하지만 조심하세요, 슬라임들이 새로운 기술을 배웠습니다!
+
+New features !\n\n- NEW MELEE SYSTEM !\n\n- Standing, moving and crouching and airborn have unique combo strings\n- Sliding have a kick attack\n- long jump have a dive kick attack\n- belly flopping have a roll attack\n- Pixie dash have a spin attack\n- Sprinting have a should bash\n- diving have a spiking attack\n\n- NEW BLOCK SYSTEM\n\n- Holding the dodge/sprint button when not moving (B on controller) will cause Carol to enter a blocking stance, blocking any incomming damage.\n- When blocking, Stamina is used as "Shield", if it reach zero, Carol will be stunned\n- after blocking a hit, you can do a counter attack\n=새 기능!\n\n- 새로운 근접전 시스템!\n\n- 가만히 서있기, 움직이기, 웅크리기, 공중에 떠있기 상태에서 고유의 근접전 연타 공격이 추가되었습니다\n- 슬라이딩은 발차기 공격이 추가되었습니다\n- 멀리 뛰기는 다이브 킥 공격이 추가되었습니다\n- 엎드리기는 구르기 공격이 추가되었습니다\n- 픽시 대시는 스핀 공격이 추가되었습니다\n- 달리기는 어깨 밀치기가 추가되었습니다a should bash- 다이브는 내려 찍기 공격이 추가되었습니다\n\n- 새로운 막기 시스템\n\n- 움직이지 않은 상태에서 회피/달리기 버튼을 누르면 (컨트롤러의 B버튼) 캐롤은 막기 상태에 도입해 들어오는 공격을 막습니다.\n- 막는 동안 스테미나가 "실드"로 사용되며, 스테미나가 0이 되면 캐롤은 기절합니다\n- 공격을 막는 즉시 반격이 가능합니다\n
+
+VERSUS (PLAYGROUND) MODE OVERHAUL AND ENGINE UPGRADE !=VERSUS  (PLAYGROUND) 모드가 개편 및 엔진 업그레이드!
+
+Versus mode has been reworked from scratch !\n\nIt is no longer a multiplayer only game mode, in fact, you can now add up to 15 Carols bots !\n\nNew gamemodes, new maps, new settings !\n\nPlay a variety of team based gamemodes, or fight for your own glory !\n\nYou can also customize the match with weapon sets, abilities and more !=Versus 모드가 처음부터 새로 재작업되었습니다!\n\n 이제 멀티플레이어 전용 모드가 아닙니다, 정확히는 최대 15명의 캐롤 봇을 추가할 수 있습니다!\n\n 새로운 게임 모드, 새로운 맵, 새로운 설정!\n\n다양한 팀 기반 게임 모드를 즐기거나, 영광을 위해 싸우세요!\n\n또한 무기 세트, 능력 등을 맞춤 설정할 수 있습니다! 
+
+New features !\n\n- Carol can now walljump while aiming\n- Added a setting to change Carol voice and subtitles separatly\n- Added Real time reflection setting\n- Added Global illumination setting\n- Reworked the Sparkle Mortar\n- Reworked the Laser oscillator\n- New engine version\n- Fixed issues with the water in chroma falls temple\n- New pressure pistol model\n- New weapons !\n- Probably a lot of stuff i forgot about !=새 기능!\n\n- 캐롤은 이제 조준 모드에서 벽 점프를 할 수 있습니다\n- 캐롤의 목소리와 자막을 따로 설정할 수 있는 설정이 추가되었습니다\n- 실시간 반사 설정이 추가되었습니다\n- 글로벌 일루미네이션 설정이 추가되었습니다\n- 반짝반짝 박격포를 재작업했습니다\n- 레이저 발진기를 재작업했습니다\n- 새로운 엔진 버전\n- 크로마 폴 유적의 물과 관련된 문제를 고쳤습니다\n- 새로운 프레셔 피스톨 모델\n- 새로운 무기!\n- 아마도 내가 까먹은 많은 것들!
+
+During October and November, we will be releasing a lot of content !\n\nWe are starting with a new Tales map, HIGH TENSION !\n\n\n\n=10월과 11월 동안 많은 콘텐츠를 제공할 예정입니다!\n\n새로운 Tales 맵, HIGH TENSION으로 시작합니다!\n\n\n\n
+
+The season of Tricks & Treats begins !=트릭 & 트리트 시즌이 시작했습니다!
+
+Part2 of the season of Tricks & Treats is here !=트릭 & 트리트 시즌의 파트 2가 공개됩니다!
+
+Part3 of the season of Tricks & Treats is here !=트릭 & 트리트 시즌의 파트 3가 공개됩니다!
+
+During October and November, we will be releasing a lot of content !\n\nWe released a newTales map, HIGH TENSION !\nNow get ready for a Hunt map full of spooky surprises, Death Valley !\n\n=10월과 11월 동안 많은 콘텐츠를 제공할 예정입니다!\n\n새로운 Tales 맵, HIGH TENSION으로 시작합니다!\n이제 무서운 서프라이즈로 가득한 Hunt 맵, Death Valley를 만날 시간입니다!\n\n
+
+In the Chroma Falls village, a strange altar has appeared.....\n\nApproach it to start the Halloween challenge and claim your terrifying prize !\n\n=크로마 폴 마을에 이상한 제단이 나타났습니다.....\n\n제단에 다가가서 핼러윈 챌린지를 시작하고 끔찍한 보상을 획득하세요 !\n\n
+
+New Tales map !\n\nFollow Carol in her quest to learn magic, at the same school Ragg's attended, The Lecordier's Public witchcraft school !\n\ncomplete each task to become the strongest little witch, while avoiding all the traps other students are laying for you....=새 Tales 맵!\n\n래그즈가 다니던 학교 레코르디아 공립 마법 학교에서 캐롤과 함께 마법을 배워보세요!\n\n다른 학생들이 심어 놓은 함정을 피하면서 과제를 수행해 가장 강력한 꼬마 마녀가 되어 보세요....
+
+New Tales map !\n\nHelp Carol defend New Jolly City against the army of Toybots !\n\n\nFree gift !\n\n- You can get the ladybun outfit at the Chroma falls village near the christmas tree=새 Tales 맵! \n\n 캐롤을 도와 장난감 로봇 군단으로부터 뉴 졸리 시티를 지켜내세요!\n\n\n 무료 선물!\n\n- 크로마 폴 마을의 크리스마스 트리 근처에서 레이디번 의상을 얻을 수 있습니다
+
+New features !\n\n- New health bar system for enemies\n\n- Critical points ! You can now aim at enemies heads to deal extra headshot damage\n\n- you can now use the Pixie Dash underwater\n\n- New gameplay settings in the setting menu\n\n- Experimental FPS mode ! (still have some bugs and do not work in splitscreen)\n\n - new weapon drawing animations=새 기능!\n\n- 적에 대한 새로운 체력 시스템\n\n- 치명타 포인트! 이제 적의 머리를 조준하면 추가 헤드샷 피해를 줄 수 있습니다\n\n- 이제 물 속에서 픽시 대시를 사용할 수 있습니다\n\n- 설정 메뉴의 새로운 게임플레이 설정\n\n- 실험적 FPS 모드! (아직 버그가 있으며 화면 분할 모드에서 작동하지 않음)\n\n 새로운 무기 꺼내기 애니메이션
+
+New features !\n\n- New quick melee ! (press the use key to do it when there is nothing to use nearby)\n\n- Reworked inferno valley lighting\n- Ladybun outfit added to tough corner\n- Hunt Smg rework\n- Hunt Gadget reworks\n	- Flak bomb\n	- Ice mine\n	- Sentry gun\n	- Electro punch\n	- Shield projector\n- new Boomstick model=새 기능!\n\n- 새로운 빠른 근접 공격! (근처에 아무것도 상호작용할 것이 없는 상태에서 상호작용 버튼을 누르면 공격합니다)\n\n- 재작업된 인페르노 밸리 조명 효과\n-레이디번 의상이 터프 코너에 추가되었습니다\n- Hunt Smg 재작업\n- Hunt 가젯 재작업\n   - 플라크 폭탄\n	- 얼음 지뢰\n	- 센트리 건\n	- 일렉트로 펀치\n	- 실드 프로텍터\n- 새로운 붐스틱 모델
+
+New Hunt map !\n\nFight off the Corporation during the year of the Bunbun festival on the lunar esplanade !=새 Hunt 맵!\n\n루나 에스플러네이드에서 개최하는 번번의 해 페스티벌 동안 코퍼레이션과 맞서 싸우세요!
+
+New features !\n\n- New gadget system !\nNow gadgets are bound to two buttons, like abilities, and work on cooldowns. You can only carry two now.\n\n- Reworked Elixirs into super powerful buffs that got their own slots.\n\n-Reworked toybox so Guns and Gadgets are saved as soon as you find / buy one\n\n- Most gadgets have been rebalanced to fit the new system=새 기능!\n\n- 새 가젯 시스템!\n이제 능력처럼 가젯이 2개의 버튼에 할당되며, 쿨타임이 적용됩니다. 이제 최대 2개까지만 들고 다닐 수 있습니다. \n\n- 재작업된 엘릭서는 매우 강력한 버프를 제공하며 고유한 슬롯을 차지합니다. \n\n- 재작업된 장난감상자는 이제 발견한 / 구매한 모든 총과 가젯을 저장합니다 \n\n- 대부분의 가젯이 새 시스템에 맞게 조정되었습니다
+
+New Adventure chapter !\n\nExplore the magestic city of Alhibdae !=새로운 어드벤처 챕터!\n\n알히브데의 마법의 도시를 탐험하세요!
+
+New Adventure area, the WINDY MEADOWS !=새로운 모험 지역, WINDY MEADOWS!
+
+Set between the Inferno valley and the Shining Treetops, we are adding a new adventure area !\n\nBut why add a new level between those two you might ask ?\nWe felt that early Onirism lacked a bit of the variety of the later levels, so we wanted to improve the pace of the early game !\n\nExplore the new meadows using brand new vehicles ! and discover all it's secrets !=인페르노 밸리와 샤이닝 트리톱 사이에 새로운 어드벤처 에어리어가 추가되었습니다!\n\n그런데 왜 새로운 에어리어 만들었나요 ?\nOnirism의 앞부분이 뒷부분보다 다양성 부분이 조금 부족하다고 느꼈습니다. 그래서 앞부분에 다양성을 추가하기 원했기 때문입니다!\n\n 새로운 탈 것을 타고 초원을 탐색하세요! 그리고 모든 비밀을 찾아보세요!
+
+New features !\n\n- Carol now has proper hands, goodbye square sausage fingers\n- Improved some of the old outfits models\n- added 15 new outfits !\n- Carol can now carry 4 extra guns, from 5 to 9 !\n- new damage over time system\n- added 3 new weapons\n- HUGE weapon balance patch, check the steam patchnotes for more info !=새 기능!\n\n- 캐롤은 이제 적절한 손을 얻었습니다, 잘 있어 네모난 소시지 손가락\n- 몇 몇 오래된 의상 모델을 개선했습니다\n- 15개의 새로운 의상이 추가되었습니다!\n- 캐롤은 이제 4개의 총을 더 들고 다니며, 5개에서 9개로 늘어났습니다!\n- 새로운 시간 비례 피해량 시스템\n- 새로운 무기 3개\n- 엄청난 무기 밸런스 패치, 더 자세한 정보는 Steam 패치 노트를 확인해주세요!
+
+AREA 15 REWORK=AREA 15 재 작업
+
+The Area 15 tales map got a complete overhaul !\n=Area 15 Tales 맵이 개편되었습니다!\n
+
+BUNNYMANCER EVENT=토끼술사 이벤트
+
+Visit Ragg's Carnival of shadows brand new reopenning !\n\nShe could afford massive renovations thanks to you guys =래그즈의 카니발 오브 섀도우가 브랜드 뉴 오픈!\n\n여러분들의 노력 덕분에 래그즈가 대규모 개편을 감행할 수 있었습니다.
+
+Carnival of Shadows remake !=카니발 오브 섀도우 리메이크!
+
+Fear the rise of the bunnymancer !\n\nHead to the meadows if you dare, and find the bundead tree, and complete the bunnymancer challenge to win a new outfit !\n\nCongratulation to SunshineMemoir for winning the halloween contest !=토끼술사의 등장을 두려워하라!\n\n감히 초원에 가서, 번데드 나무를 찾고, 토끼술사 챌린지를 마쳐, 새 의상을 얻을 생각은 꿈에도 말라!\n\n핼러윈 콘테스트에서 우승한 SunshineMemoir님을 축하해주세요!

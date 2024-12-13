@@ -42,12 +42,15 @@ Alt+0 으로 메뉴를 열어서 기계 번역을 돌릴 수 있습니다. 이�
 
 이야기가 나온 김에 해당 폴더에 있는 txt 파일 내용은 다음과 같습니다:
 
-  * main.txt: 메인 스토리, 메뉴, 설정, What's new?
+  * main.txt: 메인 스토리, 메뉴, 설정
+  * RaggsBen.txt: 상점 대화 내용만 따로
   * Hunt.txt: Arcade 중 Hunt 관련 내용
   * Tales.txt: Arcade 중 Tales 관련 내용
   * Playground.txt: Arcade 중 Playground 관련 내용
-  * Collectable.txt: 무기, 가젯, 의상 등 이름과 설명, Regex
+  * Collectable.txt: 무기, 가젯, 의상 등 이름과 설명, RegEx
   * FT.txt: 빠른 이동 제목 (변경 금지)
+  * WhatsNew.txt: What's new? 업데이트 내용
+ 
 
 6. 감사의 말씀
 
